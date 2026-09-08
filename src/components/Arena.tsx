@@ -463,11 +463,17 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
   const availablePlayableHeight = Math.max(100, arenaSize.h); // arenaRef is inside flex-1, already excludes HUD/Deck in DOM flow, except Question which is absolute but doesn't shrink main.
   const availablePlayableWidth = arenaSize.w;
   
-  const scaleW = Math.min(1, availablePlayableWidth / 1024);
-  const scaleH = Math.min(1, availablePlayableHeight / 600);
+  const MIN_SCALE = 0.45;
+  const MAX_SCALE = 2.0;
+
+  const scaleW = availablePlayableWidth / 1024;
+  const scaleH = availablePlayableHeight / 600;
   
   // Dynamic composition scale
-  const compositionScale = Math.max(0.45, Math.min(1, Math.min(scaleW, scaleH)));
+  const compositionScale = Math.max(
+    MIN_SCALE,
+    Math.min(MAX_SCALE, Math.min(scaleW, scaleH))
+  );
   
   const VISUAL_SCALE = 0.5 * compositionScale;
   const FIRE_VISUAL_SCALE = 0.85 * compositionScale;
@@ -605,6 +611,7 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
           gameStateRef.current = 'MISSION_COMPLETE';
           setGameState('MISSION_COMPLETE');
           sharedAudioEngine.stopRotor();
+          rafId = requestAnimationFrame(loop);
           return; // Stop processing this frame to prevent mutations
         }
       }
