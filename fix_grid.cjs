@@ -1,0 +1,8 @@
+const fs = require('fs');
+let code = fs.readFileSync('src/components/Arena.tsx', 'utf-8');
+
+const regexGrid = /      \{\/\* DEDICATED SAFE ANSWER REGION \(For Narrow Mobile Screens\) \*\/\}\n      \{gameState === 'PLAYING' && hotspotEngine\.getHotspots\(\)\.length > 0 && \(\n        <div className="w-full bg-slate-900 border-t-2 border-slate-700 p-2 shrink-0 z-40 shadow-\[0_-10px_20px_rgba\(0,0,0,0\.5\)\] md:hidden">\n          <div className="grid grid-cols-2 gap-2 w-full max-w-lg mx-auto">\n            \{hotspotEngine\.getHotspots\(\)\.filter\(h => h\.displayContent\)\.sort\(\(a, b\) => \{\n                 \/\/ Stable deterministic shuffle based on hotspot ID\n                 let hashA = 0; for\(let i=0; i<a\.id\.length; i\+\+\) hashA = Math\.imul\(31, hashA\) \+ a\.id\.charCodeAt\(i\) \| 0;\n                 let hashB = 0; for\(let i=0; i<b\.id\.length; i\+\+\) hashB = Math\.imul\(31, hashB\) \+ b\.id\.charCodeAt\(i\) \| 0;\n                 return hashA - hashB;\n               \}\)\.map\(\(hotspot, idx\) => \(\n               <button \n                  key=\{'btn_'\+hotspot\.id\}\n                  onClick=\{[\s\S]*?\}                  className="bg-slate-800 border border-slate-600 hover:bg-slate-700 text-white font-bold py-2 sm:py-3 px-2 rounded-lg text-sm shadow-sm whitespace-normal break-words leading-tight active:scale-95 transition-transform touch-manipulation"\n               >\n                  \{hotspot\.displayContent\}\n               <\/button>\n            \)\)\}\n          <\/div>\n        <\/div>\n      \)\}\n\n/g;
+
+code = code.replace(regexGrid, '');
+fs.writeFileSync('src/components/Arena.tsx', code);
+console.log('Removed mobile grid');

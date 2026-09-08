@@ -1,0 +1,12 @@
+type ObstacleType = 'BIRD' | 'CLOUD';
+interface Obstacle {
+  id: string;
+  type: ObstacleType;
+  x: number;
+  y: number;
+  vx: number;
+  vy: number;
+  radius: number;
+  width?: number;
+  height?: number;
+}

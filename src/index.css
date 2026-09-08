@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@keyframes rotor-spin {
+  from {
+    transform: translateX(-50%) rotateY(0deg);
+  }
+  to {
+    transform: translateX(-50%) rotateY(360deg);
+  }
+}
+
+.rotor-spin-anim {
+  animation: rotor-spin 0.3s linear infinite;
+}
+
+@keyframes rotor-spin-pure {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+.rotor-spin-anim-pure {
+  animation: rotor-spin-pure 0.3s linear infinite;
+}
