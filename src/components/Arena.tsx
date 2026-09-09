@@ -611,6 +611,7 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
           gameStateRef.current = 'MISSION_COMPLETE';
           setGameState('MISSION_COMPLETE');
           sharedAudioEngine.stopRotor();
+          sharedAudioEngine.stopWater();
           rafId = requestAnimationFrame(loop);
           return; // Stop processing this frame to prevent mutations
         }
@@ -791,12 +792,8 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
           if (visualRef.current) {
             const bob = prefersReducedMotion ? 0 : Math.sin(time / 300 + (playerId === 'P2' ? Math.PI : playerId === 'P3' ? Math.PI / 2 : playerId === 'P4' ? Math.PI * 1.5 : 0)) * 8;
             const tilt = prefersReducedMotion ? 0 : (entity.vx / 600) * 15;
-            visualRef.current.style.transform = `translate3d(${entity.x - scaledWidth / 2}px, ${entity.y - scaledHeight / 2 + bob}px, 0) rotate(${tilt}deg)`;
+            visualRef.current.style.transform = `translate3d(${entity.x - scaledWidth / 2}px, ${entity.y - scaledHeight / 2 + bob}px, 0) scaleX(${entity.facingDirection}) rotate(${tilt * entity.facingDirection}deg)`;
             
-            if (imgRef.current) {
-              imgRef.current.style.transform = `scaleX(${entity.facingDirection})`;
-            }
-
             // Refill
             if (entity.x < refillZoneWidth && gameStateRef.current === 'PLAYING') {
               entity.refillWater();
@@ -807,7 +804,7 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
             let activeDropX = entity.x;
             let activeDropY = groundY;
             if (streamRef.current) {
-              if (gameStateRef.current === 'PLAYING' && entity.isValveOpen && entity.currentWater > 0) {
+              if (gameStateRef.current === 'PLAYING' && entity.isSpraying) {
                 isWaterFlowing = true;
                 const dropGlobalY = entity.y - scaledHeight / 2 + bob + assetData.definition.dropPoint.y * VISUAL_SCALE;
                 const dropGlobalX = entity.x;
@@ -1353,11 +1350,11 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
 
       if (gameStateRef.current === 'PLAYING') {
         let anyValveOpen = false;
-        if (entityP1.isValveOpen && entityP1.currentWater > 0) anyValveOpen = true;
-        if (gameModeRef.current !== 'SOLO' && entityP2.isValveOpen && entityP2.currentWater > 0) anyValveOpen = true;
+        if (entityP1.isSpraying) anyValveOpen = true;
+        if (gameModeRef.current !== 'SOLO' && entityP2.isSpraying) anyValveOpen = true;
         if (gameModeRef.current === 'SQUAD') {
-          if (entityP3.isValveOpen && entityP3.currentWater > 0) anyValveOpen = true;
-          if (entityP4.isValveOpen && entityP4.currentWater > 0) anyValveOpen = true;
+          if (entityP3.isSpraying) anyValveOpen = true;
+          if (entityP4.isSpraying) anyValveOpen = true;
         }
 
         if (anyValveOpen && !wasValveOpenRef.current) {
@@ -1622,6 +1619,7 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
       captureSessionResult();
       setGameState('MISSION_COMPLETE');
       sharedAudioEngine.stopRotor();
+      sharedAudioEngine.stopWater();
     }
   };
 
@@ -2503,12 +2501,41 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
                   ✅ Hasil berhasil disimpan!
               </div>
             )}
-            <button 
-              onClick={handlePlayAgain}
-              className="px-12 py-4 bg-gradient-to-b from-blue-500 to-blue-600 hover:from-blue-400 hover:to-blue-500 text-white font-bold text-xl rounded-xl shadow-xl transition-colors cursor-pointer touch-manipulation flex-shrink-0 mb-8 border border-blue-400/30 animate-pop-in" style={{ animationDelay: '0.2s' }}
-            >
-              MAIN LAGI
-            </button>
+            <div className="flex flex-col sm:flex-row gap-4 mb-8 flex-shrink-0 animate-pop-in" style={{ animationDelay: '0.2s' }}>
+              <button 
+                onClick={handlePlayAgain}
+                className="px-8 py-4 bg-gradient-to-b from-blue-500 to-blue-600 hover:from-blue-400 hover:to-blue-500 text-white font-bold text-lg rounded-xl shadow-xl transition-colors cursor-pointer touch-manipulation border border-blue-400/30"
+              >
+                🔄 MAIN LAGI
+              </button>
+              
+              {onReturnToMenu && (
+                <button 
+                  onClick={() => {
+                    if (document.fullscreenElement && document.exitFullscreen) {
+                      document.exitFullscreen().catch(() => {});
+                    }
+                    onReturnToMenu();
+                  }}
+                  className="px-8 py-4 bg-gradient-to-b from-slate-700 to-slate-800 hover:from-slate-600 hover:to-slate-700 text-white font-bold text-lg rounded-xl shadow-xl transition-colors cursor-pointer touch-manipulation border border-slate-500/30"
+                >
+                  🏠 KEMBALI KE MENU
+                </button>
+              )}
+
+              {isFullscreen && (
+                <button 
+                  onClick={() => {
+                    if (document.exitFullscreen) {
+                      document.exitFullscreen().catch(() => {});
+                    }
+                  }}
+                  className="px-8 py-4 bg-gradient-to-b from-slate-700 to-slate-800 hover:from-slate-600 hover:to-slate-700 text-white font-bold text-lg rounded-xl shadow-xl transition-colors cursor-pointer touch-manipulation border border-slate-500/30"
+                >
+                  ⛶ KELUAR FULLSCREEN
+                </button>
+              )}
+            </div>
               </div>
             </div>
           </div>

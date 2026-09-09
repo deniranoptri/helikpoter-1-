@@ -15,7 +15,9 @@ export class HelicopterEntity {
   maxWater: number = 100;
   currentWater: number = 100;
   isValveOpen: boolean = false;
-  waterDepletionRate: number = 20; // 20 units per second (5 seconds of water)
+  wasValveOpen: boolean = false;
+  isSpraying: boolean = false;
+  sprayTimer: number = 0;
 
   public update(dt: number, arenaWidth: number, arenaHeight: number) {
     // Movement logic...
@@ -81,13 +83,28 @@ export class HelicopterEntity {
       this.vy = 0;
     }
 
-    // Water Depletion
-    if (this.isValveOpen && this.currentWater > 0) {
-      this.currentWater -= this.waterDepletionRate * dt;
-      if (this.currentWater < 0) {
-        this.currentWater = 0;
+    // Water Depletion (Edge-Triggered)
+    if (this.isValveOpen && !this.wasValveOpen) {
+      if (this.currentWater > 0) {
+        const WATER_COST_PER_ACTION = 100 / 3;
+        this.currentWater -= WATER_COST_PER_ACTION;
+        if (this.currentWater < 0.1) {
+          this.currentWater = 0;
+        }
+        this.isSpraying = true;
+        this.sprayTimer = 0.5; // 500ms spray
       }
     }
+
+    if (this.isSpraying) {
+      this.sprayTimer -= dt;
+      if (this.sprayTimer <= 0 || !this.isValveOpen) {
+        this.isSpraying = false;
+        this.sprayTimer = 0;
+      }
+    }
+
+    this.wasValveOpen = this.isValveOpen;
   }
 
   public refillWater() {
