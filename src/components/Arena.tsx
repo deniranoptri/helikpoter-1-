@@ -2276,13 +2276,13 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
 
           {/* Helicopters */}
           <div ref={visualP1Ref} className="absolute top-0 left-0 will-change-transform pointer-events-none drop-shadow-[0_20px_20px_rgba(0,0,0,0.4)] z-40" style={{ transformOrigin: '50% 25%' }}>
-            <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP1 * 0.9, height: scaledHeightP1 * 0.0625, marginTop: `-${scaledHeightP1 * 0.03125}px`, top: `${assetP1.definition.rotorOffset.y}%`, left: `${assetP1.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
+            <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP1 * 0.9, height: scaledHeightP1 * 0.0625, top: `${assetP1.definition.rotorOffset.y}%`, left: `${assetP1.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
             <img ref={imgP1Ref} src={assetP1.definition.assetUrl} alt="P1 Helicopter" style={{ width: scaledWidthP1, height: scaledHeightP1 }} className="select-none relative z-10" draggable={false} />
           </div>
 
           {(gameMode === 'DUEL' || gameMode === 'SQUAD') && (
             <div ref={visualP2Ref} className="absolute top-0 left-0 will-change-transform pointer-events-none drop-shadow-[0_20px_20px_rgba(0,0,0,0.4)] z-30" style={{ transformOrigin: '50% 25%' }}>
-              <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP2 * 0.9, height: scaledHeightP2 * 0.0625, marginTop: `-${scaledHeightP2 * 0.03125}px`, top: `${assetP2.definition.rotorOffset.y}%`, left: `${assetP2.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
+              <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP2 * 0.9, height: scaledHeightP2 * 0.0625, top: `${assetP2.definition.rotorOffset.y}%`, left: `${assetP2.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
               <img ref={imgP2Ref} src={assetP2.definition.assetUrl} alt="P2 Helicopter" style={{ width: scaledWidthP2, height: scaledHeightP2 }} className="select-none relative z-10" draggable={false} />
             </div>
           )}
@@ -2290,11 +2290,11 @@ export function Arena({ config, onReturnToMenu }: { config?: ArenaConfig, onRetu
           {gameMode === 'SQUAD' && (
             <>
               <div ref={visualP3Ref} className="absolute top-0 left-0 will-change-transform pointer-events-none drop-shadow-[0_20px_20px_rgba(0,0,0,0.4)] z-20" style={{ transformOrigin: '50% 25%' }}>
-                <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP3 * 0.9, height: scaledHeightP3 * 0.0625, marginTop: `-${scaledHeightP3 * 0.03125}px`, top: `${assetP3.definition.rotorOffset.y}%`, left: `${assetP3.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
+                <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP3 * 0.9, height: scaledHeightP3 * 0.0625, top: `${assetP3.definition.rotorOffset.y}%`, left: `${assetP3.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
                 <img ref={imgP3Ref} src={assetP3.definition.assetUrl} alt="P3 Helicopter" style={{ width: scaledWidthP3, height: scaledHeightP3 }} className="select-none relative z-10" draggable={false} />
               </div>
               <div ref={visualP4Ref} className="absolute top-0 left-0 will-change-transform pointer-events-none drop-shadow-[0_20px_20px_rgba(0,0,0,0.4)] z-10" style={{ transformOrigin: '50% 25%' }}>
-                <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP4 * 0.9, height: scaledHeightP4 * 0.0625, marginTop: `-${scaledHeightP4 * 0.03125}px`, top: `${assetP4.definition.rotorOffset.y}%`, left: `${assetP4.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
+                <img src={UNIVERSAL_ROTOR_URL} alt="Main Rotor" className="absolute rotor-spin-anim select-none" style={{ width: scaledWidthP4 * 0.9, height: scaledHeightP4 * 0.0625, top: `${assetP4.definition.rotorOffset.y}%`, left: `${assetP4.definition.rotorOffset.x}%`, transformOrigin: 'center center' }} draggable={false} />
                 <img ref={imgP4Ref} src={assetP4.definition.assetUrl} alt="P4 Helicopter" style={{ width: scaledWidthP4, height: scaledHeightP4 }} className="select-none relative z-10" draggable={false} />
               </div>
             </>

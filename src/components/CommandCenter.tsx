@@ -173,11 +173,11 @@ export function CommandCenter({ onStart }: CommandCenterProps) {
              </button>
            </div>
            
-            <div className="w-24 sm:w-32 md:w-48 lg:w-80 drop-shadow-[0_20px_30px_rgba(0,0,0,0.5)] animate-heli-float z-10 relative max-h-[160px] sm:max-h-[200px] lg:max-h-[320px] flex justify-center lg:justify-start">
+            <div className="h-[120px] sm:h-[160px] md:h-[240px] lg:h-[320px] aspect-[213/320] drop-shadow-[0_20px_30px_rgba(0,0,0,0.5)] animate-heli-float z-10 relative">
              <div className="absolute pointer-events-none z-0" style={{ width: '90%', height: '6.25%', top: '9.6%', left: '46.5%', transform: 'translateX(-50%)' }}>
                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEKlLFfpdZuK2iCwu9K4P0fxw_KEVJJ4HabQ-t5K_KQEUyIa_g8VyredSQpxaqeGUJMFbacdLWpH-EoFY9lM0FrRMn_0hi0bQNjU3e-hwb0nJX988eD7BDl2qZ1oJeGloW4zm9YuvGdp9rgFfFSBLr8iQzXLeX__G_Tbq3-Ve3YHDEOM96JOjAEAIm_Do/s320/Rotor.png" alt="Main Rotor" className="rotor-spin-anim-pure select-none w-full h-full block" style={{ transformOrigin: 'center center' }} draggable={false} />
              </div>
-             <img src="https://raw.githubusercontent.com/deniranoptri/media/sibungas/Helikopter%20Hijau.png" alt="Heli Rescue Mascot" className="w-full h-auto object-contain relative z-10" draggable={false} />
+             <img src="https://raw.githubusercontent.com/deniranoptri/media/sibungas/Helikopter%20Hijau.png" alt="Heli Rescue Mascot" className="w-full h-full object-contain relative z-10" draggable={false} />
            </div>
         </div>
 
