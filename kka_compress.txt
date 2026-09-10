@@ -1,0 +1,300 @@
+ID: FD-KKA-001
+J_ORIG: Menyaring (filtering) atau mengurutkan (sorting) data pada kolom Eskul Pilihan
+J_NEW: 
+P0_ORIG: Membaca daftar nama siswa dari urutan nomor 1 hingga 100 secara berulang
+P0_NEW: 
+P1_ORIG: Menghapus semua data siswa yang tidak mengikuti eskul Basket dari memori
+P1_NEW: 
+P2_ORIG: Membuat tabel baru setiap kali ada satu orang siswa yang mendaftar
+P2_NEW: 
+
+ID: FD-KKA-002
+J_ORIG: Mengikuti langkah-langkah resep memasak nasi goreng dari awal hingga siap disajikan
+J_NEW: 
+P0_ORIG: Menggambar bebas di atas kertas kosong tanpa tujuan tertentu
+P0_NEW: 
+P1_ORIG: Berbicara secara spontan (improvisasi) saat menceritakan sebuah dongeng
+P1_NEW: 
+P2_ORIG: Memilih baju secara acak dari dalam lemari saat terburu-buru
+P2_NEW: 
+
+ID: FD-KKA-003
+J_ORIG: Dekomposisi
+J_NEW: 
+P0_ORIG: Pengenalan Pola
+P0_NEW: 
+P1_ORIG: Abstraksi
+P1_NEW: 
+P2_ORIG: Desain Algoritma
+P2_NEW: 
+
+ID: FD-KKA-004
+J_ORIG: Sistem tidak memberikan diskon (0%) karena syarat tidak terpenuhi
+J_NEW: 
+P0_ORIG: Sistem memberikan diskon 10% karena Rp45.000 mendekati Rp50.000
+P0_NEW: 
+P1_ORIG: Sistem membatalkan transaksi karena uang tidak cukup
+P1_NEW: 
+P2_ORIG: Sistem memberikan diskon secara acak tergantung programnya
+P2_NEW: 
+
+ID: FD-KKA-005
+J_ORIG: 2 - 3 - 4 - 1
+J_NEW: 
+P0_ORIG: 3 - 2 - 4 - 1
+P0_NEW: 
+P1_ORIG: 2 - 4 - 3 - 1
+P1_NEW: 
+P2_ORIG: 1 - 2 - 3 - 4
+P2_NEW: 
+
+ID: FD-KKA-006
+J_ORIG: Abstraksi
+J_NEW: 
+P0_ORIG: Dekomposisi
+P0_NEW: 
+P1_ORIG: Evaluasi Data
+P1_NEW: 
+P2_ORIG: Debug Algoritma
+P2_NEW: 
+
+ID: FD-KKA-007
+J_ORIG: Pengenalan Pola (Pattern Recognition)
+J_NEW: 
+P0_ORIG: Pengulangan Logika (Looping)
+P0_NEW: 
+P1_ORIG: Penyandian Data (Enkripsi)
+P1_NEW: 
+P2_ORIG: Pembuatan Pseudocode
+P2_NEW: 
+
+ID: FD-KKA-008
+J_ORIG: Pejalan kaki tidak akan pernah bisa menyeberang jalan, karena pada langkah 3 (saat kendaraan berhenti) mereka seharusnya diizinkan menyeberang.
+J_NEW: 
+P0_ORIG: Langkah nomor 1 salah, karena mobil seharusnya berhenti saat lampu hijau menyala.
+P0_NEW: 
+P1_ORIG: Lampu kuning seharusnya dilewati saja dari urutan algoritma karena membuang waktu.
+P1_NEW: 
+P2_ORIG: Algoritma sudah sangat benar dan aman bagi pejalan kaki.
+P2_NEW: 
+
+ID: FD-KKA-009
+J_ORIG: Gempa bumi dengan magnitudo 5.0 terjadi di lepas pantai selatan pada hari Senin pukul 10.00 WIB.
+J_NEW: 
+P0_ORIG: Cuaca di pantai selatan sangat indah dan menenangkan pikiran setiap hari Senin.
+P0_NEW: 
+P1_ORIG: Menurut saya, gempa bumi adalah bencana yang paling menakutkan dari semua bencana alam.
+P1_NEW: 
+P2_ORIG: Sebaiknya semua orang pindah dari pesisir pantai agar merasa lebih aman.
+P2_NEW: 
+
+ID: FD-KKA-010
+J_ORIG: .edu, .ac.id, atau .go.id
+J_NEW: 
+P0_ORIG: .com, .net, atau .biz
+P0_NEW: 
+P1_ORIG: .blogspot.com atau .wordpress.com
+P1_NEW: 
+P2_ORIG: .tv, .shop, atau .info
+P2_NEW: 
+
+ID: FD-KKA-011
+J_ORIG: Atribusi (mencantumkan sumber tautan atau nama pencipta gambar tersebut di dalam presentasinya)
+J_NEW: 
+P0_ORIG: Mengubah warna gambar tersebut sedikit agar terlihat seperti buatannya sendiri
+P0_NEW: 
+P1_ORIG: Mengaku kepada gurunya bahwa ia menggambar ilustrasi tersebut semalaman
+P1_NEW: 
+P2_ORIG: Membayar uang langsung kepada pihak sekolah sebagai biaya izin presentasi
+P2_NEW: 
+
+ID: FD-KKA-012
+J_ORIG: Pencurian identitas (identity theft) dan manipulasi data untuk penipuan finansial
+J_NEW: 
+P0_ORIG: Memori server media sosial akan cepat penuh dan akun kita otomatis terhapus
+P0_NEW: 
+P1_ORIG: Akun media sosial akan secara otomatis berubah menjadi akun premium berbayar
+P1_NEW: 
+P2_ORIG: Mengakibatkan perangkat smartphone terkena korsleting atau rusak baterainya
+P2_NEW: 
+
+ID: FD-KKA-013
+J_ORIG: Infografis
+J_NEW: 
+P0_ORIG: Audio Podcast berdurasi 1 jam
+P0_NEW: 
+P1_ORIG: Dokumen teks PDF sebanyak 10 halaman penuh
+P1_NEW: 
+P2_ORIG: Video resolusi 4K berisi layar hitam kosong
+P2_NEW: 
+
+ID: FD-KKA-014
+J_ORIG: Penggunaan judul sensasional dan instruksi mendesak untuk "Viralkan!" tanpa sumber rujukan ahli medis yang jelas
+J_NEW: 
+P0_ORIG: Menyertakan kutipan resmi dari jurnal kedokteran yang diakui dunia
+P0_NEW: 
+P1_ORIG: Ditulis dengan ejaan bahasa yang sangat baku, tenang, dan tertata rapi
+P1_NEW: 
+P2_ORIG: Hanya dikirim oleh guru atau kepala sekolah melalui pengumuman resmi
+P2_NEW: 
+
+ID: FD-KKA-015
+J_ORIG: Rina melakukan pelanggaran etika dan jejak digital yang dapat berujung pada cyberbullying serta mempermalukan korban selamanya
+J_NEW: 
+P0_ORIG: Rina melakukan hal yang benar karena konten komedi selalu kebal dari aturan etika
+P0_NEW: 
+P1_ORIG: Tindakan tersebut sepenuhnya aman selama Rina tidak menuliskan nama asli temannya di caption
+P1_NEW: 
+P2_ORIG: Tindakan Rina akan dihargai oleh sekolah sebagai karya jurnalistik dokumenter
+P2_NEW: 
+
+ID: FD-KKA-016
+J_ORIG: Dilatih menggunakan jutaan teks (data besar) untuk mengenali pola bahasa dan menebak probabilitas kata selanjutnya
+J_NEW: 
+P0_ORIG: Memiliki otak biologis buatan yang tumbuh di dalam komputer server
+P0_NEW: 
+P1_ORIG: Secara ajaib langsung mengetahui segalanya sejak ia pertama kali dihidupkan
+P1_NEW: 
+P2_ORIG: Memiliki ruh dan perasaan empati persis seperti yang dimiliki manusia
+P2_NEW: 
+
+ID: FD-KKA-017
+J_ORIG: Halusinasi (Hallucination)
+J_NEW: 
+P0_ORIG: Kloning suara (Voice Cloning)
+P0_NEW: 
+P1_ORIG: Verifikasi dua langkah (2FA)
+P1_NEW: 
+P2_ORIG: Virus Ransomware
+P2_NEW: 
+
+ID: FD-KKA-018
+J_ORIG: AI tidak memiliki empati, kebijaksanaan, dan kesadaran moral atas keputusan yang dibuatnya
+J_NEW: 
+P0_ORIG: AI tidak mampu menyelesaikan operasi matematika dasar seperti penjumlahan
+P0_NEW: 
+P1_ORIG: AI selalu membutuhkan waktu bertahun-tahun untuk membalas satu kalimat pendek
+P1_NEW: 
+P2_ORIG: AI tidak bisa disambungkan ke jaringan listrik komputer modern
+P2_NEW: 
+
+ID: FD-KKA-019
+J_ORIG: Andi, karena sebagai manusia, ia adalah pembuat keputusan akhir yang wajib memverifikasi hasil kerja AI sebelum diklaim sebagai karyanya
+J_NEW: 
+P0_ORIG: Program AI tersebut, karena mesin selalu disalahkan atas setiap kesalahan
+P0_NEW: 
+P1_ORIG: Perusahaan pembuat AI, karena mereka tidak pernah memperingatkan penggunanya
+P1_NEW: 
+P2_ORIG: Guru sejarah, karena memberikan tugas makalah yang terlalu sulit bagi Andi
+P2_NEW: 
+
+ID: FD-KKA-020
+J_ORIG: Deepfake
+J_NEW: 
+P0_ORIG: Augmented Reality (AR)
+P0_NEW: 
+P1_ORIG: Virtual Reality (VR)
+P1_NEW: 
+P2_ORIG: Stop Motion Animation
+P2_NEW: 
+
+ID: FD-KKA-021
+J_ORIG: Bias Algoritma (AI Bias)
+J_NEW: 
+P0_ORIG: Bug Visualisasi Data
+P0_NEW: 
+P1_ORIG: Halusinasi Geografis
+P1_NEW: 
+P2_ORIG: Kecerdasan Super (Superintelligence)
+P2_NEW: 
+
+ID: FD-KKA-022
+J_ORIG: Lakukan cross-check (verifikasi silang) rumus tersebut dengan buku cetak pelajaran resmi atau panduan dari guru
+J_NEW: 
+P0_ORIG: Langsung menghafalkannya karena AI komputer memiliki kecerdasan absolut dan tidak pernah salah
+P0_NEW: 
+P1_ORIG: Menyalin (copy-paste) persis jawaban tersebut dan membagikannya langsung ke grup kelas tanpa membacanya
+P1_NEW: 
+P2_ORIG: Mematikan komputer karena menggunakan AI untuk belajar adalah hal yang terlarang di seluruh dunia
+P2_NEW: 
+
+ID: FD-KKA-023
+J_ORIG: Prompt dan data yang dimasukkan (input) dapat disimpan di server perusahaan AI dan mungkin digunakan kembali untuk melatih model, sehingga data sensitif berisiko terekspos
+J_NEW: 
+P0_ORIG: Chatbot AI akan secara otomatis menelepon orang tua Dina melalui jaringan satelit untuk mengadukannya
+P0_NEW: 
+P1_ORIG: Chatbot AI akan langsung mogok beroperasi karena tidak didesain untuk mendengarkan keluhan pribadi
+P1_NEW: 
+P2_ORIG: Semua chatbot di internet diawasi langsung oleh dokter sungguhan yang berjaga 24 jam penuh di markas mereka
+P2_NEW: 
+
+ID: FD-KKA-024
+J_ORIG: Menyusun input deskripsi kata (prompt) yang jelas, detail, dan spesifik
+J_NEW: 
+P0_ORIG: Menulis satu kata pendek saja agar AI memiliki ruang untuk berimajinasi sendiri
+P0_NEW: 
+P1_ORIG: Memasukkan gambar kode biner (0 dan 1) ke dalam kotak pencarian
+P1_NEW: 
+P2_ORIG: Mematikan koneksi internet sesaat sebelum menekan tombol buat
+P2_NEW: 
+
+ID: FD-KKA-025
+J_ORIG: Meminta AI untuk menjelaskan materi sains yang sulit dengan perumpamaan sederhana agar lebih mudah dipahami
+J_NEW: 
+P0_ORIG: Menyuruh AI membuat seluruh karangan esai dan langsung menyerahkannya ke guru tanpa dibaca
+P0_NEW: 
+P1_ORIG: Menggunakan AI untuk menjawab soal ujian akhir semester saat guru tidak melihat
+P1_NEW: 
+P2_ORIG: Menyuruh AI meretas sistem keamanan WiFi perpustakaan sekolah
+P2_NEW: 
+
+ID: FD-KKA-026
+J_ORIG: Tolong berikan 3 ide unik kampanye menjaga kebersihan di lingkungan sekolah untuk siswa SMP, serta sertakan satu slogan singkat untuk setiap ide.
+J_NEW: 
+P0_ORIG: Bagaimana cara membersihkan sekolah?
+P0_NEW: 
+P1_ORIG: Buat kampanye.
+P1_NEW: 
+P2_ORIG: Tuliskan semua hal tentang sampah dan sapu.
+P2_NEW: 
+
+ID: FD-KKA-027
+J_ORIG: Jika pertanyaan/instruksi (input) yang kita berikan tidak jelas atau membingungkan, maka jawaban (output) AI juga akan tidak bermutu
+J_NEW: 
+P0_ORIG: AI secara otomatis akan membuang file sampah dari dalam memori komputer kita
+P0_NEW: 
+P1_ORIG: Kita harus selalu menggunakan huruf kapital agar AI tidak mengeluarkan sampah digital
+P1_NEW: 
+P2_ORIG: Jika kita memasukkan kata yang terlalu rumit, perangkat keras komputer akan terbakar
+P2_NEW: 
+
+ID: FD-KKA-028
+J_ORIG: Membaca teks dari AI hanya sebagai inspirasi awal, lalu menulis ulang ide tersebut menggunakan gaya bahasa dan imajinasi Anton sendiri
+J_NEW: 
+P0_ORIG: Langsung mencetak (print) teks tersebut tanpa membacanya terlebih dahulu
+P0_NEW: 
+P1_ORIG: Mengklaim di depan kelas bahwa AI tersebut adalah karya ciptaan Anton dari nol
+P1_NEW: 
+P2_ORIG: Menyalin sebagian demi sebagian ke dokumen tanpa mengubah satu huruf pun
+P2_NEW: 
+
+ID: FD-KKA-029
+J_ORIG: 2 - 4 - 1 - 3
+J_NEW: 
+P0_ORIG: 1 - 2 - 4 - 3
+P0_NEW: 
+P1_ORIG: 4 - 2 - 3 - 1
+P1_NEW: 
+P2_ORIG: 2 - 1 - 4 - 3
+P2_NEW: 
+
+ID: FD-KKA-030
+J_ORIG: Tolong revisi jadwal di atas. Tambahkan jeda istirahat 15 menit setiap selesai belajar 60 menit, dan kosongkan seluruh kegiatan pada hari Minggu pagi untuk olahraga.
+J_NEW: 
+P0_ORIG: Jadwalmu terlalu melelahkan dan membuatku pusing, coba buat yang lebih bagus sedikit.
+P0_NEW: 
+P1_ORIG: Apakah kamu tidak tahu kalau manusia itu butuh tidur dan makan setiap hari?
+P1_NEW: 
+P2_ORIG: Tolong hapus semua jadwal matematika dari hari Senin sampai Sabtu tanpa terkecuali.
+P2_NEW: 
+

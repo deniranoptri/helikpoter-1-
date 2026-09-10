@@ -1,0 +1,272 @@
+[
+  {
+    "id": "FD-INF-001",
+    "j": "CPU (Central Processing Unit)",
+    "p": [
+      "RAM",
+      "Harddisk",
+      "Monitor"
+    ]
+  },
+  {
+    "id": "FD-INF-002",
+    "j": "Abstraksi",
+    "p": [
+      "Dekomposisi",
+      "Algoritma",
+      "Pengenalan Pola"
+    ]
+  },
+  {
+    "id": "FD-INF-003",
+    "j": "Jejak digital (Digital footprint)",
+    "p": [
+      "Virus komputer",
+      "Spam email",
+      "Cookie web"
+    ]
+  },
+  {
+    "id": "FD-INF-004",
+    "j": "Kombinasi huruf besar, huruf kecil, angka, dan simbol khusus",
+    "p": [
+      "Menggunakan tanggal lahir sendiri agar mudah diingat",
+      "Menggunakan nama hewan peliharaan",
+      "Menggunakan deretan angka berurutan seperti 12345678"
+    ]
+  },
+  {
+    "id": "FD-INF-005",
+    "j": "Mengekspresikan kemarahan atau berteriak",
+    "p": [
+      "Menunjukkan rasa hormat kepada lawan bicara",
+      "Menandakan berita yang sangat menggembirakan",
+      "Memperjelas tulisan agar mudah dibaca oleh semua orang"
+    ]
+  },
+  {
+    "id": "FD-INF-006",
+    "j": "Internet",
+    "p": [
+      "Intranet",
+      "Local Area Network (LAN)",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": "FD-INF-007",
+    "j": "Algoritma",
+    "p": [
+      "Dekomposisi",
+      "Pseudocode",
+      "Flowchart"
+    ]
+  },
+  {
+    "id": "FD-INF-008",
+    "j": "Printer",
+    "p": [
+      "Scanner",
+      "Monitor",
+      "Proyektor"
+    ]
+  },
+  {
+    "id": "FD-INF-009",
+    "j": "Sistem Operasi (Operating System)",
+    "p": [
+      "Program Antivirus",
+      "Perangkat Lunak Pengolah Kata",
+      "Browser Internet"
+    ]
+  },
+  {
+    "id": "FD-INF-010",
+    "j": "2 - 4 - 1 - 3",
+    "p": [
+      "1 - 2 - 3 - 4",
+      "4 - 1 - 2 - 3",
+      "2 - 1 - 4 - 3"
+    ]
+  },
+  {
+    "id": "FD-INF-011",
+    "j": "Lulus",
+    "p": [
+      "Remedial",
+      "Lulus dan Remedial",
+      "Tidak mencetak apa-apa"
+    ]
+  },
+  {
+    "id": "FD-INF-012",
+    "j": "Dekomposisi",
+    "p": [
+      "Pengenalan Pola",
+      "Abstraksi",
+      "Desain Algoritma"
+    ]
+  },
+  {
+    "id": "FD-INF-013",
+    "j": "37",
+    "p": [
+      "35",
+      "39",
+      "41"
+    ]
+  },
+  {
+    "id": "FD-INF-014",
+    "j": "Phishing",
+    "p": [
+      "Hacking",
+      "Cyberbullying",
+      "Defacing"
+    ]
+  },
+  {
+    "id": "FD-INF-015",
+    "j": "AVERAGE",
+    "p": [
+      "SUM",
+      "COUNT",
+      "MAX"
+    ]
+  },
+  {
+    "id": "FD-INF-016",
+    "j": "10",
+    "p": [
+      "8",
+      "12",
+      "14"
+    ]
+  },
+  {
+    "id": "FD-INF-017",
+    "j": "Wi-Fi (Hotspot)",
+    "p": [
+      "Fiber Optic",
+      "LAN Ethernet",
+      "NFC"
+    ]
+  },
+  {
+    "id": "FD-INF-018",
+    "j": "Memeriksa sumber informasi (fact-checking) silang dengan portal berita yang resmi dan tepercaya",
+    "p": [
+      "Langsung membagikan (share) artikel tersebut agar teman-teman ikut waspada",
+      "Menulis komentar kemarahan tanpa perlu membaca isi beritanya secara utuh",
+      "Menghapus akun media sosial secara permanen agar tidak membaca berita"
+    ]
+  },
+  {
+    "id": "FD-INF-019",
+    "j": ".jpg atau .png",
+    "p": [
+      ".docx atau .pdf",
+      ".mp3 atau .wav",
+      ".exe atau .bat"
+    ]
+  },
+  {
+    "id": "FD-INF-020",
+    "j": "Memungkinkan beberapa orang mengedit dan berkolaborasi dalam dokumen yang sama secara bersamaan (real-time) dari lokasi berbeda",
+    "p": [
+      "Menghemat memori komputer karena sama sekali tidak membutuhkan koneksi internet saat mengedit",
+      "Memiliki fitur keamanan yang membuat teks yang sudah diketik tidak bisa dihapus oleh siapapun",
+      "Tidak memerlukan perangkat elektronik apa pun untuk menggunakannya"
+    ]
+  },
+  {
+    "id": "FD-INF-021",
+    "j": "Kondisi A dan kondisi B keduanya bernilai BENAR",
+    "p": [
+      "Hanya kondisi A yang bernilai BENAR",
+      "Salah satu kondisi bernilai BENAR",
+      "Kondisi A dan kondisi B keduanya bernilai SALAH"
+    ]
+  },
+  {
+    "id": "FD-INF-022",
+    "j": "Orang asing (tidak dikenal) mengakses dan menyalahgunakan foto serta informasi pribadi kita",
+    "p": [
+      "Akun media sosial dihapus otomatis oleh pihak pengembang aplikasi",
+      "Virus dan malware menginfeksi perangkat keras smartphone kita",
+      "Penurunan jumlah teman di dunia nyata secara drastis"
+    ]
+  },
+  {
+    "id": "FD-INF-023",
+    "j": "Plagiarisme (Penjiplakan)",
+    "p": [
+      "Paraphrasing (Parafrasa)",
+      "Cyberstalking (Penguntitan siber)",
+      "Open Source (Sumber Terbuka)"
+    ]
+  },
+  {
+    "id": "FD-INF-024",
+    "j": "Mencari halaman web yang memuat persis susunan kata tersebut secara utuh dan berurutan",
+    "p": [
+      "Mencari hanya gambar-gambar dan video yang berkaitan dengan kata tersebut",
+      "Mengecualikan (menghilangkan) kata tersebut dari semua hasil pencarian yang muncul",
+      "Mencari arti masing-masing kata tersebut secara terpisah di dalam kamus digital"
+    ]
+  },
+  {
+    "id": "FD-INF-025",
+    "j": "Toko-toko ritel fisik dan pasar tradisional yang tidak beradaptasi akan kehilangan pembeli",
+    "p": [
+      "Bertambahnya jumlah pabrik manufaktur di setiap desa secara massal",
+      "Meningkatnya lowongan pekerjaan sebagai kasir supermarket besar",
+      "Kualitas seluruh barang yang dijual di pasar berubah menjadi palsu"
+    ]
+  },
+  {
+    "id": "FD-INF-026",
+    "j": "1, 3",
+    "p": [
+      "1, 2, 3, 4",
+      "1, 3, 5",
+      "3, 5"
+    ]
+  },
+  {
+    "id": "FD-INF-027",
+    "j": "MAJU, MAJU, KANAN, MAJU",
+    "p": [
+      "MAJU, KIRI, MAJU, KANAN",
+      "KANAN, MAJU, KIRI, MAJU, MAJU",
+      "MAJU, MAJU, KIRI, MAJU"
+    ]
+  },
+  {
+    "id": "FD-INF-028",
+    "j": "Siswa B: Matematika 75, Bahasa Inggris 80",
+    "p": [
+      "Siswa A: Matematika 85, Bahasa Inggris 70",
+      "Siswa C: Matematika 90, Bahasa Inggris 90",
+      "Siswa D: Matematika 80, Bahasa Inggris 85"
+    ]
+  },
+  {
+    "id": "FD-INF-029",
+    "j": "CVLV",
+    "p": [
+      "ATJT",
+      "CUKV",
+      "DWMW"
+    ]
+  },
+  {
+    "id": "FD-INF-030",
+    "j": "2 - 4 - 1 - 3",
+    "p": [
+      "1 - 3 - 2 - 4",
+      "2 - 1 - 3 - 4",
+      "4 - 2 - 1 - 3"
+    ]
+  }
+]

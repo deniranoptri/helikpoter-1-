@@ -1,0 +1,272 @@
+[
+  {
+    "id": "FD-SENI-001",
+    "j": "Garis",
+    "p": [
+      "Bidang",
+      "Bentuk",
+      "Ruang"
+    ]
+  },
+  {
+    "id": "FD-SENI-002",
+    "j": "Jingga (Oranye)",
+    "p": [
+      "Hijau",
+      "Ungu",
+      "Cokelat"
+    ]
+  },
+  {
+    "id": "FD-SENI-003",
+    "j": "Seni Rupa Terapan (Applied Art)",
+    "p": [
+      "Seni Rupa Murni (Fine Art)",
+      "Seni Instalasi",
+      "Seni Lukis Abstrak"
+    ]
+  },
+  {
+    "id": "FD-SENI-004",
+    "j": "Tempo",
+    "p": [
+      "Dinamika",
+      "Nada",
+      "Irama"
+    ]
+  },
+  {
+    "id": "FD-SENI-005",
+    "j": "Keras",
+    "p": [
+      "Lembut",
+      "Cepat",
+      "Lambat"
+    ]
+  },
+  {
+    "id": "FD-SENI-006",
+    "j": "Musik Ansambel Campuran",
+    "p": [
+      "Musik Ansambel Sejenis",
+      "Paduan Suara (Koor)",
+      "Vokal Grup"
+    ]
+  },
+  {
+    "id": "FD-SENI-007",
+    "j": "Pola Lantai",
+    "p": [
+      "Level Gerak",
+      "Ruang Tari",
+      "Desain Atas"
+    ]
+  },
+  {
+    "id": "FD-SENI-008",
+    "j": "Piring",
+    "p": [
+      "Selendang",
+      "Kipas",
+      "Payung"
+    ]
+  },
+  {
+    "id": "FD-SENI-009",
+    "j": "Mimik muka (Ekspresi wajah)",
+    "p": [
+      "Pantomim",
+      "Bloking",
+      "Artikulasi"
+    ]
+  },
+  {
+    "id": "FD-SENI-010",
+    "j": "Proporsi (Kesebandingan)",
+    "p": [
+      "Irama (Ritme)",
+      "Kesatuan (Unity)",
+      "Pusat Perhatian (Center of Interest)"
+    ]
+  },
+  {
+    "id": "FD-SENI-011",
+    "j": "Aquarel",
+    "p": [
+      "Plakat",
+      "Pointilis",
+      "Impasto"
+    ]
+  },
+  {
+    "id": "FD-SENI-012",
+    "j": "Pahat / Ukir",
+    "p": [
+      "Butsir",
+      "Cor (Casting)",
+      "Cetak (Molding)"
+    ]
+  },
+  {
+    "id": "FD-SENI-013",
+    "j": "Waktu (Tempo/Irama gerak)",
+    "p": [
+      "Ruang",
+      "Tenaga",
+      "Properti"
+    ]
+  },
+  {
+    "id": "FD-SENI-014",
+    "j": "Level Rendah",
+    "p": [
+      "Level Sedang",
+      "Level Tinggi",
+      "Level Vertikal"
+    ]
+  },
+  {
+    "id": "FD-SENI-015",
+    "j": "Ukuran besar kecilnya tabung bambu yang digoyangkan",
+    "p": [
+      "Ketebalan senar yang dipetik",
+      "Kekerasan pukulan pada selaput kulit (membran)",
+      "Panjang pendeknya lubang tiup yang ditutup jari"
+    ]
+  },
+  {
+    "id": "FD-SENI-016",
+    "j": "Sopran",
+    "p": [
+      "Alto",
+      "Tenor",
+      "Bass"
+    ]
+  },
+  {
+    "id": "FD-SENI-017",
+    "j": "Panggung (Setting/Scenery)",
+    "p": [
+      "Rias dan Busana",
+      "Cahaya (Lighting)",
+      "Suara (Sound)"
+    ]
+  },
+  {
+    "id": "FD-SENI-018",
+    "j": "Antagonis",
+    "p": [
+      "Tritagonis",
+      "Figuran",
+      "Sutradara"
+    ]
+  },
+  {
+    "id": "FD-SENI-019",
+    "j": "Deskripsi",
+    "p": [
+      "Analisis Formal",
+      "Interpretasi",
+      "Evaluasi"
+    ]
+  },
+  {
+    "id": "FD-SENI-020",
+    "j": "Dipetik",
+    "p": [
+      "Ditiup",
+      "Dipukul",
+      "Digesek"
+    ]
+  },
+  {
+    "id": "FD-SENI-021",
+    "j": "Menciptakan hubungan yang padu dan saling mendukung antar unsur rupa sehingga karya tidak terkesan tercerai-berai",
+    "p": [
+      "Membuat bagian tengah lukisan terlihat lebih mencolok daripada bagian lainnya",
+      "Memberikan kesan gelap terang secara tiba-tiba tanpa gradasi",
+      "Memastikan semua objek lukisan memiliki ukuran yang sama besar persis"
+    ]
+  },
+  {
+    "id": "FD-SENI-022",
+    "j": "3 - 1 - 2 - 4",
+    "p": [
+      "1 - 2 - 3 - 4",
+      "2 - 3 - 1 - 4",
+      "3 - 2 - 1 - 4"
+    ]
+  },
+  {
+    "id": "FD-SENI-023",
+    "j": "Improvisasi",
+    "p": [
+      "Gladi bersih",
+      "Observasi",
+      "Pantomim"
+    ]
+  },
+  {
+    "id": "FD-SENI-024",
+    "j": "Tidak lagi terikat pada aturan baku tari tradisional secara ketat, namun tetap mempertahankan nilai seninya",
+    "p": [
+      "Hanya boleh menggunakan iringan musik pop mancanegara",
+      "Tidak memperbolehkan penggunaan pola lantai sama sekali",
+      "Pakaian penari harus meniru budaya Eropa masa lalu"
+    ]
+  },
+  {
+    "id": "FD-SENI-025",
+    "j": "Desain tersebut gagal secara fungsi karena kontras warna yang rendah dan komposisi yang berantakan membuatnya tidak terbaca.",
+    "p": [
+      "Desain tersebut sangat berhasil karena warna kuning dan putih mencerminkan kebersihan.",
+      "Desain tersebut melanggar aturan hak cipta karena menggunakan ilustrasi bertumpuk.",
+      "Desain tersebut terlalu tradisional untuk zaman modern."
+    ]
+  },
+  {
+    "id": "FD-SENI-026",
+    "j": "Muram, sepi, dan penuh penderitaan",
+    "p": [
+      "Gembira, meriah, dan penuh harapan",
+      "Mencekam, horor, dan mengancam jiwa",
+      "Mewah, elegan, dan penuh kekayaan"
+    ]
+  },
+  {
+    "id": "FD-SENI-027",
+    "j": "Kehilangan keseimbangan musikal, karena melodi utama akan tertutup oleh suara pengiring",
+    "p": [
+      "Harmoni akan terdengar jauh lebih indah dan dramatis dari sebelumnya",
+      "Suara Bass akan otomatis berubah menjadi melodi utama",
+      "Lagu akan secara otomatis bertambah temponya (makin cepat)"
+    ]
+  },
+  {
+    "id": "FD-SENI-028",
+    "j": "Mengutamakan kekompakan ritmis internal dan formasi garis lurus (horizontal) yang rapat",
+    "p": [
+      "Mengandalkan eksplorasi ruang luas dengan lompatan-lompatan tinggi",
+      "Sangat bergantung pada melodi gamelan jawa yang kompleks",
+      "Memiliki desain gerak asimetris dan individualistik"
+    ]
+  },
+  {
+    "id": "FD-SENI-029",
+    "j": "Semakin jauh tiang listrik, akan digambar semakin kecil dan menyempit ke satu titik di garis cakrawala",
+    "p": [
+      "Semua tiang listrik harus digambar dengan ukuran yang sama persis agar akurat",
+      "Tiang listrik di kejauhan digambar lebih besar karena terpengaruh pembiasan cahaya",
+      "Jalan raya digambar semakin melebar saat mendekati garis cakrawala"
+    ]
+  },
+  {
+    "id": "FD-SENI-030",
+    "j": "Tiongkok (China)",
+    "p": [
+      "India (Hindu-Buddha)",
+      "Timur Tengah (Arab)",
+      "Eropa (Belanda)"
+    ]
+  }
+]

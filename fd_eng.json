@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-ENG-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Greetings and Introductions",
+    "pertanyaan": "Andi: Good morning, Mr. Budi. How are you today?\nMr. Budi: ..., Andi. I am very well, thank you.",
+    "jawabanBenar": "Good morning",
+    "pengecoh": [
+      "Good night",
+      "Goodbye",
+      "See you later"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Ungkapan sapaan 'Good morning' (Selamat pagi) direspons kembali dengan 'Good morning'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Personal Information",
+    "pertanyaan": "Hello, my name is Sarah. I ... thirteen years old and I live in Bandung.",
+    "jawabanBenar": "am",
+    "pengecoh": [
+      "is",
+      "are",
+      "was"
+    ],
+    "difficulty": "EASY",
+    "explanation": "To be yang tepat untuk subjek 'I' pada waktu sekarang (present tense) adalah 'am'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Daily Activities",
+    "pertanyaan": "My father is a farmer. He always ... to the rice field every morning.",
+    "jawabanBenar": "goes",
+    "pengecoh": [
+      "go",
+      "going",
+      "went"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kalimat ini menggunakan Simple Present Tense (rutinitas: every morning). Untuk subjek tunggal orang ketiga 'He', kata kerja ditambahkan -s/-es menjadi 'goes'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Family and Relationships",
+    "pertanyaan": "This is my sister. ... name is Nisa. She likes reading books.",
+    "jawabanBenar": "Her",
+    "pengecoh": [
+      "His",
+      "My",
+      "Your"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kata ganti kepemilikan (possessive adjective) untuk subjek perempuan tunggal (sister/she) adalah 'Her'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Describing Objects",
+    "pertanyaan": "Where is the cat? It is raining outside, so it is hiding ... the bed.",
+    "jawabanBenar": "under",
+    "pengecoh": [
+      "on",
+      "above",
+      "in front of"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Konteks kalimat menunjukkan kucing sedang bersembunyi dari hujan. Tempat bersembunyi yang logis dari pilihan yang ada adalah 'di bawah' (under) kasur.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Descriptive Texts",
+    "pertanyaan": "Read the text below!\nI have a pet rabbit named Boni. Boni has soft white fur and long ears. He loves eating carrots and fresh vegetables. Every afternoon, I play with him in the backyard. Boni is very active and likes to hop around.\n\nWhat is the text mostly about?",
+    "jawabanBenar": "The writer's pet rabbit",
+    "pengecoh": [
+      "How to feed a rabbit",
+      "The physical appearance of a rabbit",
+      "Playing in the backyard"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teks tersebut secara keseluruhan mendeskripsikan kelinci peliharaan penulis (fisik, kebiasaan makan, aktivitas).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Descriptive Texts",
+    "pertanyaan": "Based on the text about Boni the rabbit, what does Boni like to eat?",
+    "jawabanBenar": "Carrots and fresh vegetables",
+    "pengecoh": [
+      "Fruits and meat",
+      "Carrots and fish",
+      "Fresh vegetables and grass"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Informasi ini tertulis jelas (eksplisit) pada teks: 'He loves eating carrots and fresh vegetables.'",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Descriptive Texts",
+    "pertanyaan": "Read the text below!\nMr. Johan is our new English teacher. He is tall and wears glasses. He always explains the lessons clearly and gives us fun games to play in class. When a student makes a mistake, he never gets angry but helps them correct it patiently.\n\nFrom the text, we can conclude that Mr. Johan is a ... teacher.",
+    "jawabanBenar": "patient and creative",
+    "pengecoh": [
+      "strict and discipline",
+      "lazy and boring",
+      "quiet and angry"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Simpulan (inference) diambil dari deskripsi perilakunya: 'never gets angry' (sabar/patient) dan 'gives us fun games' (kreatif/creative).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Notices and Signs",
+    "pertanyaan": "You see a sign in the library that says: 'PLEASE KEEP SILENT'. What does it mean?",
+    "jawabanBenar": "We must not make any noise in the library.",
+    "pengecoh": [
+      "We are allowed to talk loudly.",
+      "We must speak softly to the librarian only.",
+      "We must not read books loudly outside."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tanda 'PLEASE KEEP SILENT' berarti pengunjung dilarang membuat keributan atau bersuara keras (must not make any noise).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Daily Routines",
+    "pertanyaan": "Doni: What time do you usually go to school?\nSiti: I usually go to school at 06:15.\nSiti goes to school at...",
+    "jawabanBenar": "a quarter past six",
+    "pengecoh": [
+      "a quarter to six",
+      "half past six",
+      "six o'clock"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pukul 06:15 dalam bahasa Inggris dibaca 'a quarter past six' (seperempat jam lewat dari pukul enam).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Expressions of Opinion",
+    "pertanyaan": "Santi: ... about the new superhero movie?\nBudi: I think it is amazing! The action scenes are very cool.",
+    "jawabanBenar": "What do you think",
+    "pengecoh": [
+      "Do you agree",
+      "Are you sure",
+      "How are you"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Budi menjawab dengan memberikan opini ('I think...'). Maka, pertanyaan Santi yang tepat adalah menanyakan pendapat ('What do you think...').",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Agreement and Disagreement",
+    "pertanyaan": "Fajar: I think we should clean the classroom before going home.\nRina: ... The classroom is very dirty.",
+    "jawabanBenar": "I completely agree with you.",
+    "pengecoh": [
+      "I don't think so.",
+      "I disagree with you.",
+      "I am not sure about that."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Rina memberikan alasan 'The classroom is very dirty' (Kelasnya sangat kotor), yang mendukung pernyataan Fajar. Maka ungkapan yang tepat adalah persetujuan (agree).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Family and Relationships",
+    "pertanyaan": "My mother's brother is my...",
+    "jawabanBenar": "uncle",
+    "pengecoh": [
+      "aunt",
+      "grandfather",
+      "nephew"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Saudara laki-laki dari ibu (atau ayah) disebut 'uncle' (paman).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Grammar in Context",
+    "pertanyaan": "Please be quiet! The baby ... in the bedroom right now.",
+    "jawabanBenar": "is sleeping",
+    "pengecoh": [
+      "sleeps",
+      "slept",
+      "was sleeping"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kehadiran kata 'right now' dan 'Please be quiet!' menunjukkan aktivitas yang sedang berlangsung saat ini (Present Continuous Tense: is/am/are + V-ing).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Grammar in Context",
+    "pertanyaan": "Dina: Where ... you go last weekend?\nNisa: I went to the beach with my family.",
+    "jawabanBenar": "did",
+    "pengecoh": [
+      "do",
+      "does",
+      "were"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Waktu kejadian adalah masa lampau ('last weekend'). Kata bantu (auxiliary verb) untuk kalimat tanya Simple Past Tense verbal adalah 'did'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Recount Texts",
+    "pertanyaan": "Last holiday, my family and I went to the zoo. We saw many animals like elephants, tigers, and monkeys. In the afternoon, it suddenly rained heavily. We had to run and take shelter under a big tree. We were wet and cold, but we still felt happy because we spent time together.\n\nWhat is the main idea of the paragraph?",
+    "jawabanBenar": "The writer's memorable holiday experience at the zoo despite the rain.",
+    "pengecoh": [
+      "The animals that the writer saw at the zoo.",
+      "How the writer took shelter from the heavy rain.",
+      "The writer's sadness because of the heavy rain."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Gagasan utama (main idea) teks recount menceritakan keseluruhan pengalaman liburan penulis yang berkesan meskipun turun hujan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Recount Texts",
+    "pertanyaan": "Based on the recount text about the zoo holiday, why did the writer and their family run and take shelter?",
+    "jawabanBenar": "Because it rained heavily.",
+    "pengecoh": [
+      "Because they wanted to see the monkeys.",
+      "Because the animals chased them.",
+      "Because they felt very tired."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sebab akibat tertulis eksplisit di dalam teks: 'it suddenly rained heavily. We had to run and take shelter...'",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Vocabulary in Context",
+    "pertanyaan": "After running around the park for two hours, the children were completely **exhausted**. They drank a lot of water and fell asleep immediately.\nThe word 'exhausted' has the closest meaning to...",
+    "jawabanBenar": "very tired",
+    "pengecoh": [
+      "very happy",
+      "very hungry",
+      "very thirsty"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Konteks kalimat (berlari 2 jam lalu langsung tertidur) menunjukkan bahwa 'exhausted' berarti sangat lelah (very tired).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Grammar in Context",
+    "pertanyaan": "I want to buy some fruits. I need three ... and two apples.",
+    "jawabanBenar": "mangoes",
+    "pengecoh": [
+      "mango",
+      "mangos",
+      "mango's"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kata benda jamak (plural) untuk mango yang berakhiran -o umumnya ditambahkan -es menjadi 'mangoes'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Grammar in Context",
+    "pertanyaan": "An elephant weighs about 4000 kg. A cow weighs about 600 kg. We can say that an elephant is ... than a cow.",
+    "jawabanBenar": "heavier",
+    "pengecoh": [
+      "lighter",
+      "more heavy",
+      "most heavy"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gajah lebih berat dari sapi. Bentuk perbandingan lebih (comparative) dari kata sifat 'heavy' adalah 'heavier'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Grammar in Context",
+    "pertanyaan": "Rina got 95 in English. Siti got 80, and Ayu got 75. Rina got the ... score in the class.",
+    "jawabanBenar": "highest",
+    "pengecoh": [
+      "higher",
+      "most high",
+      "more high"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Nilai 95 adalah yang paling tinggi di antara semuanya. Bentuk superlatif (paling) dari 'high' adalah 'highest'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Narrative Texts",
+    "pertanyaan": "One hot summer day, a grasshopper was singing and playing. He saw an ant carrying food to its nest. The grasshopper laughed and said, 'Why are you working so hard? Come and play with me!' The ant replied, 'I am saving food for the winter.' When winter came, the grasshopper had no food and was starving, while the ant was safe and warm with plenty of food.\n\nWhat can we learn from the story?",
+    "jawabanBenar": "We must prepare for the future and not be lazy.",
+    "pengecoh": [
+      "We must play and sing every day during summer.",
+      "We should laugh at our friends who work hard.",
+      "Winter is the best time to look for food."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pesan moral cerita (The Ant and the Grasshopper) adalah pentingnya bekerja keras dan mempersiapkan masa depan ketimbang bersikap malas.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Procedure Texts",
+    "pertanyaan": "How to Make a Cup of Tea\n1. Boil some water.\n2. Put a teabag into a cup.\n3. Pour the boiling water into the cup.\n4. Wait for 3 minutes.\n5. Add some sugar and stir well.\n\nWhat should you do after pouring the boiling water into the cup?",
+    "jawabanBenar": "Wait for 3 minutes.",
+    "pengecoh": [
+      "Put a teabag into the cup.",
+      "Add some sugar and stir well.",
+      "Boil some water."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Membaca instruksi secara berurutan. Langkah setelah 'Pour the boiling water' (langkah 3) adalah 'Wait for 3 minutes' (langkah 4).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Invitations and Responses",
+    "pertanyaan": "Rudi: Would you like to come to my birthday party on Saturday night?\nLina: ... I will be there.",
+    "jawabanBenar": "I'd love to.",
+    "pengecoh": [
+      "I am sorry, I can't.",
+      "I don't think so.",
+      "No, thank you."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kalimat 'I will be there' (Saya akan datang) menunjukkan bahwa Lina menerima undangan. Respons penerimaan yang tepat adalah 'I'd love to' (Saya sangat bersedia).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Simple Instructions and Requests",
+    "pertanyaan": "Student: ..., Sir. May I wash my hands?\nTeacher: Yes, please. Don't be long.",
+    "jawabanBenar": "Excuse me",
+    "pengecoh": [
+      "I am sorry",
+      "Thank you",
+      "Good morning"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sebelum meminta izin atau menginterupsi secara sopan dalam bahasa Inggris, ungkapan yang tepat digunakan adalah 'Excuse me' (Permisi).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Messages and Announcements",
+    "pertanyaan": "ANNOUNCEMENT\nTo all members of the English Club,\nWe will hold a storytelling competition next week to celebrate our school anniversary. Please register yourself to the committee before Friday. For more information, contact Maya (0812345678).\n\nWho is the target audience of this announcement?",
+    "jawabanBenar": "The students who join the English Club.",
+    "pengecoh": [
+      "All students in the school.",
+      "The teachers of the English Club.",
+      "The committee of the school anniversary."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Target audiens/sasaran pembaca disebutkan secara spesifik pada baris pertama pengumuman: 'To all members of the English Club'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Messages and Announcements",
+    "pertanyaan": "Based on the announcement about the storytelling competition, what is the deadline for registration?",
+    "jawabanBenar": "Before Friday.",
+    "pengecoh": [
+      "Next week.",
+      "On Friday.",
+      "During the school anniversary."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Batas waktu (deadline) tertera pada kalimat 'Please register yourself... before Friday.'",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Describing People",
+    "pertanyaan": "My uncle works in a hospital. He examines patients, gives them medicine, and helps them get well. He is a...",
+    "jawabanBenar": "doctor",
+    "pengecoh": [
+      "teacher",
+      "farmer",
+      "mechanic"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pekerjaan yang memeriksa pasien dan memberikan obat di rumah sakit adalah dokter (doctor).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Greetings and Social Expressions",
+    "pertanyaan": "Anton: I am really sorry, I broke your favorite glass by accident.\nBudi: ... Just be careful next time.",
+    "jawabanBenar": "That's alright.",
+    "pengecoh": [
+      "Thank you very much.",
+      "You are welcome.",
+      "I agree with you."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Respons untuk memaafkan permintaan maaf (I am sorry) adalah 'That's alright' (Tidak apa-apa).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-ENG-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Inggris",
+    "topik": "Reading Comprehension",
+    "pertanyaan": "Sita: It's going to be a long weekend. Do you have any plans?\nDewi: My mother and I are going to make a chocolate cake on Saturday. On Sunday, if the weather is clear, my father promised to take us swimming.\nSita: That sounds great! I hope it doesn't rain.\n\nWhat will Dewi most likely do if it rains heavily on Sunday?",
+    "jawabanBenar": "She will cancel the plan to go swimming.",
+    "pengecoh": [
+      "She will swim in the rain.",
+      "She will make a chocolate cake.",
+      "She will ask Sita to go swimming."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Syarat pergi berenang dari ayah Dewi adalah 'if the weather is clear' (jika cuaca cerah). Jika hujan deras, secara logis rencana berenang akan dibatalkan.",
+    "challengeType": "IDENTIFY"
+  }
+]

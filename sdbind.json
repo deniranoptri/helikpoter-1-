@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FA-C-BIND-001",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ide Pokok Paragraf",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Sampah plastik menjadi persoalan lingkungan yang sangat serius. Plastik sangat sulit terurai secara alami oleh mikroorganisme di dalam tanah. Membutuhkan waktu hingga ratusan tahun agar plastik bisa hancur sepenuhnya. Oleh karena itu, kita harus mulai mengurangi penggunaan plastik sekali pakai dari sekarang.\n\nIde pokok dari paragraf tersebut adalah...",
+    "jawabanBenar": "Sampah plastik merupakan persoalan lingkungan yang serius karena sulit terurai.",
+    "pengecoh": [
+      "Mikroorganisme di dalam tanah membutuhkan waktu ratusan tahun untuk hidup.",
+      "Kita harus mengurangi penggunaan barang-barang yang ada di sekitar kita.",
+      "Plastik sekali pakai sangat mudah digunakan dan dibuang oleh masyarakat."
+    ],
+    "explanation": "Ide pokok adalah gagasan utama yang menjadi inti pembahasan. Paragraf ini utamanya membahas tentang masalah sampah plastik yang berbahaya karena sangat sulit terurai."
+  },
+  {
+    "id": "FA-C-BIND-002",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Informasi Tersurat",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pusat rehabilitasi dan konservasi orang utan terbesar di dunia terdapat di Taman Nasional Tanjung Puting, Kalimantan Tengah. Tempat ini didirikan dengan tujuan utama untuk merawat dan melindungi orang utan dari ancaman kepunahan akibat kerusakan hutan.\n\nBerdasarkan teks tersebut, di manakah letak pusat konservasi orang utan?",
+    "jawabanBenar": "Taman Nasional Tanjung Puting, Kalimantan Tengah.",
+    "pengecoh": [
+      "Taman Nasional Komodo, Nusa Tenggara Timur.",
+      "Taman Nasional Ujung Kulon, Banten.",
+      "Taman Nasional Way Kambas, Lampung."
+    ],
+    "explanation": "Informasi tersurat adalah informasi yang tertulis jelas di dalam teks. Teks dengan jelas menyebutkan bahwa pusat konservasi berada di Taman Nasional Tanjung Puting, Kalimantan Tengah."
+  },
+  {
+    "id": "FA-C-BIND-003",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Informasi Tersirat (Simpulan)",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Lani terlihat terus-menerus menguap saat Pak Guru sedang menjelaskan pelajaran matematika di kelas. Sesekali ia menopang dagunya agar matanya tidak terpejam. Semalam, Lani baru selesai mengerjakan proyek sainsnya hingga pukul dua belas malam.\n\nKesimpulan yang tepat berdasarkan teks tersebut adalah...",
+    "jawabanBenar": "Lani merasa sangat mengantuk di kelas karena ia kurang tidur semalaman.",
+    "pengecoh": [
+      "Lani sangat menyukai pelajaran matematika yang sedang diajarkan Pak Guru.",
+      "Lani sedang sakit gigi sehingga ia tidak bisa mendengarkan penjelasan.",
+      "Lani merasa sangat segar karena berhasil menyelesaikan proyek sainsnya."
+    ],
+    "explanation": "Kesimpulan ditarik dari informasi di teks. Lani menguap dan menahan mata agar tidak terpejam karena tidur larut malam, yang menunjukkan bahwa ia sedang sangat mengantuk."
+  },
+  {
+    "id": "FA-C-BIND-004",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Makna Kata",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pemerintah daerah sedang menggalakkan program reboisasi di wilayah perbukitan untuk mencegah terjadinya bencana tanah longsor saat musim hujan tiba.\n\nMakna kata 'reboisasi' pada kalimat tersebut adalah...",
+    "jawabanBenar": "penanaman kembali hutan yang gundul",
+    "pengecoh": [
+      "pembuatan terasering di tanah yang miring",
+      "penebangan pohon-pohon besar yang sudah tua",
+      "pembuangan sampah pada tempat yang disediakan"
+    ],
+    "explanation": "Dalam Kamus Besar Bahasa Indonesia (KBBI), reboisasi berarti penanaman kembali hutan yang telah ditebang (tandus, gundul) untuk mencegah erosi dan longsor."
+  },
+  {
+    "id": "FA-C-BIND-005",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Antonim",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Udara di daerah pegunungan sangat sejuk, berbeda dengan di wilayah perkotaan padat yang terasa panas dan gerah.\n\nAntonim (lawan kata) dari kata 'sejuk' pada kalimat tersebut adalah...",
+    "jawabanBenar": "panas",
+    "pengecoh": [
+      "dingin",
+      "segar",
+      "cerah"
+    ],
+    "explanation": "Antonim adalah lawan kata. Lawan dari kata sejuk (terasa agak dingin/nyaman) adalah panas."
+  },
+  {
+    "id": "FA-C-BIND-006",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kata Baku",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah paragraf berikut!\n(1) Hari ini Andi pergi ke apotek untuk membeli obat penurun demam.\n(2) Ia berjalan kaki karena jaraknya cukup dekat dari rumah.\n(3) Di tengah jalan, ia melihat sebuah bis berhenti di halte.\n(4) Andi juga membeli coklat kesukaannya di minimarket.\n\nKalimat yang menggunakan kata baku secara tepat ditunjukkan oleh nomor...",
+    "jawabanBenar": "(1) dan (2)",
+    "pengecoh": [
+      "(2) dan (3)",
+      "(3) dan (4)",
+      "(1) dan (4)"
+    ],
+    "explanation": "Kalimat (1) dan (2) menggunakan kata baku ('apotek', 'berjalan'). Kalimat (3) tidak baku karena menggunakan kata 'bis' (seharusnya 'bus'). Kalimat (4) tidak baku karena menggunakan kata 'coklat' (seharusnya 'cokelat')."
+  },
+  {
+    "id": "FA-C-BIND-007",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Tanda Baca",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah paragraf berikut!\n(1) Pada hari Minggu, Rina pergi ke toko alat tulis. (2) Ia membeli buku tulis pensil penghapus dan penggaris. (3) Rina membayar barang belanjaannya di kasir. (4) \"Terima kasih, Kak,\" ucap Rina sambil menerima uang kembalian.\n\nKalimat yang belum menggunakan tanda baca (koma) dengan tepat adalah nomor...",
+    "jawabanBenar": "(2)",
+    "pengecoh": [
+      "(1)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation": "Kalimat (2) berisi pemerincian lebih dari dua barang sehingga wajib menggunakan tanda koma. Seharusnya: 'Ia membeli buku tulis, pensil, penghapus, dan penggaris.'"
+  },
+  {
+    "id": "FA-C-BIND-008",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Fakta dan Opini",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pernyataan di bawah ini yang merupakan kalimat fakta (sesuatu yang benar-benar terjadi dan terbukti kebenarannya) adalah...",
+    "jawabanBenar": "Matahari selalu terbit di sebelah timur dan tenggelam di sebelah barat.",
+    "pengecoh": [
+      "Nasi goreng di warung itu adalah makanan yang paling enak sedunia.",
+      "Mungkin nanti sore akan turun hujan deras di daerah kita.",
+      "Sebaiknya kamu segera pulang ke rumah sebelum hari menjadi gelap."
+    ],
+    "explanation": "Fakta adalah hal, keadaan, atau peristiwa yang merupakan kenyataan atau benar-benar ada/terjadi dan tidak bisa dibantah. Terbitnya matahari di timur adalah fakta ilmiah."
+  },
+  {
+    "id": "FA-C-BIND-009",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Fakta dan Opini",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Kalimat opini berisi pendapat, perkiraan, atau pandangan seseorang. Kalimat berikut ini yang termasuk opini adalah...",
+    "jawabanBenar": "Pemandangan pantai di sore hari itu sangat indah dan memukau.",
+    "pengecoh": [
+      "Sapi termasuk hewan pemakan rumput (herbivora).",
+      "Air akan membeku dan menjadi es jika didinginkan pada suhu 0 derajat Celcius.",
+      "Kucing termasuk dalam golongan hewan mamalia."
+    ],
+    "explanation": "Kata 'indah' dan 'memukau' bersifat subjektif, bergantung pada pendapat dan pandangan pribadi orang yang melihatnya, sehingga disebut kalimat opini."
+  },
+  {
+    "id": "FA-C-BIND-010",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Prosedur",
+    "difficulty": "MEDIUM",
+    "challengeType": "SEQUENCE",
+    "pertanyaan": "Petunjuk membuat teh manis hangat:\n(1) Tuangkan air panas ke dalam gelas secukupnya.\n(2) Siapkan teh celup, gula pasir, air panas, dan sebuah gelas.\n(3) Aduk perlahan dengan sendok hingga teh dan gula larut sempurna.\n(4) Masukkan kantong teh celup dan satu sendok makan gula pasir ke dalam gelas.\n\nUrutan petunjuk membuat teh manis yang benar adalah...",
+    "jawabanBenar": "(2) - (4) - (1) - (3)",
+    "pengecoh": [
+      "(1) - (3) - (2) - (4)",
+      "(2) - (1) - (4) - (3)",
+      "(4) - (1) - (3) - (2)"
+    ],
+    "explanation": "Urutan teks prosedur yang logis: siapkan alat bahan (2), masukkan teh dan gula (4), tuang air panas (1), lalu aduk hingga larut (3)."
+  },
+  {
+    "id": "FA-C-BIND-011",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Huruf Kapital",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah teks berikut!\n(1) liburan sekolah tahun ini sangat menyenangkan bagi Edo. (2) Ia berkunjung ke rumah kakeknya di desa suka makmur. (3) Di sana, Edo memancing ikan di Sungai Brantas. (4) Edo berencana pulang ke jakarta pada hari minggu.\n\nKalimat yang menggunakan huruf kapital dengan tepat ditunjukkan oleh nomor...",
+    "jawabanBenar": "(3)",
+    "pengecoh": [
+      "(1)",
+      "(2)",
+      "(4)"
+    ],
+    "explanation": "Kalimat (3) benar menggunakan kapital pada awal kalimat dan nama geografis (Sungai Brantas). Kalimat (1) salah di awal kalimat (liburan). Kalimat (2) salah di nama tempat (suka makmur). Kalimat (4) salah di nama kota dan hari (jakarta, minggu)."
+  },
+  {
+    "id": "FA-C-BIND-012",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kalimat Efektif",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Perhatikan kalimat berikut: 'Banyak siswa-siswa yang sedang bermain bola di lapangan sekolah.'\n\nKalimat tersebut merupakan kalimat tidak efektif. Alasan yang paling tepat adalah...",
+    "jawabanBenar": "menggunakan pemborosan kata karena 'banyak' dan 'siswa-siswa' memiliki makna jamak yang sama.",
+    "pengecoh": [
+      "kalimat tersebut tidak memiliki unsur predikat dan objek.",
+      "menggunakan huruf kapital yang salah di tengah kalimat.",
+      "kata 'bermain' seharusnya ditulis dengan akhiran '-kan' menjadi 'bermainkan'."
+    ],
+    "explanation": "Pemborosan kata (pleonasme) terjadi jika ada dua penanda jamak yang digunakan bersamaan. 'Banyak' bermakna jamak, dan 'siswa-siswa' juga jamak. Seharusnya: 'Banyak siswa...' atau 'Siswa-siswa...'."
+  },
+  {
+    "id": "FA-C-BIND-013",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Sinonim",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pemerintah desa *mengimbau* masyarakat untuk menghemat penggunaan air bersih selama musim kemarau panjang.\n\nPersamaan kata (sinonim) dari kata yang dicetak miring pada kalimat tersebut adalah...",
+    "jawabanBenar": "mengajak atau meminta",
+    "pengecoh": [
+      "memaksa atau menekan",
+      "menghukum atau mendenda",
+      "membiarkan atau mengabaikan"
+    ],
+    "explanation": "Mengimbau (bentuk baku) berarti meminta, menyerukan, atau memberi ajakan kepada masyarakat untuk melakukan sesuatu."
+  },
+  {
+    "id": "FA-C-BIND-014",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Jenis Teks",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pelangi terjadi karena peristiwa pembiasan cahaya matahari oleh rintik-rintik air hujan di udara. Cahaya matahari yang melewati tetesan air akan dibelokkan dan diuraikan menjadi warna-warni yang indah di langit.\n\nBerdasarkan isinya, paragraf di atas termasuk dalam jenis teks...",
+    "jawabanBenar": "Teks eksplanasi",
+    "pengecoh": [
+      "Teks narasi",
+      "Teks prosedur",
+      "Teks fiksi"
+    ],
+    "explanation": "Teks eksplanasi adalah teks yang menjelaskan proses terjadinya suatu fenomena alam, sosial, atau budaya, beserta sebab-akibatnya secara ilmiah."
+  },
+  {
+    "id": "FA-C-BIND-015",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Unsur Cerita (Latar)",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Sore itu, Andi duduk termenung di tepi sungai. Ia melihat aliran air sungai yang mulai surut dan mengering karena kemarau panjang. Angin meniup dedaunan kering yang jatuh di pangkuannya.\n\nLatar waktu pada kutipan cerita fiksi di atas adalah...",
+    "jawabanBenar": "sore hari",
+    "pengecoh": [
+      "tepi sungai",
+      "aliran sungai",
+      "pagi hari"
+    ],
+    "explanation": "Latar waktu merujuk pada kapan peristiwa dalam cerita tersebut terjadi. Teks secara jelas menyebutkan frasa 'Sore itu'."
+  },
+  {
+    "id": "FA-C-BIND-016",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Peribahasa",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pak Darman tidak pernah menghamburkan uangnya untuk membeli barang-barang yang tidak penting. Ia selalu menyisihkan sebagian pendapatannya untuk ditabung sebagai persiapan masa depan.\n\nPeribahasa yang paling tepat untuk menggambarkan sikap Pak Darman adalah...",
+    "jawabanBenar": "Hemat pangkal kaya.",
+    "pengecoh": [
+      "Besar pasak daripada tiang.",
+      "Air susu dibalas dengan air tuba.",
+      "Rajin pangkal pandai."
+    ],
+    "explanation": "Peribahasa 'Hemat pangkal kaya' berarti jika kita suka menabung dan hidup berhemat, kelak kita akan memiliki kecukupan (kaya) di masa depan."
+  },
+  {
+    "id": "FA-C-BIND-017",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ungkapan (Makna Kiasan)",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Dika selalu menjadi *bintang kelas* sejak ia duduk di kelas satu. Ia sangat tekun belajar dan suka membaca berbagai macam buku di perpustakaan.\n\nMakna ungkapan kata yang dicetak miring pada kalimat tersebut adalah...",
+    "jawabanBenar": "murid yang paling pintar atau berprestasi di kelas",
+    "pengecoh": [
+      "murid yang sering mendapat hukuman dari guru",
+      "anak yang bercita-cita menjadi astronom ruang angkasa",
+      "anak yang paling nakal dan suka mengganggu teman"
+    ],
+    "explanation": "Ungkapan 'bintang kelas' merupakan kiasan (idiom) untuk menyebut seorang murid yang paling berprestasi atau paling menonjol kepintarannya di dalam kelas."
+  },
+  {
+    "id": "FA-C-BIND-018",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kata Hubung (Konjungsi)",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah paragraf rumpang berikut!\nBeni sangat ingin bermain sepak bola di lapangan bersama teman-temannya. [...], hujan turun sangat deras sejak siang tadi. Beni terpaksa berdiam di rumah dan membaca buku cerita.\n\nKata hubung (konjungsi) antarkalimat yang paling tepat untuk melengkapi bagian rumpang tersebut adalah...",
+    "jawabanBenar": "Namun",
+    "pengecoh": [
+      "Oleh karena itu",
+      "Selanjutnya",
+      "Meskipun"
+    ],
+    "explanation": "Kalimat pertama (keinginan bermain) berlawanan dengan kalimat kedua (hujan deras). Konjungsi antarkalimat yang tepat untuk menyatakan pertentangan adalah 'Namun'."
+  },
+  {
+    "id": "FA-C-BIND-019",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Informasi Teks",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Buku fiksi adalah karya yang berisi cerita rekaan atau khayalan penulis, contohnya seperti dongeng, cerpen, dan novel. Sementara itu, buku nonfiksi adalah karya yang berisi fakta dan ilmu pengetahuan yang benar-benar nyata, contohnya buku pelajaran sejarah dan biografi tokoh.\n\nBerdasarkan teks tersebut, perbedaan utama dari buku fiksi dan nonfiksi adalah...",
+    "jawabanBenar": "Buku fiksi berisi cerita rekaan, sedangkan buku nonfiksi berisi informasi berdasarkan fakta.",
+    "pengecoh": [
+      "Buku fiksi menceritakan kehidupan nyata, sedangkan buku nonfiksi menceritakan khayalan.",
+      "Buku fiksi hanya boleh dibaca anak-anak, sedangkan buku nonfiksi untuk orang dewasa.",
+      "Buku fiksi sangat tebal halamannya, sedangkan buku nonfiksi berbentuk buku tipis."
+    ],
+    "explanation": "Teks secara eksplisit membedakan keduanya berdasarkan sifat isinya: fiksi bersumber dari khayalan penulis, sedangkan nonfiksi bersumber dari fakta dan hal nyata."
+  },
+  {
+    "id": "FA-C-BIND-020",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kalimat Tanya",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Rina ditugaskan untuk mewawancarai seorang petugas kebersihan di sekolahnya. Ia ingin mengetahui tahapan atau proses pengelolaan sampah daun kering menjadi pupuk kompos.\n\nKalimat tanya yang paling tepat digunakan Rina untuk menggali informasi tersebut adalah...",
+    "jawabanBenar": "\"Bagaimana cara Bapak mengolah sampah daun-daun kering ini menjadi pupuk kompos?\"",
+    "pengecoh": [
+      "\"Kapan Bapak mulai membuat pupuk kompos dari sampah organik ini?\"",
+      "\"Di mana Bapak menyimpan pupuk kompos yang sudah jadi?\"",
+      "\"Siapa yang menyuruh Bapak membuat pupuk kompos ini?\""
+    ],
+    "explanation": "Untuk menanyakan sebuah tahapan, proses, atau cara melakukan sesuatu, kata tanya yang tepat digunakan adalah 'bagaimana'."
+  },
+  {
+    "id": "FA-C-BIND-021",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Tanggapan Logis",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Andi sering datang terlambat ke sekolah hingga dihukum oleh guru piket. Hal ini terjadi karena ia selalu tidur sangat larut malam untuk bermain game di ponselnya.\n\nTanggapan atau saran yang paling tepat dan logis untuk Andi adalah...",
+    "jawabanBenar": "Sebaiknya Andi segera mengurangi bermain game di malam hari agar bisa tidur cukup dan bangun lebih awal.",
+    "pengecoh": [
+      "Andi sebaiknya berhenti sekolah agar ia bebas bermain game di rumah setiap hari.",
+      "Guru piket seharusnya tidak boleh menghukum Andi karena bermain game adalah haknya.",
+      "Andi harus pindah ke sekolah lain yang jam masuknya lebih siang dari sekolah ini."
+    ],
+    "explanation": "Tanggapan yang baik harus bersifat membangun, masuk akal (logis), dan memberikan solusi yang tepat atas masalah utamanya (tidur larut malam karena game)."
+  },
+  {
+    "id": "FA-C-BIND-022",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Jenis Teks (Iklan)",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "\"Ayo, biasakan hidup sehat! Cucilah tanganmu menggunakan sabun dengan air mengalir agar terhindar dari kuman penyebab berbagai penyakit berbahaya.\"\n\nBerdasarkan isi dan tujuannya, teks di atas termasuk ke dalam jenis iklan...",
+    "jawabanBenar": "layanan masyarakat",
+    "pengecoh": [
+      "penawaran barang",
+      "pengumuman orang hilang",
+      "lowongan pekerjaan"
+    ],
+    "explanation": "Iklan layanan masyarakat adalah iklan yang menyajikan pesan-pesan sosial untuk membangkitkan kepedulian masyarakat terhadap masalah tertentu, seperti kesehatan dan kebersihan."
+  },
+  {
+    "id": "FA-C-BIND-023",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Imbuhan",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Pak Edo mendapat tugas untuk [...] dinding ruang perpustakaan agar terlihat lebih cerah menyambut tahun ajaran baru.\n\nKata berimbuhan yang tepat untuk melengkapi bagian rumpang pada kalimat tersebut adalah...",
+    "jawabanBenar": "mengecat",
+    "pengecoh": [
+      "mencecat",
+      "mengcat",
+      "menyecat"
+    ],
+    "explanation": "Kata dasar yang hanya memiliki satu suku kata (seperti 'cat', 'bom', 'lap') jika diberi awalan 'me-' akan berubah bentuk menjadi 'menge-'. Jadi bentuk yang benar adalah mengecat."
+  },
+  {
+    "id": "FA-C-BIND-024",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Wawancara",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Siswa kelas 5 mendapat tugas kelompok untuk mencari informasi tentang cara fermentasi kedelai menjadi tempe yang benar. Narasumber yang paling tepat untuk diwawancarai oleh kelompok tersebut adalah...",
+    "jawabanBenar": "perajin tempe",
+    "pengecoh": [
+      "peternak sapi",
+      "pedagang buah",
+      "dokter gigi"
+    ],
+    "explanation": "Narasumber adalah orang yang memberikan informasi yang valid. Untuk topik pembuatan tempe, orang yang paling ahli dan relevan adalah perajin pembuat tempe."
+  },
+  {
+    "id": "FA-C-BIND-025",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ringkasan Teks",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bersepeda memiliki banyak manfaat bagi tubuh kita. Selain dapat memperkuat otot-otot kaki, bersepeda secara rutin juga berguna untuk menjaga kesehatan jantung. Kegiatan ini juga dinilai ramah lingkungan karena sepeda tidak mengeluarkan asap hasil pembakaran bahan bakar.\n\nRingkasan yang paling tepat dari keseluruhan teks di atas adalah...",
+    "jawabanBenar": "Bersepeda sangat bermanfaat bagi kesehatan otot dan jantung, serta menjadi transportasi yang ramah lingkungan.",
+    "pengecoh": [
+      "Asap hasil pembakaran bahan bakar motor menyebabkan penyakit jantung pada manusia.",
+      "Sepeda harus dikayuh menggunakan kekuatan otot kaki agar bisa berjalan dengan cepat.",
+      "Semua orang harus pergi bekerja naik sepeda karena sepeda tidak memerlukan bahan bakar."
+    ],
+    "explanation": "Ringkasan adalah intisari teks yang merangkum seluruh ide pokoknya. Ringkasan yang benar mencakup poin manfaat kesehatan (otot, jantung) dan aspek ramah lingkungan."
+  },
+  {
+    "id": "FA-C-BIND-026",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kalimat Persuasif",
+    "difficulty": "MEDIUM",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah teks poster berikut!\n(1) Hutan adalah paru-paru dunia yang menghasilkan oksigen. (2) Banyak hewan dan tumbuhan langka hidup di dalamnya. (3) Mari kita lindungi hutan dari penebangan liar! (4) Menjaga kelestarian hutan adalah tanggung jawab kita bersama.\n\nKalimat persuasif pada teks poster tersebut ditunjukkan oleh nomor...",
+    "jawabanBenar": "(3)",
+    "pengecoh": [
+      "(1)",
+      "(2)",
+      "(4)"
+    ],
+    "explanation": "Kalimat persuasif bertujuan untuk membujuk atau mengajak, yang sering kali ditandai dengan kata seruan ajakan seperti 'mari' atau 'ayo'. Hal ini terdapat pada kalimat (3)."
+  },
+  {
+    "id": "FA-C-BIND-027",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Pidato",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Bacalah kutipan teks pidato berikut!\n\"Teman-teman yang saya cintai, menjaga kebersihan kelas adalah tanggung jawab kita bersama. Kelas yang bersih akan membuat kita belajar dengan nyaman. Oleh karena itu, saya mengajak teman-teman semua untuk selalu membuang sampah pada tempatnya dan melaksanakan piket dengan rajin.\"\n\nIsi atau tujuan utama dari kutipan pidato tersebut adalah...",
+    "jawabanBenar": "mengajak pendengar untuk saling bekerja sama menjaga kebersihan kelas",
+    "pengecoh": [
+      "meminta maaf jika ada kesalahan kata saat melaksanakan tugas piket",
+      "menceritakan pengalaman pribadi membersihkan ruang kelas sendirian",
+      "mengucapkan rasa syukur dan terima kasih karena bisa berkumpul di kelas"
+    ],
+    "explanation": "Berdasarkan isinya, pembicara dengan jelas mengutarakan ajakan (persuasi) agar teman-temannya mau bersama-sama membuang sampah dan menjalankan piket kelas."
+  },
+  {
+    "id": "FA-C-BIND-028",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Surat Pribadi",
+    "difficulty": "MEDIUM",
+    "challengeType": "SEQUENCE",
+    "pertanyaan": "Perhatikan kerangka bagian-bagian surat pribadi berikut:\n(1) Tempat dan tanggal pembuatan surat\n(2) Alamat tujuan surat\n(3) Salam pembuka\n(4) Isi surat\n(5) Salam penutup dan tanda tangan pengirim\n\nSusunan kerangka surat pribadi yang tepat dari awal hingga akhir adalah...",
+    "jawabanBenar": "(1) - (2) - (3) - (4) - (5)",
+    "pengecoh": [
+      "(3) - (1) - (2) - (4) - (5)",
+      "(1) - (3) - (2) - (5) - (4)",
+      "(2) - (1) - (4) - (3) - (5)"
+    ],
+    "explanation": "Secara standar, format surat pribadi dimulai dengan (1) tempat/tanggal di sudut atas, (2) alamat tujuan, (3) salam pembuka, (4) isi pesan, dan diakhiri dengan (5) salam penutup beserta tanda tangan."
+  },
+  {
+    "id": "FA-C-BIND-029",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Jenis Teks Fiksi",
+    "difficulty": "EASY",
+    "challengeType": "IDENTIFY",
+    "pertanyaan": "Cerita fiksi tentang asal-usul terjadinya Gunung Tangkuban Perahu atau mitos tentang Si Malin Kundang yang berubah menjadi batu karena durhaka, termasuk ke dalam jenis cerita...",
+    "jawabanBenar": "legenda",
+    "pengecoh": [
+      "fabel",
+      "biografi",
+      "berita"
+    ],
+    "explanation": "Legenda adalah cerita rakyat pada zaman dahulu yang ada hubungannya dengan kejadian magis, mitos, tokoh sejarah, atau asal-usul terjadinya suatu tempat (seperti Tangkuban Perahu)."
+  },
+  {
+    "id": "FA-C-BIND-030",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Laporan Pengamatan",
+    "difficulty": "MEDIUM",
+    "challengeType": "MULTI_TARGET",
+    "pertanyaan": "Perhatikan ciri-ciri penulisan teks berikut:\n(1) Menggunakan kalimat berupa perintah atau larangan.\n(2) Berisi data dan fakta yang objektif (nyata).\n(3) Berisi cerita khayalan penulis yang didramatisir.\n(4) Ditulis berdasarkan hasil observasi secara langsung di lapangan.\n\nCiri-ciri utama dari penulisan sebuah teks laporan hasil pengamatan ditunjukkan oleh nomor...",
+    "jawabanBenar": "(2) dan (4)",
+    "pengecoh": [
+      "(1) dan (3)",
+      "(2) dan (3)",
+      "(1) dan (4)"
+    ],
+    "explanation": "Teks laporan hasil pengamatan (observasi) adalah teks yang disusun untuk melaporkan sebuah kejadian, benda, atau tempat secara objektif dan faktual setelah diamati secara langsung."
+  }
+]

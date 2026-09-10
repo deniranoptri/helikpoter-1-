@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-INF-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Perangkat Keras",
+    "pertanyaan": "Perangkat komputer yang berfungsi sebagai otak utama untuk memproses data dan mengeksekusi instruksi program adalah...",
+    "jawabanBenar": "CPU (Central Processing Unit)",
+    "pengecoh": [
+      "RAM",
+      "Harddisk",
+      "Monitor"
+    ],
+    "difficulty": "EASY",
+    "explanation": "CPU adalah unit pemroses sentral yang mengontrol seluruh jalannya sistem komputer dan melakukan operasi aritmetika serta logika.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Abstraksi",
+    "pertanyaan": "Saat menggambar peta rute angkutan umum, pembuat peta hanya menampilkan garis warna-warni dan nama stasiun, tanpa menggambar pohon, gedung, atau jalan kecil. Proses mengabaikan detail yang tidak penting dan hanya fokus pada informasi utama ini disebut...",
+    "jawabanBenar": "Abstraksi",
+    "pengecoh": [
+      "Dekomposisi",
+      "Algoritma",
+      "Pengenalan Pola"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Abstraksi dalam berpikir komputasional adalah proses menyembunyikan detail yang rumit atau tidak relevan dan hanya menonjolkan fitur yang paling penting untuk memecahkan masalah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Jejak Digital",
+    "pertanyaan": "Segala aktivitas yang kita lakukan di internet, seperti mengunggah foto, memberikan komentar, atau riwayat pencarian, akan meninggalkan catatan yang sulit dihapus. Hal ini dikenal dengan istilah...",
+    "jawabanBenar": "Jejak digital (Digital footprint)",
+    "pengecoh": [
+      "Virus komputer",
+      "Spam email",
+      "Cookie web"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Jejak digital adalah rekam jejak data yang tertinggal saat seseorang menggunakan internet, yang dapat berdampak pada reputasi online seseorang di masa depan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Perlindungan Data",
+    "pertanyaan": "Untuk melindungi akun media sosial agar tidak mudah diretas, kriteria pembuatan kata sandi (password) yang paling kuat dan aman adalah...",
+    "jawabanBenar": "Kombinasi huruf besar, huruf kecil, angka, dan simbol khusus",
+    "pengecoh": [
+      "Menggunakan tanggal lahir sendiri agar mudah diingat",
+      "Menggunakan nama hewan peliharaan",
+      "Menggunakan deretan angka berurutan seperti 12345678"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kata sandi yang kuat (strong password) menggabungkan berbagai karakter acak sehingga sulit ditebak oleh peretas maupun program pembobol sandi (brute-force).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Etika Komunikasi Digital",
+    "pertanyaan": "Saat berkomunikasi melalui grup obrolan (chat), Andi mengetik seluruh pesannya menggunakan HURUF KAPITAL. Dalam etika komunikasi digital (netiquette), penggunaan huruf kapital untuk seluruh kalimat biasanya diartikan sebagai...",
+    "jawabanBenar": "Mengekspresikan kemarahan atau berteriak",
+    "pengecoh": [
+      "Menunjukkan rasa hormat kepada lawan bicara",
+      "Menandakan berita yang sangat menggembirakan",
+      "Memperjelas tulisan agar mudah dibaca oleh semua orang"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dalam dunia digital, menulis dengan huruf kapital seluruhnya (ALL CAPS) dianggap sebagai bentuk teriakan atau ekspresi kemarahan dan dianggap tidak sopan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Internet",
+    "pertanyaan": "Kumpulan komputer dan perangkat jaringan di seluruh dunia yang saling terhubung membentuk suatu jaringan global yang sangat besar untuk berbagi informasi disebut...",
+    "jawabanBenar": "Internet",
+    "pengecoh": [
+      "Intranet",
+      "Local Area Network (LAN)",
+      "Bluetooth"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Internet (Interconnected Network) adalah sistem jaringan komputer global yang menghubungkan miliaran perangkat di seluruh dunia menggunakan protokol standar (TCP/IP).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Algoritma",
+    "pertanyaan": "Urutan langkah-langkah logis dan sistematis yang disusun secara terstruktur untuk memecahkan suatu masalah atau menyelesaikan suatu tugas disebut...",
+    "jawabanBenar": "Algoritma",
+    "pengecoh": [
+      "Dekomposisi",
+      "Pseudocode",
+      "Flowchart"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Algoritma adalah serangkaian instruksi atau prosedur langkah demi langkah yang pasti dan terdefinisi dengan baik untuk menyelesaikan suatu tugas komputasi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Perangkat Keluaran",
+    "pertanyaan": "Perangkat keras (hardware) berikut ini yang berfungsi untuk menampilkan hasil pengolahan data komputer ke dalam bentuk cetakan (hardcopy) pada kertas adalah...",
+    "jawabanBenar": "Printer",
+    "pengecoh": [
+      "Scanner",
+      "Monitor",
+      "Proyektor"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Printer adalah perangkat output yang mencetak dokumen digital (teks atau gambar) ke media fisik seperti kertas.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Sistem Operasi",
+    "pertanyaan": "Perangkat lunak dasar yang berfungsi mengelola perangkat keras dan menyediakan layanan untuk aplikasi komputer berjalan (seperti Windows, macOS, Android, atau Linux) disebut...",
+    "jawabanBenar": "Sistem Operasi (Operating System)",
+    "pengecoh": [
+      "Program Antivirus",
+      "Perangkat Lunak Pengolah Kata",
+      "Browser Internet"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sistem Operasi bertindak sebagai jembatan atau manajer antara perangkat keras (hardware) dan program aplikasi (software) agar komputer dapat digunakan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Algoritma Sekuensial",
+    "pertanyaan": "Susunlah algoritma sederhana membuat secangkir kopi berikut ini agar menjadi urutan langkah yang logis!\n1. Tuangkan air panas ke dalam cangkir.\n2. Siapkan cangkir, kopi bubuk, dan gula.\n3. Aduk hingga merata dan kopi siap diminum.\n4. Masukkan kopi bubuk dan gula ke dalam cangkir.",
+    "jawabanBenar": "2 - 4 - 1 - 3",
+    "pengecoh": [
+      "1 - 2 - 3 - 4",
+      "4 - 1 - 2 - 3",
+      "2 - 1 - 4 - 3"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Urutan algoritmik yang logis: menyiapkan bahan (2), memasukkan bahan kering (4), menuangkan air panas (1), lalu mengaduknya (3).",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FD-INF-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Percabangan",
+    "pertanyaan": "Perhatikan algoritma berikut:\n1. Baca nilai ujian siswa.\n2. Jika nilai >= 75, maka cetak 'Lulus'.\n3. Jika nilai < 75, maka cetak 'Remedial'.\nJika seorang siswa mendapatkan nilai 75, apa output yang akan dicetak oleh algoritma tersebut?",
+    "jawabanBenar": "Lulus",
+    "pengecoh": [
+      "Remedial",
+      "Lulus dan Remedial",
+      "Tidak mencetak apa-apa"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kondisi 'Jika nilai >= 75' berarti nilai 75 sudah termasuk dalam kondisi pertama karena ada tanda sama dengan (>=). Jadi, outputnya adalah 'Lulus'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Dekomposisi",
+    "pertanyaan": "Tim robotik sekolah ingin merancang robot pemungut sampah. Karena terlalu rumit, mereka membagi proyek tersebut menjadi bagian-bagian yang lebih kecil: merancang rangka, memprogram sensor, dan merakit roda penggerak. Teknik berpikir komputasional yang sedang mereka terapkan adalah...",
+    "jawabanBenar": "Dekomposisi",
+    "pengecoh": [
+      "Pengenalan Pola",
+      "Abstraksi",
+      "Desain Algoritma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dekomposisi adalah proses memecah masalah atau sistem yang kompleks menjadi bagian-bagian yang lebih kecil, lebih mudah dikelola, dan lebih mudah dipahami.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Pengenalan Pola",
+    "pertanyaan": "Sebuah barisan angka memiliki pola: 2, 5, 10, 17, 26. Angka berapakah yang akan muncul pada urutan selanjutnya jika pola tersebut diteruskan?",
+    "jawabanBenar": "37",
+    "pengecoh": [
+      "35",
+      "39",
+      "41"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Selisih antar angka bertambah secara konstan dengan bilangan ganjil: +3 (2 ke 5), +5 (5 ke 10), +7 (10 ke 17), +9 (17 ke 26). Maka penambahan selanjutnya adalah +11. 26 + 11 = 37.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Ancaman Keamanan",
+    "pertanyaan": "Budi menerima email yang seolah-olah dari banknya, meminta Budi mengklik sebuah tautan dan memasukkan PIN karena 'akunnya akan diblokir'. Tindakan penipuan yang memancing korban untuk memberikan data sensitif ini disebut...",
+    "jawabanBenar": "Phishing",
+    "pengecoh": [
+      "Hacking",
+      "Cyberbullying",
+      "Defacing"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Phishing adalah teknik rekayasa sosial di mana penyerang menyamar sebagai entitas tepercaya (seperti bank) untuk mengelabui korban agar memberikan informasi sensitif.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Aplikasi Pengolah Angka",
+    "pertanyaan": "Dalam aplikasi spreadsheet (seperti Microsoft Excel atau Google Sheets), fungsi yang digunakan untuk menghitung nilai rata-rata dari sekumpulan data angka pada sel tertentu adalah...",
+    "jawabanBenar": "AVERAGE",
+    "pengecoh": [
+      "SUM",
+      "COUNT",
+      "MAX"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Fungsi AVERAGE digunakan untuk mencari nilai rata-rata, sedangkan SUM untuk total penjumlahan, COUNT untuk menghitung jumlah sel, dan MAX untuk nilai tertinggi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Representasi Data",
+    "pertanyaan": "Komputer hanya memahami data dalam bentuk bilangan biner (basis 2), yaitu 0 dan 1. Nilai desimal (basis 10) dari bilangan biner 1010 adalah...",
+    "jawabanBenar": "10",
+    "pengecoh": [
+      "8",
+      "12",
+      "14"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Konversi biner ke desimal: (1 x 2^3) + (0 x 2^2) + (1 x 2^1) + (0 x 2^0) = 8 + 0 + 2 + 0 = 10.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Konektivitas Jaringan",
+    "pertanyaan": "Saat membagikan koneksi internet dari smartphone ke laptop tanpa menggunakan kabel fisik, teknologi nirkabel yang paling umum digunakan disebut tethering menggunakan...",
+    "jawabanBenar": "Wi-Fi (Hotspot)",
+    "pengecoh": [
+      "Fiber Optic",
+      "LAN Ethernet",
+      "NFC"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tethering menggunakan fitur Mobile Hotspot memancarkan sinyal Wi-Fi dari smartphone yang kemudian ditangkap oleh laptop untuk mengakses internet tanpa kabel.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Anda membaca sebuah artikel provokatif di media sosial yang memicu amarah banyak orang tentang kejadian di kota Anda. Langkah paling etis dan tepat untuk mencegah penyebaran hoaks adalah...",
+    "jawabanBenar": "Memeriksa sumber informasi (fact-checking) silang dengan portal berita yang resmi dan tepercaya",
+    "pengecoh": [
+      "Langsung membagikan (share) artikel tersebut agar teman-teman ikut waspada",
+      "Menulis komentar kemarahan tanpa perlu membaca isi beritanya secara utuh",
+      "Menghapus akun media sosial secara permanen agar tidak membaca berita"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Literasi informasi menuntut kita untuk selalu bersikap kritis, melakukan verifikasi fakta (fact-checking), dan tidak membagikan informasi provokatif yang belum terbukti kebenarannya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Pengelolaan File",
+    "pertanyaan": "Ekstensi (akhiran) nama file membantu sistem operasi mengenali format data dan aplikasi apa yang harus digunakan untuk membukanya. Ekstensi file standar untuk dokumen gambar atau foto digital adalah...",
+    "jawabanBenar": ".jpg atau .png",
+    "pengecoh": [
+      ".docx atau .pdf",
+      ".mp3 atau .wav",
+      ".exe atau .bat"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": ".jpg (JPEG) dan .png adalah format kompresi untuk gambar/foto digital. (.docx untuk dokumen kata, .mp3 untuk audio, .exe untuk program executable).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Kolaborasi Digital",
+    "pertanyaan": "Keuntungan utama menggunakan aplikasi dokumen berbasis cloud (seperti Google Docs) untuk mengerjakan tugas kelompok dibandingkan aplikasi pengolah kata konvensional yang diinstal di komputer adalah...",
+    "jawabanBenar": "Memungkinkan beberapa orang mengedit dan berkolaborasi dalam dokumen yang sama secara bersamaan (real-time) dari lokasi berbeda",
+    "pengecoh": [
+      "Menghemat memori komputer karena sama sekali tidak membutuhkan koneksi internet saat mengedit",
+      "Memiliki fitur keamanan yang membuat teks yang sudah diketik tidak bisa dihapus oleh siapapun",
+      "Tidak memerlukan perangkat elektronik apa pun untuk menggunakannya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Cloud computing memfasilitasi kolaborasi real-time tanpa perlu repot mengirim file bolak-balik via email atau flashdisk.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Logika Komputer",
+    "pertanyaan": "Dalam logika operasi komputer, ekspresi logika (A AND B) hanya akan menghasilkan nilai keluaran BENAR (True) apabila...",
+    "jawabanBenar": "Kondisi A dan kondisi B keduanya bernilai BENAR",
+    "pengecoh": [
+      "Hanya kondisi A yang bernilai BENAR",
+      "Salah satu kondisi bernilai BENAR",
+      "Kondisi A dan kondisi B keduanya bernilai SALAH"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Operator logika AND menuntut seluruh kondisi atau premis yang dievaluasi bernilai True agar hasil akhirnya True. Jika salah satu False, hasilnya False.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Privasi Digital",
+    "pertanyaan": "Mengatur profil media sosial menjadi 'Private' (pribadi/terkunci) merupakan langkah keamanan yang sangat penting bagi remaja, yang fungsi utamanya adalah untuk mencegah...",
+    "jawabanBenar": "Orang asing (tidak dikenal) mengakses dan menyalahgunakan foto serta informasi pribadi kita",
+    "pengecoh": [
+      "Akun media sosial dihapus otomatis oleh pihak pengembang aplikasi",
+      "Virus dan malware menginfeksi perangkat keras smartphone kita",
+      "Penurunan jumlah teman di dunia nyata secara drastis"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Akun private membatasi siapa saja yang bisa melihat aktivitas dan data kita, sehingga mencegah kejahatan seperti pencurian identitas, doxing, atau penguntitan (stalking) oleh orang tak dikenal.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Etika Digital",
+    "pertanyaan": "Saat membuat makalah tugas sekolah, Dina menyalin seluruh teks dari sebuah blog di internet dan memindahkannya (copy-paste) ke dokumennya tanpa menyebutkan nama penulis asli, seolah-olah itu adalah hasil pemikirannya sendiri. Tindakan melanggar etika akademis yang dilakukan Dina disebut...",
+    "jawabanBenar": "Plagiarisme (Penjiplakan)",
+    "pengecoh": [
+      "Paraphrasing (Parafrasa)",
+      "Cyberstalking (Penguntitan siber)",
+      "Open Source (Sumber Terbuka)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Plagiarisme adalah tindakan pencurian intelektual dengan mengklaim karya atau pemikiran orang lain sebagai karya diri sendiri tanpa memberikan kredit/kutipan yang semestinya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Teknik Pencarian",
+    "pertanyaan": "Saat mencari informasi di mesin pencari (search engine), jika kita menggunakan tanda kutip untuk mengapit kata kunci (misal: \"pemanasan global\"), tujuan perintah tersebut adalah untuk...",
+    "jawabanBenar": "Mencari halaman web yang memuat persis susunan kata tersebut secara utuh dan berurutan",
+    "pengecoh": [
+      "Mencari hanya gambar-gambar dan video yang berkaitan dengan kata tersebut",
+      "Mengecualikan (menghilangkan) kata tersebut dari semua hasil pencarian yang muncul",
+      "Mencari arti masing-masing kata tersebut secara terpisah di dalam kamus digital"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Operator tanda kutip ganda (\"\") pada mesin pencari menginstruksikan sistem untuk melakukan pencarian frasa eksak (exact match) dengan urutan kata yang sama persis.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Dampak Sosial Teknologi",
+    "pertanyaan": "Berkembangnya e-commerce memberikan banyak kemudahan berbelanja dari rumah dan memperluas pasar bagi UMKM. Namun, di sisi lain hal ini juga menimbulkan dampak sosial negatif bagi sektor ekonomi tradisional, yaitu...",
+    "jawabanBenar": "Toko-toko ritel fisik dan pasar tradisional yang tidak beradaptasi akan kehilangan pembeli",
+    "pengecoh": [
+      "Bertambahnya jumlah pabrik manufaktur di setiap desa secara massal",
+      "Meningkatnya lowongan pekerjaan sebagai kasir supermarket besar",
+      "Kualitas seluruh barang yang dijual di pasar berubah menjadi palsu"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Disrupsi teknologi (seperti e-commerce) mengubah perilaku konsumen, menyebabkan sektor konvensional yang gagal melakukan transformasi digital (seperti mal atau toko fisik) kehilangan omzet.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Algoritma Perulangan",
+    "pertanyaan": "Perhatikan algoritma berikut ini:\n1. Tetapkan nilai X = 1\n2. Ulangi proses berikut selama X kurang dari 5:\n   a. Cetak nilai X\n   b. Tambah nilai X dengan 2\nApa output yang akan dicetak oleh algoritma tersebut ke layar dari awal hingga selesai?",
+    "jawabanBenar": "1, 3",
+    "pengecoh": [
+      "1, 2, 3, 4",
+      "1, 3, 5",
+      "3, 5"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Langkah pertama: X=1. Karena 1<5, ia mencetak '1'. Kemudian X+2 menjadikan X=3. Loop kedua: Karena 3<5, ia mencetak '3'. X+2 menjadikan X=5. Loop ketiga: kondisi X<5 (5<5) menjadi SALAH, sehingga iterasi berhenti. Output akhir: 1 dan 3.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Pemecahan Masalah Komputasional",
+    "pertanyaan": "Sebuah robot pembersih dirancang untuk bergerak di atas kotak-kotak grid. Perintah yang diketahuinya hanya: MAJU (1 kotak), KIRI (berputar 90 derajat ke kiri di tempat), KANAN (berputar 90 derajat ke kanan di tempat). Saat ini robot menghadap ke arah Utara. Untuk mencapai tempat sampah yang posisinya berada 2 kotak di Utara dan 1 kotak di Timur dari posisinya sekarang, urutan perintah algoritma yang paling efisien adalah...",
+    "jawabanBenar": "MAJU, MAJU, KANAN, MAJU",
+    "pengecoh": [
+      "MAJU, KIRI, MAJU, KANAN",
+      "KANAN, MAJU, KIRI, MAJU, MAJU",
+      "MAJU, MAJU, KIRI, MAJU"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Robot sudah menghadap Utara. MAJU, MAJU akan membawanya 2 kotak ke Utara. Lalu untuk menuju ke Timur, robot berputar 90 derajat ke KANAN. Terakhir MAJU 1 kotak untuk mencapai posisi akhir (1 Timur, 2 Utara).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Analisis Data (Kondisi)",
+    "pertanyaan": "Sebuah sistem pendaftaran menyeleksi siswa dengan aturan logika komputer menggunakan operator boolean. Syarat lolos adalah: (Nilai Matematika > 80) OR (Nilai Bahasa Inggris > 80). Siapa di antara siswa berikut yang datanya akan ditolak atau TIDAK lolos?",
+    "jawabanBenar": "Siswa B: Matematika 75, Bahasa Inggris 80",
+    "pengecoh": [
+      "Siswa A: Matematika 85, Bahasa Inggris 70",
+      "Siswa C: Matematika 90, Bahasa Inggris 90",
+      "Siswa D: Matematika 80, Bahasa Inggris 85"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Operator OR (Atau) mewajibkan setidaknya salah satu kondisi bernilai Benar agar hasilnya Lolos. Pada Siswa B, Math (75>80) adalah Salah, dan Ing (80>80) adalah Salah (karena 80 tidak lebih besar dari 80). Karena Salah OR Salah, ia tidak lolos.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Kriptografi",
+    "pertanyaan": "Metode enkripsi Caesar Cipher (Sandi Caesar) membedakan dan menyandikan setiap huruf dengan menggesernya sejumlah posisi tertentu secara alfabetis. Jika kata 'BUKU' dienkripsi menggunakan pergeseran 1 huruf ke kanan (A menjadi B, B menjadi C, dan seterusnya), maka hasil enkripsinya (ciphertext) adalah...",
+    "jawabanBenar": "CVLV",
+    "pengecoh": [
+      "ATJT",
+      "CUKV",
+      "DWMW"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Menggeser huruf sebanyak 1 posisi maju di alfabet: B maju 1 -> C. U maju 1 -> V. K maju 1 -> L. U maju 1 -> V. Maka kata sandinya adalah CVLV.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-INF-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Informatika",
+    "topik": "Sequencing Logika",
+    "pertanyaan": "Anda diminta merancang algoritma untuk mengecek apakah sebuah bilangan bulat positif bersifat genap atau ganjil. Susunlah urutan langkah yang paling tepat!\n1. Jika sisa bagi adalah 0, maka cetak 'Genap'.\n2. Minta program membaca sebuah bilangan dari masukan pengguna.\n3. Jika sisa bagi bukan 0, maka cetak 'Ganjil'.\n4. Bagi bilangan tersebut dengan angka 2 dan hitung sisa baginya (operasi modulo).",
+    "jawabanBenar": "2 - 4 - 1 - 3",
+    "pengecoh": [
+      "1 - 3 - 2 - 4",
+      "2 - 1 - 3 - 4",
+      "4 - 2 - 1 - 3"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Urutan algoritmik: Program harus menerima input (2), kemudian memproses perhitungan matematisnya (4), mengevaluasi hasil kondisional pertama (1), lalu mengevaluasi kondisional lainnya (3).",
+    "challengeType": "SEQUENCE"
+  }
+]

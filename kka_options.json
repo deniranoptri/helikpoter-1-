@@ -1,0 +1,272 @@
+[
+  {
+    "id": "FD-KKA-001",
+    "j": "Menyaring (filtering) atau mengurutkan (sorting) data pada kolom Eskul Pilihan",
+    "p": [
+      "Membaca daftar nama siswa dari urutan nomor 1 hingga 100 secara berulang",
+      "Menghapus semua data siswa yang tidak mengikuti eskul Basket dari memori",
+      "Membuat tabel baru setiap kali ada satu orang siswa yang mendaftar"
+    ]
+  },
+  {
+    "id": "FD-KKA-002",
+    "j": "Mengikuti langkah-langkah resep memasak nasi goreng dari awal hingga siap disajikan",
+    "p": [
+      "Menggambar bebas di atas kertas kosong tanpa tujuan tertentu",
+      "Berbicara secara spontan (improvisasi) saat menceritakan sebuah dongeng",
+      "Memilih baju secara acak dari dalam lemari saat terburu-buru"
+    ]
+  },
+  {
+    "id": "FD-KKA-003",
+    "j": "Dekomposisi",
+    "p": [
+      "Pengenalan Pola",
+      "Abstraksi",
+      "Desain Algoritma"
+    ]
+  },
+  {
+    "id": "FD-KKA-004",
+    "j": "Sistem tidak memberikan diskon (0%) karena syarat tidak terpenuhi",
+    "p": [
+      "Sistem memberikan diskon 10% karena Rp45.000 mendekati Rp50.000",
+      "Sistem membatalkan transaksi karena uang tidak cukup",
+      "Sistem memberikan diskon secara acak tergantung programnya"
+    ]
+  },
+  {
+    "id": "FD-KKA-005",
+    "j": "2 - 3 - 4 - 1",
+    "p": [
+      "3 - 2 - 4 - 1",
+      "2 - 4 - 3 - 1",
+      "1 - 2 - 3 - 4"
+    ]
+  },
+  {
+    "id": "FD-KKA-006",
+    "j": "Abstraksi",
+    "p": [
+      "Dekomposisi",
+      "Evaluasi Data",
+      "Debug Algoritma"
+    ]
+  },
+  {
+    "id": "FD-KKA-007",
+    "j": "Pengenalan Pola (Pattern Recognition)",
+    "p": [
+      "Pengulangan Logika (Looping)",
+      "Penyandian Data (Enkripsi)",
+      "Pembuatan Pseudocode"
+    ]
+  },
+  {
+    "id": "FD-KKA-008",
+    "j": "Pejalan kaki tidak akan pernah bisa menyeberang jalan, karena pada langkah 3 (saat kendaraan berhenti) mereka seharusnya diizinkan menyeberang.",
+    "p": [
+      "Langkah nomor 1 salah, karena mobil seharusnya berhenti saat lampu hijau menyala.",
+      "Lampu kuning seharusnya dilewati saja dari urutan algoritma karena membuang waktu.",
+      "Algoritma sudah sangat benar dan aman bagi pejalan kaki."
+    ]
+  },
+  {
+    "id": "FD-KKA-009",
+    "j": "Gempa bumi dengan magnitudo 5.0 terjadi di lepas pantai selatan pada hari Senin pukul 10.00 WIB.",
+    "p": [
+      "Cuaca di pantai selatan sangat indah dan menenangkan pikiran setiap hari Senin.",
+      "Menurut saya, gempa bumi adalah bencana yang paling menakutkan dari semua bencana alam.",
+      "Sebaiknya semua orang pindah dari pesisir pantai agar merasa lebih aman."
+    ]
+  },
+  {
+    "id": "FD-KKA-010",
+    "j": ".edu, .ac.id, atau .go.id",
+    "p": [
+      ".com, .net, atau .biz",
+      ".blogspot.com atau .wordpress.com",
+      ".tv, .shop, atau .info"
+    ]
+  },
+  {
+    "id": "FD-KKA-011",
+    "j": "Atribusi (mencantumkan sumber tautan atau nama pencipta gambar tersebut di dalam presentasinya)",
+    "p": [
+      "Mengubah warna gambar tersebut sedikit agar terlihat seperti buatannya sendiri",
+      "Mengaku kepada gurunya bahwa ia menggambar ilustrasi tersebut semalaman",
+      "Membayar uang langsung kepada pihak sekolah sebagai biaya izin presentasi"
+    ]
+  },
+  {
+    "id": "FD-KKA-012",
+    "j": "Pencurian identitas (identity theft) dan manipulasi data untuk penipuan finansial",
+    "p": [
+      "Memori server media sosial akan cepat penuh dan akun kita otomatis terhapus",
+      "Akun media sosial akan secara otomatis berubah menjadi akun premium berbayar",
+      "Mengakibatkan perangkat smartphone terkena korsleting atau rusak baterainya"
+    ]
+  },
+  {
+    "id": "FD-KKA-013",
+    "j": "Infografis",
+    "p": [
+      "Audio Podcast berdurasi 1 jam",
+      "Dokumen teks PDF sebanyak 10 halaman penuh",
+      "Video resolusi 4K berisi layar hitam kosong"
+    ]
+  },
+  {
+    "id": "FD-KKA-014",
+    "j": "Penggunaan judul sensasional dan instruksi mendesak untuk \"Viralkan!\" tanpa sumber rujukan ahli medis yang jelas",
+    "p": [
+      "Menyertakan kutipan resmi dari jurnal kedokteran yang diakui dunia",
+      "Ditulis dengan ejaan bahasa yang sangat baku, tenang, dan tertata rapi",
+      "Hanya dikirim oleh guru atau kepala sekolah melalui pengumuman resmi"
+    ]
+  },
+  {
+    "id": "FD-KKA-015",
+    "j": "Rina melakukan pelanggaran etika dan jejak digital yang dapat berujung pada cyberbullying serta mempermalukan korban selamanya",
+    "p": [
+      "Rina melakukan hal yang benar karena konten komedi selalu kebal dari aturan etika",
+      "Tindakan tersebut sepenuhnya aman selama Rina tidak menuliskan nama asli temannya di caption",
+      "Tindakan Rina akan dihargai oleh sekolah sebagai karya jurnalistik dokumenter"
+    ]
+  },
+  {
+    "id": "FD-KKA-016",
+    "j": "Dilatih menggunakan jutaan teks (data besar) untuk mengenali pola bahasa dan menebak probabilitas kata selanjutnya",
+    "p": [
+      "Memiliki otak biologis buatan yang tumbuh di dalam komputer server",
+      "Secara ajaib langsung mengetahui segalanya sejak ia pertama kali dihidupkan",
+      "Memiliki ruh dan perasaan empati persis seperti yang dimiliki manusia"
+    ]
+  },
+  {
+    "id": "FD-KKA-017",
+    "j": "Halusinasi (Hallucination)",
+    "p": [
+      "Kloning suara (Voice Cloning)",
+      "Verifikasi dua langkah (2FA)",
+      "Virus Ransomware"
+    ]
+  },
+  {
+    "id": "FD-KKA-018",
+    "j": "AI tidak memiliki empati, kebijaksanaan, dan kesadaran moral atas keputusan yang dibuatnya",
+    "p": [
+      "AI tidak mampu menyelesaikan operasi matematika dasar seperti penjumlahan",
+      "AI selalu membutuhkan waktu bertahun-tahun untuk membalas satu kalimat pendek",
+      "AI tidak bisa disambungkan ke jaringan listrik komputer modern"
+    ]
+  },
+  {
+    "id": "FD-KKA-019",
+    "j": "Andi, karena sebagai manusia, ia adalah pembuat keputusan akhir yang wajib memverifikasi hasil kerja AI sebelum diklaim sebagai karyanya",
+    "p": [
+      "Program AI tersebut, karena mesin selalu disalahkan atas setiap kesalahan",
+      "Perusahaan pembuat AI, karena mereka tidak pernah memperingatkan penggunanya",
+      "Guru sejarah, karena memberikan tugas makalah yang terlalu sulit bagi Andi"
+    ]
+  },
+  {
+    "id": "FD-KKA-020",
+    "j": "Deepfake",
+    "p": [
+      "Augmented Reality (AR)",
+      "Virtual Reality (VR)",
+      "Stop Motion Animation"
+    ]
+  },
+  {
+    "id": "FD-KKA-021",
+    "j": "Bias Algoritma (AI Bias)",
+    "p": [
+      "Bug Visualisasi Data",
+      "Halusinasi Geografis",
+      "Kecerdasan Super (Superintelligence)"
+    ]
+  },
+  {
+    "id": "FD-KKA-022",
+    "j": "Lakukan cross-check (verifikasi silang) rumus tersebut dengan buku cetak pelajaran resmi atau panduan dari guru",
+    "p": [
+      "Langsung menghafalkannya karena AI komputer memiliki kecerdasan absolut dan tidak pernah salah",
+      "Menyalin (copy-paste) persis jawaban tersebut dan membagikannya langsung ke grup kelas tanpa membacanya",
+      "Mematikan komputer karena menggunakan AI untuk belajar adalah hal yang terlarang di seluruh dunia"
+    ]
+  },
+  {
+    "id": "FD-KKA-023",
+    "j": "Prompt dan data yang dimasukkan (input) dapat disimpan di server perusahaan AI dan mungkin digunakan kembali untuk melatih model, sehingga data sensitif berisiko terekspos",
+    "p": [
+      "Chatbot AI akan secara otomatis menelepon orang tua Dina melalui jaringan satelit untuk mengadukannya",
+      "Chatbot AI akan langsung mogok beroperasi karena tidak didesain untuk mendengarkan keluhan pribadi",
+      "Semua chatbot di internet diawasi langsung oleh dokter sungguhan yang berjaga 24 jam penuh di markas mereka"
+    ]
+  },
+  {
+    "id": "FD-KKA-024",
+    "j": "Menyusun input deskripsi kata (prompt) yang jelas, detail, dan spesifik",
+    "p": [
+      "Menulis satu kata pendek saja agar AI memiliki ruang untuk berimajinasi sendiri",
+      "Memasukkan gambar kode biner (0 dan 1) ke dalam kotak pencarian",
+      "Mematikan koneksi internet sesaat sebelum menekan tombol buat"
+    ]
+  },
+  {
+    "id": "FD-KKA-025",
+    "j": "Meminta AI untuk menjelaskan materi sains yang sulit dengan perumpamaan sederhana agar lebih mudah dipahami",
+    "p": [
+      "Menyuruh AI membuat seluruh karangan esai dan langsung menyerahkannya ke guru tanpa dibaca",
+      "Menggunakan AI untuk menjawab soal ujian akhir semester saat guru tidak melihat",
+      "Menyuruh AI meretas sistem keamanan WiFi perpustakaan sekolah"
+    ]
+  },
+  {
+    "id": "FD-KKA-026",
+    "j": "Tolong berikan 3 ide unik kampanye menjaga kebersihan di lingkungan sekolah untuk siswa SMP, serta sertakan satu slogan singkat untuk setiap ide.",
+    "p": [
+      "Bagaimana cara membersihkan sekolah?",
+      "Buat kampanye.",
+      "Tuliskan semua hal tentang sampah dan sapu."
+    ]
+  },
+  {
+    "id": "FD-KKA-027",
+    "j": "Jika pertanyaan/instruksi (input) yang kita berikan tidak jelas atau membingungkan, maka jawaban (output) AI juga akan tidak bermutu",
+    "p": [
+      "AI secara otomatis akan membuang file sampah dari dalam memori komputer kita",
+      "Kita harus selalu menggunakan huruf kapital agar AI tidak mengeluarkan sampah digital",
+      "Jika kita memasukkan kata yang terlalu rumit, perangkat keras komputer akan terbakar"
+    ]
+  },
+  {
+    "id": "FD-KKA-028",
+    "j": "Membaca teks dari AI hanya sebagai inspirasi awal, lalu menulis ulang ide tersebut menggunakan gaya bahasa dan imajinasi Anton sendiri",
+    "p": [
+      "Langsung mencetak (print) teks tersebut tanpa membacanya terlebih dahulu",
+      "Mengklaim di depan kelas bahwa AI tersebut adalah karya ciptaan Anton dari nol",
+      "Menyalin sebagian demi sebagian ke dokumen tanpa mengubah satu huruf pun"
+    ]
+  },
+  {
+    "id": "FD-KKA-029",
+    "j": "2 - 4 - 1 - 3",
+    "p": [
+      "1 - 2 - 4 - 3",
+      "4 - 2 - 3 - 1",
+      "2 - 1 - 4 - 3"
+    ]
+  },
+  {
+    "id": "FD-KKA-030",
+    "j": "Tolong revisi jadwal di atas. Tambahkan jeda istirahat 15 menit setiap selesai belajar 60 menit, dan kosongkan seluruh kegiatan pada hari Minggu pagi untuk olahraga.",
+    "p": [
+      "Jadwalmu terlalu melelahkan dan membuatku pusing, coba buat yang lebih bagus sedikit.",
+      "Apakah kamu tidak tahu kalau manusia itu butuh tidur dan makan setiap hari?",
+      "Tolong hapus semua jadwal matematika dari hari Senin sampai Sabtu tanpa terkecuali."
+    ]
+  }
+]

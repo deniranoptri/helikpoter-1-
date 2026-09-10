@@ -3,6 +3,7 @@ import { EducationalContent } from '../engine/EducationalEngine';
 export interface TeacherBankRecord {
   id: string;
   jenjang: string;
+  fase?: string;
   mataPelajaran: string;
   uploadDate: number;
   updatedAt: number;
@@ -24,20 +25,25 @@ export class TeacherBankStore {
     return {};
   }
 
-  static loadByJenjangMapel(jenjang: string, mapel: string): TeacherBankRecord | undefined {
+  static loadByJenjangMapel(jenjang: string, mapel: string, fase?: string): TeacherBankRecord | undefined {
     const all = this.loadAll();
-    const id = `${jenjang}_${mapel}`.toUpperCase().replace(/\s+/g, '_');
+    const id = fase 
+        ? `${jenjang}_${fase}_${mapel}`.toUpperCase().replace(/\s+/g, '_')
+        : `${jenjang}_${mapel}`.toUpperCase().replace(/\s+/g, '_');
     return all[id];
   }
 
-  static save(jenjang: string, mapel: string, questions: EducationalContent[]) {
+  static save(jenjang: string, mapel: string, questions: EducationalContent[], fase?: string) {
     try {
       const all = this.loadAll();
-      const id = `${jenjang}_${mapel}`.toUpperCase().replace(/\s+/g, '_');
+      const id = fase 
+          ? `${jenjang}_${fase}_${mapel}`.toUpperCase().replace(/\s+/g, '_')
+          : `${jenjang}_${mapel}`.toUpperCase().replace(/\s+/g, '_');
       
       const record: TeacherBankRecord = {
         id,
         jenjang,
+        fase,
         mataPelajaran: mapel,
         uploadDate: all[id]?.uploadDate || Date.now(),
         updatedAt: Date.now(),

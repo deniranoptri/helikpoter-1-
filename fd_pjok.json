@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-PJOK-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Pemanasan dan Pendinginan",
+    "pertanyaan": "Sebelum memulai aktivitas olahraga inti, kita wajib melakukan pemanasan (warm-up). Tujuan utama dari pemanasan adalah...",
+    "jawabanBenar": "Meningkatkan suhu tubuh dan menyiapkan otot agar terhindar dari cedera",
+    "pengecoh": [
+      "Mengurangi cairan tubuh agar lebih cepat berkeringat",
+      "Membuat tubuh menjadi lelah sebelum pertandingan dimulai",
+      "Meningkatkan massa otot secara instan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pemanasan bertujuan meningkatkan aliran darah, suhu tubuh, dan elastisitas otot sehingga mengurangi risiko cedera saat melakukan gerakan inti yang lebih berat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Pemanasan dan Pendinginan",
+    "pertanyaan": "Setelah selesai berolahraga, sangat disarankan untuk melakukan pendinginan (cool-down). Manfaat utama pendinginan adalah...",
+    "jawabanBenar": "Mengembalikan detak jantung ke kondisi normal secara perlahan",
+    "pengecoh": [
+      "Menghentikan produksi keringat secara drastis",
+      "Menambah kecepatan lari pada sesi berikutnya",
+      "Menghilangkan rasa haus tanpa perlu minum air"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pendinginan membantu tubuh transisi dari aktivitas fisik berat kembali ke kondisi istirahat dengan menormalkan detak jantung dan mencegah darah berkumpul di otot bawah (blood pooling).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Besar",
+    "pertanyaan": "Dalam permainan bola basket, teknik memantulkan bola ke lantai sambil berjalan atau berlari disebut...",
+    "jawabanBenar": "Dribbling",
+    "pengecoh": [
+      "Passing",
+      "Shooting",
+      "Rebound"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dribbling adalah teknik dasar membawa bola basket dengan cara memantulkannya ke lantai.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Besar",
+    "pertanyaan": "Dalam permainan sepak bola, untuk memberikan umpan jarak dekat yang akurat kepada teman satu tim, bagian kaki yang paling efektif digunakan adalah...",
+    "jawabanBenar": "Kaki bagian dalam",
+    "pengecoh": [
+      "Ujung jari kaki (sepatu)",
+      "Kaki bagian luar",
+      "Tumit kaki"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Menendang (passing) menggunakan kaki bagian dalam memberikan kontrol dan akurasi yang paling baik untuk operan jarak dekat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Besar",
+    "pertanyaan": "Saat melakukan servis bawah dalam permainan bola voli, posisi awal salah satu kaki yang benar adalah...",
+    "jawabanBenar": "Satu kaki melangkah ke depan (kuda-kuda)",
+    "pengecoh": [
+      "Kedua kaki dirapatkan sejajar",
+      "Satu kaki diangkat ke udara tinggi-tinggi",
+      "Kedua kaki disilangkan di belakang"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sikap kuda-kuda dengan satu kaki di depan memberikan keseimbangan dan daya dorong (transfer berat badan) saat tangan memukul bola voli dari bawah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Kecil",
+    "pertanyaan": "Dalam permainan bulu tangkis, pukulan yang dilakukan dengan keras, tajam, dan menukik ke arah lapangan lawan dengan tujuan mematikan langkah lawan disebut...",
+    "jawabanBenar": "Smash",
+    "pengecoh": [
+      "Lob",
+      "Dropshot",
+      "Drive"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Smash adalah pukulan serangan utama dalam bulu tangkis yang lintasannya menukik tajam dan cepat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Atletik",
+    "pertanyaan": "Pada lomba lari jarak pendek (sprint), jenis start yang digunakan oleh para pelari adalah...",
+    "jawabanBenar": "Start jongkok",
+    "pengecoh": [
+      "Start berdiri",
+      "Start melayang",
+      "Start melompat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Start jongkok (crouch start) menggunakan balok start (starting block) untuk memberikan daya tolak maksimal di awal lari jarak pendek.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Pencegahan Cedera",
+    "pertanyaan": "Jika temanmu mengalami cedera pergelangan kaki (keseleo/sprain) saat bermain basket, langkah pertolongan pertama yang paling aman (prinsip RICE) adalah...",
+    "jawabanBenar": "Mengistirahatkan kaki dan mengompresnya dengan es",
+    "pengecoh": [
+      "Mengoleskan balsem panas dan memijatnya dengan keras",
+      "Memaksanya untuk terus berjalan agar otot tidak kaku",
+      "Merendam kaki ke dalam air mendidih"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Prinsip RICE (Rest, Ice, Compression, Elevation) adalah standar emas cedera akut. Kompres es mengurangi peradangan/pembengkakan; sebaliknya, memijat/kompres panas pada luka baru akan memperparah bengkak.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kebugaran Jasmani",
+    "pertanyaan": "Latihan push-up secara rutin sangat baik untuk meningkatkan komponen kebugaran jasmani, khususnya...",
+    "jawabanBenar": "Kekuatan otot lengan dan dada",
+    "pengecoh": [
+      "Kelenturan otot punggung",
+      "Kecepatan lari kaki",
+      "Daya tahan paru-paru (kardiovaskular)"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Push-up adalah latihan beban tubuh (bodyweight) yang berfokus pada kekuatan dan daya tahan otot bagian atas, terutama dada (pektoralis), bahu, dan lengan (trisep).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Gizi dan Hidrasi",
+    "pertanyaan": "Siswa SMP disarankan minum air putih yang cukup sebelum, selama, dan sesudah berolahraga. Fungsi utama minum air saat berolahraga adalah untuk...",
+    "jawabanBenar": "Mencegah dehidrasi dan mengganti cairan tubuh yang keluar melalui keringat",
+    "pengecoh": [
+      "Meningkatkan berat badan agar tenaga lebih besar",
+      "Mencegah perut terasa lapar",
+      "Menurunkan kadar oksigen dalam darah"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Aktivitas fisik mengeluarkan cairan dan elektrolit lewat keringat. Rehidrasi mencegah penurunan performa akibat dehidrasi dan menjaga regulasi suhu tubuh.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Latihan Kelenturan",
+    "pertanyaan": "Latihan peregangan statis (menahan regangan selama 10-15 detik) sebaiknya dilakukan saat...",
+    "jawabanBenar": "Fase pendinginan setelah olahraga inti untuk merilekskan otot",
+    "pengecoh": [
+      "Tengah malam sebelum tidur",
+      "Fase inti pertandingan bola basket",
+      "Saat sedang berlari sprint"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Peregangan statis sangat aman dan efektif pada fase pendinginan karena otot sudah hangat, membantu memanjangkan kembali serat otot yang berkontraksi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kebugaran Jasmani",
+    "pertanyaan": "Lari lintas alam (jogging di lingkungan sekitar) atau lari 12 menit merupakan bentuk latihan yang difokuskan untuk melatih...",
+    "jawabanBenar": "Daya tahan jantung dan paru-paru (kardiovaskular)",
+    "pengecoh": [
+      "Kekuatan otot jari tangan",
+      "Kelenturan persendian panggul",
+      "Kecepatan reaksi mata"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Lari dengan durasi lama (aerobik) melatih sistem pernapasan dan sirkulasi darah agar jantung dan paru-paru bekerja lebih efisien (kardiovaskular/daya tahan).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Besar",
+    "pertanyaan": "Saat menerima bola keras (smash) dari lawan dalam bola voli, teknik pertahanan yang paling tepat dan aman digunakan adalah...",
+    "jawabanBenar": "Passing bawah (dig) dengan merapatkan kedua lengan",
+    "pengecoh": [
+      "Passing atas menggunakan ujung-ujung jari",
+      "Menendang bola menggunakan kaki",
+      "Menghindari bola dan membiarkannya jatuh"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Passing bawah dengan kedua lengan (forearm pass/dig) adalah teknik paling stabil dan tidak berisiko cedera jari saat menerima bola yang melaju sangat cepat/keras.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Permainan Bola Kecil",
+    "pertanyaan": "Cara memegang raket bulu tangkis yang benar seperti posisi bersalaman (berjabat tangan) disebut pegangan...",
+    "jawabanBenar": "Forehand grip",
+    "pengecoh": [
+      "Backhand grip",
+      "Penhold grip",
+      "American grip"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Forehand grip atau shakehand grip adalah cara memegang dasar di mana telapak tangan berada pada bagian lebar gagang raket seperti orang berjabat tangan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Atletik",
+    "pertanyaan": "Dalam olahraga lompat jauh, gerakan menolakkan salah satu kaki terkuat pada papan tolak untuk mendapatkan dorongan ke atas dan ke depan disebut fase...",
+    "jawabanBenar": "Tumpuan (Take-off)",
+    "pengecoh": [
+      "Awalan (Run-up)",
+      "Melayang di udara (Flight)",
+      "Mendarat (Landing)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Fase tumpuan/tolakan adalah titik krusial di mana energi lari (kinetik horisontal) diubah menjadi lompatan (vertikal-horisontal) dengan menggunakan satu kaki terkuat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Aktivitas Senam",
+    "pertanyaan": "Sikap dasar yang benar saat melakukan gerakan roll depan (guling ke depan) pada senam lantai adalah...",
+    "jawabanBenar": "Dagu dirapatkan ke dada, tengkuk menyentuh matras pertama kali",
+    "pengecoh": [
+      "Kepala mendongak ke atas, dahi menyentuh matras",
+      "Kaki diluruskan kaku ke depan sejak awal",
+      "Mata dipejamkan dan tubuh dijatuhkan ke samping"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menempelkan dagu ke dada (tuck) melindungi tulang leher dari cedera, memastikan bagian tengkuk/pundak belakang yang menjadi titik tumpu putaran, bukan puncak kepala.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Renang",
+    "pertanyaan": "Gaya renang yang gerakannya paling mirip dengan cara katak berenang (kedua lengan ditarik bersamaan, kedua kaki menendang ke samping-belakang) adalah...",
+    "jawabanBenar": "Gaya dada",
+    "pengecoh": [
+      "Gaya bebas",
+      "Gaya punggung",
+      "Gaya kupu-kupu"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gaya dada (breaststroke) populer disebut gaya katak karena mekanisme gerak tendangan tungkai dan tarikan lengan yang sinkron menyerupai katak.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Pola Hidup Aktif",
+    "pertanyaan": "Untuk menjaga kesehatan dan kebugaran pada remaja (usia SMP), Organisasi Kesehatan Dunia (WHO) merekomendasikan aktivitas fisik sedang hingga berat minimal selama...",
+    "jawabanBenar": "60 menit (1 jam) setiap hari",
+    "pengecoh": [
+      "10 menit setiap minggu",
+      "3 jam tanpa henti setiap hari",
+      "Hanya saat pelajaran PJOK saja"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Rekomendasi global untuk remaja (5-17 tahun) adalah setidaknya 60 menit per hari aktivitas fisik moderate-to-vigorous, mencakup bermain, olahraga, atau transportasi aktif.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kesehatan Diri",
+    "pertanyaan": "Setelah berolahraga dan berkeringat banyak, pakaian olahraga yang basah sebaiknya segera diganti. Alasan utamanya dari segi kesehatan adalah...",
+    "jawabanBenar": "Untuk mencegah pertumbuhan jamur dan bakteri pada kulit yang lembap",
+    "pengecoh": [
+      "Agar pakaian olahraga tidak cepat pudar warnanya",
+      "Supaya tubuh tetap merasa kepanasan lebih lama",
+      "Hanya untuk mematuhi peraturan sekolah"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Keringat menciptakan lingkungan lembap dan hangat yang merupakan tempat ideal bagi jamur (seperti panu/kurap) dan bakteri penyebab bau badan untuk berkembang biak.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Keselamatan Olahraga",
+    "pertanyaan": "Saat melakukan olahraga di luar ruangan (outdoor) pada siang hari yang terik, siswa mulai merasa pusing, mual, dan sangat haus. Hal ini merupakan gejala awal dari...",
+    "jawabanBenar": "Kelelahan panas (Heat exhaustion) atau dehidrasi",
+    "pengecoh": [
+      "Peningkatan massa otot lengan",
+      "Cedera otot robek (strain)",
+      "Patah tulang ringan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Paparan panas dan kurang cairan menyebabkan heat exhaustion. Tindakan yang harus diambil adalah berhenti, berteduh, dan rehidrasi perlahan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Aktivitas Ritmik",
+    "pertanyaan": "Dalam senam irama (ritmik), penyelarasan (sinkronisasi) antara gerakan tubuh dengan hitungan/ketukan musik berfungsi untuk...",
+    "jawabanBenar": "Meningkatkan nilai estetika (keindahan), keteraturan, dan keseimbangan gerakan",
+    "pengecoh": [
+      "Mengurangi jumlah kalori yang terbakar selama senam",
+      "Membuat tubuh menjadi lebih cepat merasa lelah",
+      "Menghilangkan kebutuhan akan pemanasan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Inti dari senam ritmik adalah harmonisasi gerakan biomekanik dengan irama, yang melatih koordinasi motorik sekaligus menonjolkan nilai keindahan/estetika senam.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Bela Diri (Pencak Silat)",
+    "pertanyaan": "Fungsi utama sikap pasang dalam olahraga bela diri pencak silat adalah...",
+    "jawabanBenar": "Sebagai sikap siaga (kuda-kuda) untuk melakukan pembelaan maupun serangan",
+    "pengecoh": [
+      "Sebagai cara untuk memberikan penghormatan kepada wasit",
+      "Sikap untuk beristirahat di tengah pertandingan",
+      "Gerakan pemanasan pergelangan tangan saja"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sikap pasang adalah sikap kesiagaan taktis dan teknis dengan penempatan posisi kaki dan tangan yang optimal, siap bereaksi (menyerang atau bertahan).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kebugaran Jasmani (Kelincahan)",
+    "pertanyaan": "Latihan lari zig-zag atau lari bolak-balik (shuttle run) sangat efektif untuk meningkatkan kelincahan (agility). Kelincahan dalam olahraga dapat diartikan sebagai...",
+    "jawabanBenar": "Kemampuan mengubah arah dan posisi tubuh dengan cepat tanpa kehilangan keseimbangan",
+    "pengecoh": [
+      "Kemampuan berlari dalam lintasan lurus dengan kecepatan konstan selama 1 jam",
+      "Kemampuan mengangkat beban maksimal di tempat",
+      "Kemampuan meregangkan otot punggung sejauh mungkin"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kelincahan (agility) berbeda dengan kecepatan (speed). Kelincahan menitikberatkan pada akselerasi, deselerasi, dan perubahan arah yang cepat sambil tetap terkontrol keseimbangannya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kesehatan Mental",
+    "pertanyaan": "Selain bermanfaat bagi fisik, olahraga yang dilakukan secara rutin juga sangat baik untuk kesehatan mental remaja, karena saat berolahraga tubuh memproduksi hormon endorfin yang berfungsi untuk...",
+    "jawabanBenar": "Mengurangi rasa stres dan menciptakan perasaan lebih bahagia (mood booster)",
+    "pengecoh": [
+      "Meningkatkan rasa kantuk berlebih di pagi hari",
+      "Membuat seseorang mudah marah pada temannya",
+      "Menghentikan kerja otak saat berkonsentrasi belajar"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Aktivitas fisik memicu pelepasan endorfin di otak, yaitu zat kimia alami penghilang rasa sakit dan pembangkit suasana hati (mood), yang efektif mencegah stres dan depresi ringan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Biomekanika Olahraga Dasar",
+    "pertanyaan": "Saat melakukan awalan lompat jauh, pelari secara bertahap meningkatkan kecepatannya dari garis start hingga papan tolak. Prinsip fisika (biomekanika) yang menjelaskan hal ini adalah...",
+    "jawabanBenar": "Memaksimalkan momentum (kecepatan horisontal) yang kemudian diubah menjadi jarak lompatan",
+    "pengecoh": [
+      "Menghemat tenaga agar bisa berlari pelan saat mendarat di bak pasir",
+      "Menghindari gesekan udara agar tubuh menjadi lebih ringan",
+      "Membiasakan kaki agar tidak menyentuh papan tolak sama sekali"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Semakin besar kecepatan horisontal (momentum) saat lari, semakin besar pula resultan gaya tolak yang bisa dihasilkan untuk melayang jauh ke depan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Analisis Pengambilan Keputusan",
+    "pertanyaan": "Dalam pertandingan sepak bola, tim Anda sedang tertinggal 1-0 dan waktu tersisa 3 menit. Teman Anda terkena kram otot yang parah di tengah lapangan. Sebagai pemain yang memahami nilai keselamatan dan sportivitas (fair play), tindakan prioritas Anda adalah...",
+    "jawabanBenar": "Membuang bola keluar lapangan (out) agar pertandingan terhenti dan medis dapat masuk menolong teman",
+    "pengecoh": [
+      "Meninggalkan teman tersebut dan terus menyerang agar bisa menyamakan kedudukan",
+      "Memarahi teman tersebut karena merusak strategi tim di menit akhir",
+      "Meminta wasit menghentikan waktu pertandingan lalu pulang ke rumah"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Keselamatan fisik pemain dan nilai-nilai kemanusiaan (fair play) selalu menjadi prioritas tertinggi melebihi hasil akhir pertandingan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Kebugaran Jasmani (Latihan Kekuatan)",
+    "pertanyaan": "Budi ingin memperkuat otot inti (core) bagian perut dan punggung bawahnya agar postur tubuhnya lebih tegak. Susunlah urutan prosedur melakukan gerakan 'Plank' dasar yang benar dan aman!\n1. Tahan posisi tubuh tetap lurus seperti papan selama 30 detik.\n2. Posisikan siku di lantai sejajar di bawah bahu.\n3. Angkat pinggul hingga tubuh membentuk garis lurus dari kepala hingga tumit.\n4. Mulai dengan posisi tengkurap di atas matras.",
+    "jawabanBenar": "4 - 2 - 3 - 1",
+    "pengecoh": [
+      "1 - 4 - 2 - 3",
+      "2 - 4 - 3 - 1",
+      "4 - 3 - 2 - 1"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Prosedur plank: persiapan (4), menempatkan titik tumpu bahu (2), mengangkat badan meluruskan tubuh (3), dan menahannya (1).",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FD-PJOK-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Pencegahan Cedera & Latihan",
+    "pertanyaan": "Seorang siswa mengeluh sering mengalami nyeri pada punggung bawah setelah berlatih angkat beban (dumbell). Analisis penyebab paling logis dari keluhan tersebut yang berkaitan dengan teknik latihan adalah...",
+    "jawabanBenar": "Siswa tidak mengencangkan otot perut (core) dan mengangkat beban dengan postur tulang belakang melengkung (bungkuk)",
+    "pengecoh": [
+      "Siswa terlalu banyak minum air mineral sebelum mengangkat beban",
+      "Beban yang diangkat terbuat dari bahan plastik, bukan besi murni",
+      "Siswa melakukan pernapasan dalam melalui hidung saat mengangkat beban"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Postur melengkung (round back) saat mengangkat benda memberikan tekanan berlebih pada diskus tulang belakang (L4-L5). Otot inti harus dikunci (bracing) dan punggung tetap lurus netral untuk keamanan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Analisis Permainan Bola Basket",
+    "pertanyaan": "Dalam bola basket, saat tim lawan melakukan penjagaan ketat perorangan (man-to-man defense) satu lawan satu, strategi pergerakan tanpa bola (off-the-ball movement) yang paling efektif untuk memecah pertahanan tersebut adalah...",
+    "jawabanBenar": "Melakukan gerakan memotong (cutting) dengan cepat atau mengatur layar (screen/pick) untuk membebaskan teman",
+    "pengecoh": [
+      "Semua pemain berdiri diam di luar garis tiga angka menunggu bola",
+      "Semua pemain berkumpul berdesakan di bawah ring sendiri",
+      "Pemain berlari secara lambat dalam formasi satu baris sejajar"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pertahanan man-to-man sangat rentan terhadap screen/pick-and-roll dan backdoor cut cepat, karena hal ini memaksa bek untuk berpindah penjagaan (switch) yang sering memicu celah keterlambatan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PJOK-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "PJOK",
+    "topik": "Hidrasi dan Fisiologi Tubuh",
+    "pertanyaan": "Setelah berlari mengelilingi lapangan selama 15 menit, wajah Budi memerah dan keringatnya mengucur deras. Mekanisme pengeluaran keringat tersebut secara biologis berfungsi untuk...",
+    "jawabanBenar": "Menurunkan suhu inti tubuh melalui proses penguapan agar tidak terjadi kelebihan panas (overheating)",
+    "pengecoh": [
+      "Membuang seluruh cadangan lemak di bawah kulit melalui pori-pori",
+      "Meningkatkan suhu tubuh bagian luar agar tahan terhadap udara dingin",
+      "Menambah volume sel darah merah di dalam otot lengan"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Keringat adalah mekanisme termoregulasi. Saat air keringat menguap dari permukaan kulit, panas dari tubuh dibawa ke udara bebas, sehingga suhu inti tubuh tetap stabil.",
+    "challengeType": "IDENTIFY"
+  }
+]

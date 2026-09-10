@@ -10,6 +10,7 @@ interface TeacherBankModalProps {
 export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
   const [datasets, setDatasets] = useState<Record<string, TeacherBankRecord>>({});
   const [jenjang, setJenjang] = useState<string>('SD');
+  const [fase, setFase] = useState<string>('');
   const [mapel, setMapel] = useState<string>('');
   const [file, setFile] = useState<File | null>(null);
   
@@ -38,7 +39,11 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
         PENGECOH_1: 'Hijau',
         PENGECOH_2: 'Kuning',
         PENGECOH_3: 'Merah',
-        PENJELASAN: 'Langit terlihat biru karena hamburan Rayleigh.'
+        PENJELASAN: 'Langit terlihat biru karena hamburan Rayleigh.',
+        LEVEL_KESULITAN: 'EASY',
+        TIPE_SOAL: 'IDENTIFY',
+        CP_ID: '',
+        TP_ID: ''
       }
     ]);
     const wb = XLSX.utils.book_new();
@@ -92,6 +97,17 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
           const p2 = String(row['PENGECOH_2'] || '').trim();
           const p3 = String(row['PENGECOH_3'] || '').trim();
           const penjelasan = String(row['PENJELASAN'] || '').trim();
+          
+          const levelKesulitanRaw = String(row['LEVEL_KESULITAN'] || row['Level Kesulitan'] || '').trim().toUpperCase();
+          const tipeSoalRaw = String(row['TIPE_SOAL'] || row['Tipe Soal'] || '').trim().toUpperCase();
+          const cpIdRaw = String(row['CP_ID'] || row['CP ID'] || '').trim();
+          const tpIdRaw = String(row['TP_ID'] || row['TP ID'] || '').trim();
+          
+          const validDifficulties = ['EASY', 'MEDIUM', 'HARD'];
+          const difficulty = validDifficulties.includes(levelKesulitanRaw) ? (levelKesulitanRaw as any) : 'MEDIUM';
+          
+          const validChallengeTypes = ['IDENTIFY', 'CALCULATE', 'CLASSIFY', 'SEQUENCE', 'LOCATE', 'PRIORITIZE', 'MULTI_TARGET', 'LEGACY'];
+          const challengeType = validChallengeTypes.includes(tipeSoalRaw) ? (tipeSoalRaw as any) : 'IDENTIFY';
 
           if (!pertanyaan && !jawabanBenar && !p1 && !p2 && !p3) {
             // Skip completely empty row silently
@@ -126,16 +142,32 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
 
           const qId = `guru_${jenjang}_${normalizedMapel}_${Date.now()}_${index}`.toLowerCase().replace(/[^a-z0-9_]/g, '_');
 
+          const isTrueFalse = allOptions.length === 2 && 
+                              allOptions.some(o => o.toLowerCase() === 'benar' || o.toLowerCase() === 'true') && 
+                              allOptions.some(o => o.toLowerCase() === 'salah' || o.toLowerCase() === 'false');
+          
+          let options = [...allOptions];
+          if (!isTrueFalse && challengeType === 'IDENTIFY') {
+             for (let i = options.length - 1; i > 0; i--) {
+                 const j = Math.floor(Math.random() * (i + 1));
+                 [options[i], options[j]] = [options[j], options[i]];
+             }
+          }
+
           parsedQuestions.push({
             id: qId,
             jenjang,
+            kelasAtauFase: fase.trim() || undefined,
             mataPelajaran: normalizedMapel,
             pertanyaan,
             jawabanBenar,
             pengecoh: pengecohList,
+            options,
             explanation: penjelasan,
-            difficulty: 'MEDIUM',
-            challengeType: 'IDENTIFY'
+            difficulty,
+            challengeType,
+            cpId: cpIdRaw || undefined,
+            tpId: tpIdRaw || undefined
           });
           validCount++;
         });
@@ -175,10 +207,11 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
   const saveBank = () => {
     if (!validationResult || validationResult.invalid > 0 || validationResult.valid === 0) return;
     try {
-      TeacherBankStore.save(jenjang, mapel.trim(), validationResult.parsedQuestions);
+      TeacherBankStore.save(jenjang, mapel.trim(), validationResult.parsedQuestions, fase.trim() || undefined);
       alert('Bank soal guru berhasil disimpan!');
       setFile(null);
       setMapel('');
+      setFase('');
       setValidationResult(null);
       loadDatasets();
     } catch (e: any) {
@@ -231,7 +264,7 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
               Tambah Soal Baru
             </h3>
             
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
               <div>
                 <label className="block text-sm font-semibold text-slate-300 mb-1">Jenjang</label>
                 <select value={jenjang} onChange={e => setJenjang(e.target.value)} className="w-full bg-slate-700 text-white rounded-lg p-2 border border-slate-600 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500">
@@ -239,6 +272,10 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
                   <option value="SMP">SMP</option>
                   <option value="SMA">SMA</option>
                 </select>
+              </div>
+              <div>
+                <label className="block text-sm font-semibold text-slate-300 mb-1">Fase / Kelas</label>
+                <input type="text" value={fase} onChange={e => setFase(e.target.value)} placeholder="Opsional (misal: Fase A)" className="w-full bg-slate-700 text-white rounded-lg p-2 border border-slate-600 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500" />
               </div>
               <div>
                 <label className="block text-sm font-semibold text-slate-300 mb-1">Mata Pelajaran</label>
@@ -325,6 +362,7 @@ export function TeacherBankModal({ onClose }: TeacherBankModalProps) {
                     <div>
                       <div className="flex items-center gap-2 mb-1">
                         <span className="px-2 py-0.5 bg-indigo-500/20 text-indigo-300 text-xs font-bold rounded">{dataset.jenjang}</span>
+                        {dataset.fase && <span className="px-2 py-0.5 bg-emerald-500/20 text-emerald-300 text-xs font-bold rounded">{dataset.fase}</span>}
                         <span className="font-bold text-slate-200">{dataset.mataPelajaran}</span>
                       </div>
                       <div className="text-xs text-slate-400 flex gap-3">

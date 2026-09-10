@@ -1,0 +1,1022 @@
+GLOBAL POST-COMPRESSION AUDIT
+
+Status:
+NEEDS REVISION
+
+Active banks:
+24
+
+Active questions:
+780
+
+Active options:
+3120
+
+≤6 words:
+2713
+
+7–8 words:
+321
+
+>8 words:
+86
+
+Longest option:
+FA-C-BIND-021 — 17
+
+Remaining P0:
+11
+
+Remaining P1:
+75
+
+Remaining P2:
+321
+
+Source modified:
+NO
+
+Build:
+NOT RUN — READ ONLY AUDIT
+
+Runtime UAT:
+NOT VERIFIED
+
+==================================================
+BANK DISCOVERY
+==================================================
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: IPAS
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase B
+Mata Pelajaran: Matematika
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: IPA
+Question count: 60
+Option count: 240
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: IPS
+Question count: 60
+Option count: 240
+---
+Jenjang: SMA
+Fase/Kelas: Fase E
+Mata Pelajaran: Biologi
+Question count: 30
+Option count: 120
+---
+Jenjang: SMA
+Fase/Kelas: Fase F
+Mata Pelajaran: Fisika
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase B
+Mata Pelajaran: Pendidikan Pancasila
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase B
+Mata Pelajaran: Bahasa Indonesia
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase B
+Mata Pelajaran: PJOK
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase B
+Mata Pelajaran: Seni dan Budaya
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: Bahasa Indonesia
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Matematika
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Bahasa Indonesia
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Pendidikan Pancasila
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Bahasa Inggris
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Informatika
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: PJOK
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Seni Budaya
+Question count: 30
+Option count: 120
+---
+Jenjang: SMP
+Fase/Kelas: Fase D
+Mata Pelajaran: Koding dan Kecerdasan Artifisial
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: Koding dan Kecerdasan Artifisial
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: Matematika
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: Pendidikan Pancasila
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: PJOK
+Question count: 30
+Option count: 120
+---
+Jenjang: SD
+Fase/Kelas: Fase C
+Mata Pelajaran: Seni Budaya
+Question count: 30
+Option count: 120
+---
+==================================================
+GLOBAL STATISTICS
+==================================================
+Total active banks: 24
+Total active questions: 780
+Total active answer options: 3120
+
+1–2 words: 1961
+3–4 words: 334
+5–6 words: 418
+7–8 words: 321
+>8 words: 86
+
+Percentage:
+
+≤6 words: 86.96%
+7–8 words: 10.29%
+>8 words: 2.76%
+
+Longest option:
+Question ID: FA-C-BIND-021
+Bank: SD - Fase C - Bahasa Indonesia
+Exact option: Sebaiknya Andi segera mengurangi bermain game di malam hari agar bisa tidur cukup dan bangun lebih awal.
+Word count: 17
+
+==================================================
+BANK-BY-BANK TABLE
+==================================================
+| Jenjang | Fase | Mapel | Questions | Options | ≤6 | 7–8 | >8 | Max |
+|---------|------|-------|-----------|---------|-----|-----|-----|-----|
+| SD | Fase C | IPAS | 30 | 120 | 120 | 0 | 0 | 1 |
+| SD | Fase B | Matematika | 30 | 120 | 120 | 0 | 0 | 1 |
+| SMP | Fase D | IPA | 60 | 240 | 206 | 8 | 26 | 17 |
+| SMP | Fase D | IPS | 60 | 240 | 179 | 39 | 22 | 15 |
+| SMA | Fase E | Biologi | 30 | 120 | 120 | 0 | 0 | 2 |
+| SMA | Fase F | Fisika | 30 | 120 | 120 | 0 | 0 | 3 |
+| SD | Fase B | Pendidikan Pancasila | 30 | 120 | 116 | 4 | 0 | 7 |
+| SD | Fase B | Bahasa Indonesia | 30 | 120 | 120 | 0 | 0 | 2 |
+| SD | Fase B | PJOK | 30 | 120 | 120 | 0 | 0 | 2 |
+| SD | Fase B | Seni dan Budaya | 30 | 120 | 120 | 0 | 0 | 2 |
+| SD | Fase C | Bahasa Indonesia | 30 | 120 | 70 | 12 | 38 | 17 |
+| SMP | Fase D | Matematika | 30 | 120 | 120 | 0 | 0 | 5 |
+| SMP | Fase D | Bahasa Indonesia | 30 | 120 | 65 | 55 | 0 | 8 |
+| SMP | Fase D | Pendidikan Pancasila | 30 | 120 | 64 | 56 | 0 | 8 |
+| SMP | Fase D | Bahasa Inggris | 30 | 120 | 110 | 10 | 0 | 8 |
+| SMP | Fase D | Informatika | 30 | 120 | 100 | 20 | 0 | 7 |
+| SMP | Fase D | PJOK | 30 | 120 | 104 | 16 | 0 | 7 |
+| SMP | Fase D | Seni Budaya | 30 | 120 | 93 | 27 | 0 | 8 |
+| SMP | Fase D | Koding dan Kecerdasan Artifisial | 30 | 120 | 110 | 10 | 0 | 7 |
+| SD | Fase C | Koding dan Kecerdasan Artifisial | 30 | 120 | 63 | 57 | 0 | 7 |
+| SD | Fase C | Matematika | 30 | 120 | 120 | 0 | 0 | 4 |
+| SD | Fase C | Pendidikan Pancasila | 30 | 120 | 113 | 7 | 0 | 7 |
+| SD | Fase C | PJOK | 30 | 120 | 120 | 0 | 0 | 5 |
+| SD | Fase C | Seni Budaya | 30 | 120 | 120 | 0 | 0 | 4 |
+
+==================================================
+LIST EVERY REMAINING VIOLATION
+==================================================
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-001
+Option Type: jawabanBenar
+Exact Option: Sampah plastik merupakan persoalan lingkungan yang serius karena sulit terurai.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-001
+Option Type: pengecoh 1
+Exact Option: Mikroorganisme di dalam tanah membutuhkan waktu ratusan tahun untuk hidup.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-001
+Option Type: pengecoh 2
+Exact Option: Kita harus mengurangi penggunaan barang-barang yang ada di sekitar kita.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-001
+Option Type: pengecoh 3
+Exact Option: Plastik sekali pakai sangat mudah digunakan dan dibuang oleh masyarakat.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-003
+Option Type: jawabanBenar
+Exact Option: Lani merasa sangat mengantuk di kelas karena ia kurang tidur semalaman.
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-003
+Option Type: pengecoh 1
+Exact Option: Lani sangat menyukai pelajaran matematika yang sedang diajarkan Pak Guru.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-003
+Option Type: pengecoh 2
+Exact Option: Lani sedang sakit gigi sehingga ia tidak bisa mendengarkan penjelasan.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-003
+Option Type: pengecoh 3
+Exact Option: Lani merasa sangat segar karena berhasil menyelesaikan proyek sainsnya.
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-008
+Option Type: jawabanBenar
+Exact Option: Matahari selalu terbit di sebelah timur dan tenggelam di sebelah barat.
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-008
+Option Type: pengecoh 1
+Exact Option: Nasi goreng di warung itu adalah makanan yang paling enak sedunia.
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-008
+Option Type: pengecoh 2
+Exact Option: Mungkin nanti sore akan turun hujan deras di daerah kita.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-008
+Option Type: pengecoh 3
+Exact Option: Sebaiknya kamu segera pulang ke rumah sebelum hari menjadi gelap.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-009
+Option Type: jawabanBenar
+Exact Option: Pemandangan pantai di sore hari itu sangat indah dan memukau.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-009
+Option Type: pengecoh 2
+Exact Option: Air akan membeku dan menjadi es jika didinginkan pada suhu 0 derajat Celcius.
+Word Count: 13
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-012
+Option Type: jawabanBenar
+Exact Option: menggunakan pemborosan kata karena 'banyak' dan 'siswa-siswa' memiliki makna jamak yang sama.
+Word Count: 12
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-012
+Option Type: pengecoh 3
+Exact Option: kata 'bermain' seharusnya ditulis dengan akhiran '-kan' menjadi 'bermainkan'.
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-019
+Option Type: jawabanBenar
+Exact Option: Buku fiksi berisi cerita rekaan, sedangkan buku nonfiksi berisi informasi berdasarkan fakta.
+Word Count: 12
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-019
+Option Type: pengecoh 1
+Exact Option: Buku fiksi menceritakan kehidupan nyata, sedangkan buku nonfiksi menceritakan khayalan.
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-019
+Option Type: pengecoh 2
+Exact Option: Buku fiksi hanya boleh dibaca anak-anak, sedangkan buku nonfiksi untuk orang dewasa.
+Word Count: 12
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-019
+Option Type: pengecoh 3
+Exact Option: Buku fiksi sangat tebal halamannya, sedangkan buku nonfiksi berbentuk buku tipis.
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-020
+Option Type: jawabanBenar
+Exact Option: "Bagaimana cara Bapak mengolah sampah daun-daun kering ini menjadi pupuk kompos?"
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-020
+Option Type: pengecoh 1
+Exact Option: "Kapan Bapak mulai membuat pupuk kompos dari sampah organik ini?"
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-020
+Option Type: pengecoh 2
+Exact Option: "Di mana Bapak menyimpan pupuk kompos yang sudah jadi?"
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-021
+Option Type: jawabanBenar
+Exact Option: Sebaiknya Andi segera mengurangi bermain game di malam hari agar bisa tidur cukup dan bangun lebih awal.
+Word Count: 17
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-021
+Option Type: pengecoh 1
+Exact Option: Andi sebaiknya berhenti sekolah agar ia bebas bermain game di rumah setiap hari.
+Word Count: 13
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-021
+Option Type: pengecoh 2
+Exact Option: Guru piket seharusnya tidak boleh menghukum Andi karena bermain game adalah haknya.
+Word Count: 12
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-021
+Option Type: pengecoh 3
+Exact Option: Andi harus pindah ke sekolah lain yang jam masuknya lebih siang dari sekolah ini.
+Word Count: 14
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-025
+Option Type: jawabanBenar
+Exact Option: Bersepeda sangat bermanfaat bagi kesehatan otot dan jantung, serta menjadi transportasi yang ramah lingkungan.
+Word Count: 14
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-025
+Option Type: pengecoh 1
+Exact Option: Asap hasil pembakaran bahan bakar motor menyebabkan penyakit jantung pada manusia.
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-025
+Option Type: pengecoh 2
+Exact Option: Sepeda harus dikayuh menggunakan kekuatan otot kaki agar bisa berjalan dengan cepat.
+Word Count: 12
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-025
+Option Type: pengecoh 3
+Exact Option: Semua orang harus pergi bekerja naik sepeda karena sepeda tidak memerlukan bahan bakar.
+Word Count: 13
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-027
+Option Type: jawabanBenar
+Exact Option: mengajak pendengar untuk saling bekerja sama menjaga kebersihan kelas
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-027
+Option Type: pengecoh 1
+Exact Option: meminta maaf jika ada kesalahan kata saat melaksanakan tugas piket
+Word Count: 10
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-027
+Option Type: pengecoh 3
+Exact Option: mengucapkan rasa syukur dan terima kasih karena bisa berkumpul di kelas
+Word Count: 11
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-028
+Option Type: jawabanBenar
+Exact Option: (1) - (2) - (3) - (4) - (5)
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-028
+Option Type: pengecoh 1
+Exact Option: (3) - (1) - (2) - (4) - (5)
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-028
+Option Type: pengecoh 2
+Exact Option: (1) - (3) - (2) - (5) - (4)
+Word Count: 9
+
+Jenjang: SD
+Fase: Fase C
+Mapel: Bahasa Indonesia
+Question ID: FA-C-BIND-028
+Option Type: pengecoh 3
+Exact Option: (2) - (1) - (4) - (3) - (5)
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-002
+Option Type: jawabanBenar
+Exact Option: Sel tumbuhan memiliki dinding sel dan kloroplas, sedangkan sel hewan tidak
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-002
+Option Type: pengecoh 1
+Exact Option: Sel hewan memiliki vakuola yang besar, sedangkan sel tumbuhan tidak
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-002
+Option Type: pengecoh 2
+Exact Option: Sel tumbuhan tidak memiliki membran sel, sedangkan sel hewan memiliki
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-002
+Option Type: pengecoh 3
+Exact Option: Sel hewan memiliki inti sel, sedangkan sel tumbuhan tidak memiliki inti sel
+Word Count: 12
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-003
+Option Type: jawabanBenar
+Exact Option: Sel - Jaringan - Organ - Sistem Organ - Organisme
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-003
+Option Type: pengecoh 1
+Exact Option: Sel - Organ - Jaringan - Sistem Organ - Organisme
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-003
+Option Type: pengecoh 2
+Exact Option: Jaringan - Sel - Organ - Sistem Organ - Organisme
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-003
+Option Type: pengecoh 3
+Exact Option: Organisme - Sistem Organ - Organ - Jaringan - Sel
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-004
+Option Type: jawabanBenar
+Exact Option: Membunuh kuman yang masuk bersama makanan dan mengaktifkan pepsinogen
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-006
+Option Type: jawabanBenar
+Exact Option: Bilik kiri -> Aorta -> Seluruh tubuh -> Vena Cava -> Serambi kanan
+Word Count: 13
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-006
+Option Type: pengecoh 1
+Exact Option: Bilik kanan -> Arteri pulmonalis -> Paru-paru -> Vena pulmonalis -> Serambi kiri
+Word Count: 13
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-006
+Option Type: pengecoh 2
+Exact Option: Serambi kiri -> Bilik kiri -> Aorta -> Paru-paru -> Serambi kanan
+Word Count: 12
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-006
+Option Type: pengecoh 3
+Exact Option: Bilik kiri -> Vena Cava -> Seluruh tubuh -> Aorta -> Serambi kanan
+Word Count: 13
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-009
+Option Type: jawabanBenar
+Exact Option: Massa jenis benda lebih kecil dari massa jenis air
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-009
+Option Type: pengecoh 1
+Exact Option: Massa jenis benda lebih besar dari massa jenis air
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-016
+Option Type: jawabanBenar
+Exact Option: Luas penampang pisau tajam lebih kecil sehingga menghasilkan tekanan yang besar
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-016
+Option Type: pengecoh 1
+Exact Option: Luas penampang pisau tajam lebih besar sehingga menghasilkan gaya yang besar
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-016
+Option Type: pengecoh 2
+Exact Option: Pisau tajam memiliki massa yang lebih ringan sehingga mudah diayunkan
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-016
+Option Type: pengecoh 3
+Exact Option: Gaya gesek pada pisau tajam lebih besar daripada pisau tumpul
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-027
+Option Type: jawabanBenar
+Exact Option: Populasi belalang akan meningkat dan populasi ular akan menurun
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-029
+Option Type: jawabanBenar
+Exact Option: Gas rumah kaca di atmosfer memerangkap radiasi panas bumi sehingga tidak bisa terpantul kembali ke luar angkasa
+Word Count: 17
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-029
+Option Type: pengecoh 1
+Exact Option: Lapisan ozon yang berlubang membiarkan lebih banyak sinar ultraviolet masuk
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-029
+Option Type: pengecoh 2
+Exact Option: Panas matahari terfokus oleh atmosfer seperti melalui lensa cembung
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-029
+Option Type: pengecoh 3
+Exact Option: Peningkatan aktivitas inti bumi yang merambat hingga ke kerak bumi
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-030
+Option Type: jawabanBenar
+Exact Option: Terjadinya perbedaan musim di belahan bumi utara dan selatan
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPA
+Question ID: FD-IPA-030
+Option Type: pengecoh 2
+Exact Option: Gerak semu harian benda langit dari timur ke barat
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-005
+Option Type: pengecoh 3
+Exact Option: Melarang sama sekali penduduk untuk masuk ke dalam hutan
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-007
+Option Type: jawabanBenar
+Exact Option: Angka kelahiran tinggi dan populasi didominasi oleh penduduk usia muda
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-007
+Option Type: pengecoh 1
+Exact Option: Angka harapan hidup sangat tinggi sehingga didominasi oleh lansia
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-015
+Option Type: jawabanBenar
+Exact Option: Letaknya yang strategis di Selat Malaka sebagai jalur pelayaran dagang internasional
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-015
+Option Type: pengecoh 1
+Exact Option: Memiliki tanah vulkanik yang sangat subur untuk pertanian padi
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-017
+Option Type: jawabanBenar
+Exact Option: Mengisi kas negara Belanda yang kosong akibat berbagai peperangan
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-017
+Option Type: pengecoh 3
+Exact Option: Membangun infrastruktur jalan dan rel kereta api di Jawa
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-019
+Option Type: jawabanBenar
+Exact Option: Memperkuat rasa persatuan dan kesatuan bangsa mengatasi perbedaan kedaerahan
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-020
+Option Type: jawabanBenar
+Exact Option: Perbedaan pendapat antara golongan tua dan golongan muda mengenai waktu pelaksanaan proklamasi
+Word Count: 12
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-020
+Option Type: pengecoh 1
+Exact Option: Penculikan Soekarno-Hatta oleh tentara Jepang agar tidak memproklamasikan kemerdekaan
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-020
+Option Type: pengecoh 3
+Exact Option: Penyusunan naskah proklamasi yang harus dilakukan secara rahasia di luar Jakarta
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-021
+Option Type: jawabanBenar
+Exact Option: Peningkatan emisi gas rumah kaca yang memicu pemanasan global
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-022
+Option Type: pengecoh 1
+Exact Option: Mengurangi kemacetan lalu lintas secara instan di kota besar
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-024
+Option Type: pengecoh 1
+Exact Option: Koperasi selalu mencari keuntungan (profit) sebesar-besarnya bagi pemilik modal
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-024
+Option Type: pengecoh 2
+Exact Option: Keputusan tertinggi koperasi ditentukan oleh seberapa besar saham yang dimiliki
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-024
+Option Type: pengecoh 3
+Exact Option: Koperasi hanya dikelola oleh aparatur negara dan pemerintah daerah
+Word Count: 9
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-026
+Option Type: jawabanBenar
+Exact Option: Memiliki tanah vulkanik yang subur dan kaya bahan tambang mineral
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-028
+Option Type: jawabanBenar
+Exact Option: Meskipun bangsa Indonesia terdiri atas berbagai suku, agama, dan budaya, pada hakikatnya tetap satu kesatuan
+Word Count: 15
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-028
+Option Type: pengecoh 1
+Exact Option: Bangsa Indonesia harus menggunakan satu bahasa ibu agar bisa bersatu
+Word Count: 10
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-028
+Option Type: pengecoh 3
+Exact Option: Seluruh suku bangsa harus dilebur menjadi satu identitas budaya yang sama
+Word Count: 11
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-029
+Option Type: jawabanBenar
+Exact Option: Mengerahkan tenaga kerja gratis untuk membangun infrastruktur keperluan Perang Asia Timur Raya
+Word Count: 12
+
+Jenjang: SMP
+Fase: Fase D
+Mapel: IPS
+Question ID: FD-IPS-030
+Option Type: jawabanBenar
+Exact Option: Orang tua memberikan kasih sayang, perhatian, dan rasa aman kepada anak-anaknya
+Word Count: 11
+
+==================================================
+POST-COMPRESSION VERIFICATION
+==================================================
+Bank: FD-KKA
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 7
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-PAN
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 8
+
+Expected for each:
+>8 words = 0
+
+Bank: FC-KKA
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 7
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-BIND
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 8
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-PJOK
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 7
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-INF
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 7
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-SENI
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 8
+
+Expected for each:
+>8 words = 0
+
+Bank: FD-ENG
+Questions: 30
+Options: 120
+>8 words: 0
+Longest: 8
+
+Expected for each:
+>8 words = 0
+
+Bank: FC-BIND
+Questions: 0
+Options: 0
+>8 words: 0
+Longest: 0
+Expected for each: >8 words = 0
+
+FC-BIND:
+NOT ACTIVE / NOT FOUND
+

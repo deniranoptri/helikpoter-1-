@@ -1,0 +1,224 @@
+FD-KKA-001
+J: Menyaring (filtering) atau mengurutkan (sorting) data pada kolom Eskul Pilihan
+P: [
+  'Membaca daftar nama siswa dari urutan nomor 1 hingga 100 secara berulang',
+  'Menghapus semua data siswa yang tidak mengikuti eskul Basket dari memori',
+  'Membuat tabel baru setiap kali ada satu orang siswa yang mendaftar'
+]
+---
+FD-KKA-002
+J: Mengikuti langkah-langkah resep memasak nasi goreng dari awal hingga siap disajikan
+P: [
+  'Menggambar bebas di atas kertas kosong tanpa tujuan tertentu',
+  'Berbicara secara spontan (improvisasi) saat menceritakan sebuah dongeng',
+  'Memilih baju secara acak dari dalam lemari saat terburu-buru'
+]
+---
+FD-KKA-003
+J: Dekomposisi
+P: [ 'Pengenalan Pola', 'Abstraksi', 'Desain Algoritma' ]
+---
+FD-KKA-004
+J: Sistem tidak memberikan diskon (0%) karena syarat tidak terpenuhi
+P: [
+  'Sistem memberikan diskon 10% karena Rp45.000 mendekati Rp50.000',
+  'Sistem membatalkan transaksi karena uang tidak cukup',
+  'Sistem memberikan diskon secara acak tergantung programnya'
+]
+---
+FD-KKA-005
+J: 2 - 3 - 4 - 1
+P: [ '3 - 2 - 4 - 1', '2 - 4 - 3 - 1', '1 - 2 - 3 - 4' ]
+---
+FD-KKA-006
+J: Abstraksi
+P: [ 'Dekomposisi', 'Evaluasi Data', 'Debug Algoritma' ]
+---
+FD-KKA-007
+J: Pengenalan Pola (Pattern Recognition)
+P: [
+  'Pengulangan Logika (Looping)',
+  'Penyandian Data (Enkripsi)',
+  'Pembuatan Pseudocode'
+]
+---
+FD-KKA-008
+J: Pejalan kaki tidak akan pernah bisa menyeberang jalan, karena pada langkah 3 (saat kendaraan berhenti) mereka seharusnya diizinkan menyeberang.
+P: [
+  'Langkah nomor 1 salah, karena mobil seharusnya berhenti saat lampu hijau menyala.',
+  'Lampu kuning seharusnya dilewati saja dari urutan algoritma karena membuang waktu.',
+  'Algoritma sudah sangat benar dan aman bagi pejalan kaki.'
+]
+---
+FD-KKA-009
+J: Gempa bumi dengan magnitudo 5.0 terjadi di lepas pantai selatan pada hari Senin pukul 10.00 WIB.
+P: [
+  'Cuaca di pantai selatan sangat indah dan menenangkan pikiran setiap hari Senin.',
+  'Menurut saya, gempa bumi adalah bencana yang paling menakutkan dari semua bencana alam.',
+  'Sebaiknya semua orang pindah dari pesisir pantai agar merasa lebih aman.'
+]
+---
+FD-KKA-010
+J: .edu, .ac.id, atau .go.id
+P: [
+  '.com, .net, atau .biz',
+  '.blogspot.com atau .wordpress.com',
+  '.tv, .shop, atau .info'
+]
+---
+FD-KKA-011
+J: Atribusi (mencantumkan sumber tautan atau nama pencipta gambar tersebut di dalam presentasinya)
+P: [
+  'Mengubah warna gambar tersebut sedikit agar terlihat seperti buatannya sendiri',
+  'Mengaku kepada gurunya bahwa ia menggambar ilustrasi tersebut semalaman',
+  'Membayar uang langsung kepada pihak sekolah sebagai biaya izin presentasi'
+]
+---
+FD-KKA-012
+J: Pencurian identitas (identity theft) dan manipulasi data untuk penipuan finansial
+P: [
+  'Memori server media sosial akan cepat penuh dan akun kita otomatis terhapus',
+  'Akun media sosial akan secara otomatis berubah menjadi akun premium berbayar',
+  'Mengakibatkan perangkat smartphone terkena korsleting atau rusak baterainya'
+]
+---
+FD-KKA-013
+J: Infografis
+P: [
+  'Audio Podcast berdurasi 1 jam',
+  'Dokumen teks PDF sebanyak 10 halaman penuh',
+  'Video resolusi 4K berisi layar hitam kosong'
+]
+---
+FD-KKA-014
+J: Penggunaan judul sensasional dan instruksi mendesak untuk "Viralkan!" tanpa sumber rujukan ahli medis yang jelas
+P: [
+  'Menyertakan kutipan resmi dari jurnal kedokteran yang diakui dunia',
+  'Ditulis dengan ejaan bahasa yang sangat baku, tenang, dan tertata rapi',
+  'Hanya dikirim oleh guru atau kepala sekolah melalui pengumuman resmi'
+]
+---
+FD-KKA-015
+J: Rina melakukan pelanggaran etika dan jejak digital yang dapat berujung pada cyberbullying serta mempermalukan korban selamanya
+P: [
+  'Rina melakukan hal yang benar karena konten komedi selalu kebal dari aturan etika',
+  'Tindakan tersebut sepenuhnya aman selama Rina tidak menuliskan nama asli temannya di caption',
+  'Tindakan Rina akan dihargai oleh sekolah sebagai karya jurnalistik dokumenter'
+]
+---
+FD-KKA-016
+J: Dilatih menggunakan jutaan teks (data besar) untuk mengenali pola bahasa dan menebak probabilitas kata selanjutnya
+P: [
+  'Memiliki otak biologis buatan yang tumbuh di dalam komputer server',
+  'Secara ajaib langsung mengetahui segalanya sejak ia pertama kali dihidupkan',
+  'Memiliki ruh dan perasaan empati persis seperti yang dimiliki manusia'
+]
+---
+FD-KKA-017
+J: Halusinasi (Hallucination)
+P: [
+  'Kloning suara (Voice Cloning)',
+  'Verifikasi dua langkah (2FA)',
+  'Virus Ransomware'
+]
+---
+FD-KKA-018
+J: AI tidak memiliki empati, kebijaksanaan, dan kesadaran moral atas keputusan yang dibuatnya
+P: [
+  'AI tidak mampu menyelesaikan operasi matematika dasar seperti penjumlahan',
+  'AI selalu membutuhkan waktu bertahun-tahun untuk membalas satu kalimat pendek',
+  'AI tidak bisa disambungkan ke jaringan listrik komputer modern'
+]
+---
+FD-KKA-019
+J: Andi, karena sebagai manusia, ia adalah pembuat keputusan akhir yang wajib memverifikasi hasil kerja AI sebelum diklaim sebagai karyanya
+P: [
+  'Program AI tersebut, karena mesin selalu disalahkan atas setiap kesalahan',
+  'Perusahaan pembuat AI, karena mereka tidak pernah memperingatkan penggunanya',
+  'Guru sejarah, karena memberikan tugas makalah yang terlalu sulit bagi Andi'
+]
+---
+FD-KKA-020
+J: Deepfake
+P: [
+  'Augmented Reality (AR)',
+  'Virtual Reality (VR)',
+  'Stop Motion Animation'
+]
+---
+FD-KKA-021
+J: Bias Algoritma (AI Bias)
+P: [
+  'Bug Visualisasi Data',
+  'Halusinasi Geografis',
+  'Kecerdasan Super (Superintelligence)'
+]
+---
+FD-KKA-022
+J: Lakukan cross-check (verifikasi silang) rumus tersebut dengan buku cetak pelajaran resmi atau panduan dari guru
+P: [
+  'Langsung menghafalkannya karena AI komputer memiliki kecerdasan absolut dan tidak pernah salah',
+  'Menyalin (copy-paste) persis jawaban tersebut dan membagikannya langsung ke grup kelas tanpa membacanya',
+  'Mematikan komputer karena menggunakan AI untuk belajar adalah hal yang terlarang di seluruh dunia'
+]
+---
+FD-KKA-023
+J: Prompt dan data yang dimasukkan (input) dapat disimpan di server perusahaan AI dan mungkin digunakan kembali untuk melatih model, sehingga data sensitif berisiko terekspos
+P: [
+  'Chatbot AI akan secara otomatis menelepon orang tua Dina melalui jaringan satelit untuk mengadukannya',
+  'Chatbot AI akan langsung mogok beroperasi karena tidak didesain untuk mendengarkan keluhan pribadi',
+  'Semua chatbot di internet diawasi langsung oleh dokter sungguhan yang berjaga 24 jam penuh di markas mereka'
+]
+---
+FD-KKA-024
+J: Menyusun input deskripsi kata (prompt) yang jelas, detail, dan spesifik
+P: [
+  'Menulis satu kata pendek saja agar AI memiliki ruang untuk berimajinasi sendiri',
+  'Memasukkan gambar kode biner (0 dan 1) ke dalam kotak pencarian',
+  'Mematikan koneksi internet sesaat sebelum menekan tombol buat'
+]
+---
+FD-KKA-025
+J: Meminta AI untuk menjelaskan materi sains yang sulit dengan perumpamaan sederhana agar lebih mudah dipahami
+P: [
+  'Menyuruh AI membuat seluruh karangan esai dan langsung menyerahkannya ke guru tanpa dibaca',
+  'Menggunakan AI untuk menjawab soal ujian akhir semester saat guru tidak melihat',
+  'Menyuruh AI meretas sistem keamanan WiFi perpustakaan sekolah'
+]
+---
+FD-KKA-026
+J: Tolong berikan 3 ide unik kampanye menjaga kebersihan di lingkungan sekolah untuk siswa SMP, serta sertakan satu slogan singkat untuk setiap ide.
+P: [
+  'Bagaimana cara membersihkan sekolah?',
+  'Buat kampanye.',
+  'Tuliskan semua hal tentang sampah dan sapu.'
+]
+---
+FD-KKA-027
+J: Jika pertanyaan/instruksi (input) yang kita berikan tidak jelas atau membingungkan, maka jawaban (output) AI juga akan tidak bermutu
+P: [
+  'AI secara otomatis akan membuang file sampah dari dalam memori komputer kita',
+  'Kita harus selalu menggunakan huruf kapital agar AI tidak mengeluarkan sampah digital',
+  'Jika kita memasukkan kata yang terlalu rumit, perangkat keras komputer akan terbakar'
+]
+---
+FD-KKA-028
+J: Membaca teks dari AI hanya sebagai inspirasi awal, lalu menulis ulang ide tersebut menggunakan gaya bahasa dan imajinasi Anton sendiri
+P: [
+  'Langsung mencetak (print) teks tersebut tanpa membacanya terlebih dahulu',
+  'Mengklaim di depan kelas bahwa AI tersebut adalah karya ciptaan Anton dari nol',
+  'Menyalin sebagian demi sebagian ke dokumen tanpa mengubah satu huruf pun'
+]
+---
+FD-KKA-029
+J: 2 - 4 - 1 - 3
+P: [ '1 - 2 - 4 - 3', '4 - 2 - 3 - 1', '2 - 1 - 4 - 3' ]
+---
+FD-KKA-030
+J: Tolong revisi jadwal di atas. Tambahkan jeda istirahat 15 menit setiap selesai belajar 60 menit, dan kosongkan seluruh kegiatan pada hari Minggu pagi untuk olahraga.
+P: [
+  'Jadwalmu terlalu melelahkan dan membuatku pusing, coba buat yang lebih bagus sedikit.',
+  'Apakah kamu tidak tahu kalau manusia itu butuh tidur dan makan setiap hari?',
+  'Tolong hapus semua jadwal matematika dari hari Senin sampai Sabtu tanpa terkecuali.'
+]
+---

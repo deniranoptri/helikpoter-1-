@@ -1,0 +1,994 @@
+[
+  {
+    "id": "smp_ips_1",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Apa yang menyebabkan angin darat terjadi?",
+    "jawabanBenar": "Suhu",
+    "pengecoh": [
+      "Gravitasi",
+      "Hujan",
+      "Awan"
+    ],
+    "challengeType": "IDENTIFY",
+    "difficulty": "EASY",
+    "explanation": "Jawaban yang paling tepat untuk pertanyaan tersebut adalah Suhu."
+  },
+  {
+    "id": "smp_ips_2",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Apa nama letak berdasarkan garis lintang?",
+    "jawabanBenar": "Astronomis",
+    "pengecoh": [
+      "Geografis",
+      "Geologis",
+      "Kultural"
+    ],
+    "challengeType": "IDENTIFY",
+    "difficulty": "EASY",
+    "explanation": "Jawaban yang paling tepat untuk pertanyaan tersebut adalah Astronomis."
+  },
+  {
+    "id": "smp_ips_3",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Gunung, lembah, dan sungai merupakan kenampakan?",
+    "jawabanBenar": "Alam",
+    "pengecoh": [
+      "Buatan",
+      "Sosial",
+      "Budaya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kenampakan alam adalah segala sesuatu di alam yang terbentuk oleh peristiwa alam."
+  },
+  {
+    "id": "smp_ips_4",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Angin laut terjadi pada waktu?",
+    "jawabanBenar": "Siang hari",
+    "pengecoh": [
+      "Malam hari",
+      "Subuh",
+      "Sore hari"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Angin laut bertiup dari laut ke darat yang umumnya terjadi pada siang hari saat suhu daratan lebih panas."
+  },
+  {
+    "id": "smp_ips_5",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Garis khayal yang membagi bumi menjadi dua belahan utara-selatan?",
+    "jawabanBenar": "Khatulistiwa",
+    "pengecoh": [
+      "Bujur",
+      "Greenwich",
+      "Meridian"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Garis khatulistiwa atau ekuator adalah garis lintang nol derajat yang membagi bumi utara dan selatan."
+  },
+  {
+    "id": "smp_ips_6",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Hutan bakau atau mangrove banyak ditemukan di wilayah?",
+    "jawabanBenar": "Pesisir",
+    "pengecoh": [
+      "Pegunungan",
+      "Gurun",
+      "Perkotaan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hutan mangrove tumbuh di daerah pesisir yang dipengaruhi pasang surut air laut."
+  },
+  {
+    "id": "smp_ips_7",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Indonesia memiliki dua musim utama karena pengaruh angin?",
+    "jawabanBenar": "Muson",
+    "pengecoh": [
+      "Topan",
+      "Puyuh",
+      "Tornado"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Angin muson barat dan timur menyebabkan terjadinya musim hujan dan kemarau di Indonesia."
+  },
+  {
+    "id": "smp_ips_8",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Daratan yang menjorok ke laut disebut?",
+    "jawabanBenar": "Tanjung",
+    "pengecoh": [
+      "Teluk",
+      "Selat",
+      "Delta"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tanjung atau semenanjung adalah wilayah daratan yang menjorok ke arah laut."
+  },
+  {
+    "id": "smp_ips_9",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Wilayah lautan yang menjorok ke daratan disebut?",
+    "jawabanBenar": "Teluk",
+    "pengecoh": [
+      "Tanjung",
+      "Selat",
+      "Semenanjung"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teluk adalah kebalikan dari tanjung, yaitu lautan yang menjorok ke darat."
+  },
+  {
+    "id": "smp_ips_10",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Laut sempit yang menghubungkan dua pulau disebut?",
+    "jawabanBenar": "Selat",
+    "pengecoh": [
+      "Teluk",
+      "Tanjung",
+      "Samudra"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Selat adalah perairan sempit yang berada di antara dua buah pulau."
+  },
+  {
+    "id": "smp_ips_11",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Cuaca diamati dalam waktu yang?",
+    "jawabanBenar": "Singkat",
+    "pengecoh": [
+      "Lama",
+      "Tahunan",
+      "Abad"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Cuaca adalah keadaan udara dalam waktu singkat dan wilayah terbatas, berbeda dengan iklim."
+  },
+  {
+    "id": "smp_ips_12",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Perbandingan jarak di peta dengan jarak sebenarnya disebut?",
+    "jawabanBenar": "Skala",
+    "pengecoh": [
+      "Legenda",
+      "Indeks",
+      "Orientasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Skala peta menunjukkan perbandingan matematis antara jarak di peta dengan jarak asli di lapangan."
+  },
+  {
+    "id": "smp_ips_13",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Keterangan dari simbol-simbol pada peta disebut?",
+    "jawabanBenar": "Legenda",
+    "pengecoh": [
+      "Skala",
+      "Inset",
+      "Garis tepi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Legenda berfungsi untuk memperjelas arti dari setiap simbol yang digunakan pada peta."
+  },
+  {
+    "id": "smp_ips_14",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Arah utara pada peta umumnya menunjuk ke bagian?",
+    "jawabanBenar": "Atas",
+    "pengecoh": [
+      "Bawah",
+      "Kanan",
+      "Kiri"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Secara konvensi kartografi standar, arah atas pada peta menunjukkan arah Utara."
+  },
+  {
+    "id": "smp_ips_15",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Warna biru pada peta umum biasanya digunakan untuk?",
+    "jawabanBenar": "Perairan",
+    "pengecoh": [
+      "Daratan",
+      "Pegunungan",
+      "Jalan raya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Warna biru merupakan simbol warna standar untuk danau, sungai, dan laut (perairan)."
+  },
+  {
+    "id": "smp_ips_16",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Peta kecil di dalam peta utama disebut?",
+    "jawabanBenar": "Inset",
+    "pengecoh": [
+      "Legenda",
+      "Indeks",
+      "Skala"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Inset adalah peta kecil yang menunjukkan lokasi daerah yang dipetakan dalam lingkup yang lebih luas."
+  },
+  {
+    "id": "smp_ips_17",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Warna coklat pada peta digunakan untuk simbol?",
+    "jawabanBenar": "Pegunungan",
+    "pengecoh": [
+      "Dataran rendah",
+      "Laut dalam",
+      "Hutan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Warna coklat menandakan wilayah dataran tinggi atau wilayah pegunungan."
+  },
+  {
+    "id": "smp_ips_18",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Simbol segitiga merah pada peta melambangkan apa?",
+    "jawabanBenar": "Gunung berapi",
+    "pengecoh": [
+      "Danau",
+      "Ibu kota",
+      "Bandara"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Secara universal, segitiga merah digunakan sebagai simbol gunung berapi aktif."
+  },
+  {
+    "id": "smp_ips_19",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Bentuk bumi yang bulat ditiru dalam bentuk bola disebut?",
+    "jawabanBenar": "Globe",
+    "pengecoh": [
+      "Atlas",
+      "Peta",
+      "Denah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Globe adalah model atau tiruan bola bumi yang paling mendekati bentuk aslinya."
+  },
+  {
+    "id": "smp_ips_20",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Buku yang berisi kumpulan peta disebut?",
+    "jawabanBenar": "Atlas",
+    "pengecoh": [
+      "Globe",
+      "Katalog",
+      "Kamus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Atlas adalah kumpulan peta-peta yang dibukukan."
+  },
+  {
+    "id": "smp_ips_21",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan bercorak Hindu tertua di Indonesia adalah?",
+    "jawabanBenar": "Kutai",
+    "pengecoh": [
+      "Tarumanegara",
+      "Majapahit",
+      "Sriwijaya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerajaan Kutai di Kalimantan Timur adalah kerajaan Hindu tertua (berdiri abad ke-4)."
+  },
+  {
+    "id": "smp_ips_22",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan bercorak Buddha terbesar di Nusantara adalah?",
+    "jawabanBenar": "Sriwijaya",
+    "pengecoh": [
+      "Majapahit",
+      "Mataram",
+      "Demak"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sriwijaya merupakan pusat pendidikan agama Buddha dan kerajaan maritim terbesar di Sumatra."
+  },
+  {
+    "id": "smp_ips_23",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sumpah Palapa diucapkan oleh mahapatih dari Majapahit bernama?",
+    "jawabanBenar": "Gajah Mada",
+    "pengecoh": [
+      "Hayam Wuruk",
+      "Ken Arok",
+      "Raden Wijaya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sumpah Palapa merupakan janji Patih Gajah Mada untuk menyatukan Nusantara."
+  },
+  {
+    "id": "smp_ips_24",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Siapakah yang membacakan Teks Proklamasi Kemerdekaan RI?",
+    "jawabanBenar": "Soekarno",
+    "pengecoh": [
+      "Moh. Hatta",
+      "Sudirman",
+      "Sjahrir"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Soekarno membacakan proklamasi didampingi oleh Mohammad Hatta pada 17 Agustus 1945."
+  },
+  {
+    "id": "smp_ips_25",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah?",
+    "jawabanBenar": "Budi Utomo",
+    "pengecoh": [
+      "Sarekat Islam",
+      "Indische Partij",
+      "PNI"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Budi Utomo didirikan pada 20 Mei 1908, kini diperingati sebagai Hari Kebangkitan Nasional."
+  },
+  {
+    "id": "smp_ips_26",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan Islam pertama di Pulau Jawa adalah?",
+    "jawabanBenar": "Demak",
+    "pengecoh": [
+      "Mataram",
+      "Banten",
+      "Cirebon"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerajaan Demak merupakan kesultanan Islam pertama di pantai utara Jawa, dipimpin Raden Patah."
+  },
+  {
+    "id": "smp_ips_27",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Bapak Pendidikan Nasional Indonesia adalah?",
+    "jawabanBenar": "Ki Hajar",
+    "pengecoh": [
+      "Soetomo",
+      "Tjipto",
+      "Douwes Dekker"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Ki Hajar Dewantara mendirikan Taman Siswa dan menjadi Bapak Pendidikan Nasional."
+  },
+  {
+    "id": "smp_ips_28",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sistem kerja paksa pada zaman penjajahan Belanda disebut?",
+    "jawabanBenar": "Kerja Rodi",
+    "pengecoh": [
+      "Romusha",
+      "Cultuurstelsel",
+      "Devide"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerja Rodi diterapkan Belanda, sementara Romusha adalah pada zaman Jepang."
+  },
+  {
+    "id": "smp_ips_29",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sistem tanam paksa dicetuskan oleh gubernur jenderal?",
+    "jawabanBenar": "Van den Bosch",
+    "pengecoh": [
+      "Daendels",
+      "Raffles",
+      "J.P. Coen"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Johannes van den Bosch memberlakukan Cultuurstelsel pada 1830."
+  },
+  {
+    "id": "smp_ips_30",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Bangsa Eropa pertama yang mendarat mencari rempah di Maluku?",
+    "jawabanBenar": "Portugis",
+    "pengecoh": [
+      "Spanyol",
+      "Belanda",
+      "Inggris"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Portugis merupakan bangsa Eropa pertama yang mendarat di Maluku pada abad ke-16."
+  },
+  {
+    "id": "FD-IPS-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Letak Geografis",
+    "pertanyaan": "Secara geografis, Indonesia terletak di antara dua benua dan dua samudra. Dampak positif dari letak geografis ini bagi perekonomian Indonesia adalah...",
+    "jawabanBenar": "Menjadi jalur pelayaran dan perdagangan internasional",
+    "pengecoh": [
+      "Memiliki banyak gunung berapi yang menyuburkan tanah",
+      "Mengalami pergantian dua musim yaitu kemarau dan penghujan",
+      "Memiliki keanekaragaman flora dan fauna yang sangat tinggi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Letak geografis (posisi terhadap wilayah lain) di posisi silang menjadikan Indonesia sangat strategis sebagai jalur transit perdagangan dunia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta dan Ruang",
+    "pertanyaan": "Skala pada peta adalah 1 : 500.000. Jika jarak dua kota di peta adalah 4 cm, maka jarak sebenarnya di permukaan bumi adalah...",
+    "jawabanBenar": "20 km",
+    "pengecoh": [
+      "2 km",
+      "200 km",
+      "50 km"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Jarak sebenarnya = Jarak peta x Skala = 4 cm x 500.000 = 2.000.000 cm = 20 km.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Interaksi Antarruang",
+    "pertanyaan": "Penduduk daerah pegunungan menghasilkan sayuran, sedangkan penduduk pesisir pantai menghasilkan ikan. Keduanya saling berinteraksi melalui perdagangan karena perbedaan sumber daya alam. Kondisi yang mendorong interaksi tersebut disebut...",
+    "jawabanBenar": "Saling melengkapi (Complementarity)",
+    "pengecoh": [
+      "Kesempatan antara (Intervening opportunity)",
+      "Kemudahan transfer (Transferability)",
+      "Ketergantungan ekonomi (Economic dependency)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Regional Complementarity atau saling melengkapi terjadi saat dua wilayah memiliki komoditas yang berbeda dan saling membutuhkan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Iklim dan Cuaca",
+    "pertanyaan": "Indonesia memiliki iklim tropis karena dilalui oleh garis khatulistiwa. Salah satu ciri iklim tropis di Indonesia adalah...",
+    "jawabanBenar": "Suhu udara cenderung tinggi sepanjang tahun",
+    "pengecoh": [
+      "Memiliki empat musim yang berganti setiap tiga bulan",
+      "Curah hujan sangat rendah sehingga banyak wilayah gurun",
+      "Mengalami siang yang sangat panjang pada bulan Desember"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Iklim tropis ditandai dengan paparan sinar matahari sepanjang tahun sehingga suhu udara cenderung tinggi (hangat/panas) rata-rata di atas 18 derajat celcius.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sumber Daya Alam",
+    "pertanyaan": "Hutan hujan tropis di Indonesia memiliki peran penting sebagai 'paru-paru dunia'. Upaya pemanfaatan hutan yang sesuai dengan prinsip pembangunan berkelanjutan adalah...",
+    "jawabanBenar": "Melakukan tebang pilih dan reboisasi secara rutin",
+    "pengecoh": [
+      "Mengubah seluruh kawasan hutan menjadi lahan pertanian",
+      "Mengekspor kayu gelondongan sebanyak-banyaknya untuk devisa",
+      "Melarang sama sekali penduduk untuk masuk ke dalam hutan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pembangunan berkelanjutan memanfaatkan SDA namun tetap menjaga kelestariannya. Tebang pilih dan reboisasi memastikan ketersediaan kayu masa depan tanpa merusak ekosistem.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Kependudukan",
+    "pertanyaan": "Perpindahan penduduk dari desa ke kota dengan tujuan menetap disebut...",
+    "jawabanBenar": "Urbanisasi",
+    "pengecoh": [
+      "Transmigrasi",
+      "Imigrasi",
+      "Sirkulasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Urbanisasi adalah proses perpindahan penduduk dari daerah pedesaan ke perkotaan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Kependudukan",
+    "pertanyaan": "Piramida penduduk Indonesia sebagian besar berbentuk limas (ekspansif), di mana bagian bawahnya melebar. Kesimpulan yang tepat mengenai kondisi demografi tersebut adalah...",
+    "jawabanBenar": "Angka kelahiran tinggi dan populasi didominasi oleh penduduk usia muda",
+    "pengecoh": [
+      "Angka harapan hidup sangat tinggi sehingga didominasi oleh lansia",
+      "Angka kematian bayi sangat rendah dan kelahiran lambat",
+      "Tingkat migrasi penduduk dari luar negeri sangat besar"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Piramida ekspansif (melebar di bawah) menunjukkan struktur penduduk muda yang besar karena tingkat kelahiran (fertilitas) yang tinggi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Mobilitas Sosial",
+    "pertanyaan": "Seorang guru biasa di sebuah desa kemudian dipromosikan menjadi kepala sekolah berprestasi di tingkat provinsi. Perubahan status yang dialami orang tersebut merupakan contoh dari...",
+    "jawabanBenar": "Mobilitas sosial vertikal naik",
+    "pengecoh": [
+      "Mobilitas sosial horizontal",
+      "Mobilitas sosial antargenerasi",
+      "Mobilitas sosial vertikal turun"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Perpindahan dari posisi guru ke posisi kepala sekolah menunjukkan peningkatan derajat atau status sosial ke tingkat yang lebih tinggi (vertikal naik).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Interaksi Sosial",
+    "pertanyaan": "Proses pencampuran dua kebudayaan atau lebih yang saling bertemu dan berlangsung dalam waktu lama, sehingga menghasilkan kebudayaan baru namun tidak menghilangkan unsur kebudayaan aslinya disebut...",
+    "jawabanBenar": "Akulturasi",
+    "pengecoh": [
+      "Asimilasi",
+      "Akomodasi",
+      "Difusi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Akulturasi memadukan kebudayaan tanpa menghilangkan identitas asli. Asimilasi menghilangkan budaya asli dan membentuk budaya yang sama sekali baru.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Interaksi Sosial",
+    "pertanyaan": "Konflik sosial di masyarakat sering kali dipicu oleh adanya prasangka dan diskriminasi. Upaya yang paling tepat untuk mencegah konflik bernuansa suku, agama, ras, dan antargolongan (SARA) adalah...",
+    "jawabanBenar": "Mengembangkan sikap toleransi dan empati antarwarga masyarakat",
+    "pengecoh": [
+      "Membatasi komunikasi dengan kelompok yang berbeda budaya",
+      "Memaksakan satu kebudayaan agar semua warga menjadi seragam",
+      "Memisahkan permukiman penduduk berdasarkan suku bangsanya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Toleransi (saling menghargai) dan empati adalah pilar utama masyarakat multikultural untuk hidup berdampingan secara damai tanpa konflik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Aktivitas Ekonomi",
+    "pertanyaan": "Kegiatan ekonomi yang bertujuan untuk menyalurkan barang atau jasa dari produsen kepada konsumen disebut...",
+    "jawabanBenar": "Distribusi",
+    "pengecoh": [
+      "Produksi",
+      "Konsumsi",
+      "Investasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Distribusi adalah mata rantai penghubung dalam kegiatan ekonomi. Produksi menghasilkan, distribusi menyalurkan, dan konsumsi menggunakan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Aktivitas Ekonomi",
+    "pertanyaan": "Pada saat harga daging ayam melonjak tinggi, masyarakat beralih membeli tempe dan tahu sebagai sumber protein. Dalam ilmu ekonomi, hubungan antara daging ayam dengan tempe dan tahu merupakan contoh barang...",
+    "jawabanBenar": "Substitusi",
+    "pengecoh": [
+      "Komplementer",
+      "Bebas",
+      "Illith"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Barang substitusi adalah barang pengganti. Ketika harga satu barang naik, permintaan barang penggantinya akan meningkat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Hukum Ekonomi",
+    "pertanyaan": "Berdasarkan hukum permintaan, jika harga sebuah barang mengalami penurunan (ceteris paribus), maka...",
+    "jawabanBenar": "Jumlah barang yang diminta oleh konsumen akan meningkat",
+    "pengecoh": [
+      "Jumlah barang yang ditawarkan oleh produsen akan meningkat",
+      "Jumlah barang yang diminta oleh konsumen akan menurun",
+      "Daya beli masyarakat akan menurun drastis"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Hukum permintaan menyatakan bahwa ada hubungan terbalik antara harga dan kuantitas yang diminta: harga turun -> permintaan naik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Perdagangan Internasional",
+    "pertanyaan": "Sebuah negara A memiliki iklim tropis dan sangat efisien dalam memproduksi kopi, sementara negara B beriklim subtropis dan unggul dalam memproduksi gandum. Kedua negara memutuskan untuk berdagang kopi dan gandum. Faktor utama pendorong perdagangan internasional ini adalah...",
+    "jawabanBenar": "Perbedaan keunggulan komparatif akibat sumber daya alam",
+    "pengecoh": [
+      "Persamaan selera konsumen di kedua negara",
+      "Kebutuhan untuk mencari tenaga kerja murah",
+      "Keinginan untuk memonopoli pasar dunia"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Perdagangan antarnegara sering terjadi karena perbedaan iklim dan letak geografis yang menciptakan spesialisasi dan keunggulan komparatif pada produk tertentu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Hindu-Buddha",
+    "pertanyaan": "Kerajaan Sriwijaya berkembang menjadi salah satu pusat perdagangan dan pembelajaran agama Buddha terbesar di Asia Tenggara pada masa kejayaannya. Faktor geografis yang paling mendukung kemajuan Sriwijaya adalah...",
+    "jawabanBenar": "Letaknya yang strategis di Selat Malaka sebagai jalur pelayaran dagang internasional",
+    "pengecoh": [
+      "Memiliki tanah vulkanik yang sangat subur untuk pertanian padi",
+      "Dikelilingi oleh benteng pegunungan yang sulit ditembus musuh",
+      "Merupakan satu-satunya penghasil rempah-rempah di nusantara"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sriwijaya adalah kerajaan maritim (bukan agraris) yang menguasai Selat Malaka, jalur urat nadi pelayaran India ke Tiongkok.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Islam",
+    "pertanyaan": "Proses masuk dan berkembangnya agama Islam di Indonesia lebih banyak dilakukan secara damai. Salah satu media penyebaran Islam yang menggunakan pendekatan budaya dan kesenian tradisional di pulau Jawa adalah...",
+    "jawabanBenar": "Pertunjukan wayang kulit oleh Wali Songo",
+    "pengecoh": [
+      "Pendirian sekolah-sekolah modern oleh pemerintah kolonial",
+      "Peperangan militer untuk menaklukkan kerajaan-kerajaan kecil",
+      "Pemaksaan melalui undang-undang kerajaan setempat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Wali Songo, khususnya Sunan Kalijaga, dikenal mahir menggunakan wayang kulit yang diadaptasi dengan nilai-nilai Islam sebagai media dakwah yang damai.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Kolonialisme",
+    "pertanyaan": "Sistem Tanam Paksa (Cultuurstelsel) yang diterapkan oleh Gubernur Jenderal Johannes van den Bosch sangat menyengsarakan rakyat Indonesia. Tujuan utama Belanda menerapkan kebijakan ini adalah...",
+    "jawabanBenar": "Mengisi kas negara Belanda yang kosong akibat berbagai peperangan",
+    "pengecoh": [
+      "Memperkenalkan jenis tanaman baru kepada petani Indonesia",
+      "Meningkatkan kesejahteraan penduduk pribumi Hindia Belanda",
+      "Membangun infrastruktur jalan dan rel kereta api di Jawa"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Belanda nyaris bangkrut akibat Perang Jawa (Perang Diponegoro) dan Perang Belgia. Cultuurstelsel bertujuan memaksimalkan eksploitasi hasil bumi laku ekspor demi memulihkan ekonomi Belanda.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Pergerakan Nasional",
+    "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia yang bersifat modern dan dipelopori oleh para pelajar STOVIA pada tahun 1908 adalah...",
+    "jawabanBenar": "Budi Utomo",
+    "pengecoh": [
+      "Sarekat Islam",
+      "Indische Partij",
+      "Perhimpunan Indonesia"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Budi Utomo didirikan pada 20 Mei 1908 oleh Dr. Sutomo dan pelajar STOVIA, yang kini diperingati sebagai Hari Kebangkitan Nasional.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Pergerakan Nasional",
+    "pertanyaan": "Peristiwa Sumpah Pemuda pada tahun 1928 memiliki makna yang sangat penting bagi sejarah pergerakan kemerdekaan Indonesia. Dampak terbesar dari peristiwa tersebut adalah...",
+    "jawabanBenar": "Memperkuat rasa persatuan dan kesatuan bangsa mengatasi perbedaan kedaerahan",
+    "pengecoh": [
+      "Membentuk angkatan perang nasional untuk melawan Belanda",
+      "Menyusun konstitusi dan dasar negara Indonesia merdeka",
+      "Memaksa pemerintah kolonial memberikan kemerdekaan saat itu juga"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sumpah Pemuda (Satu Nusa, Satu Bangsa, Satu Bahasa) berhasil menyatukan berbagai organisasi pemuda kedaerahan menjadi satu kesatuan identitas kebangsaan Indonesia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Proklamasi Kemerdekaan",
+    "pertanyaan": "Peristiwa Rengasdengklok yang terjadi sebelum Proklamasi Kemerdekaan dilatarbelakangi oleh...",
+    "jawabanBenar": "Perbedaan pendapat antara golongan tua dan golongan muda mengenai waktu pelaksanaan proklamasi",
+    "pengecoh": [
+      "Penculikan Soekarno-Hatta oleh tentara Jepang agar tidak memproklamasikan kemerdekaan",
+      "Persiapan penyerangan militer oleh sekutu ke kota Jakarta",
+      "Penyusunan naskah proklamasi yang harus dilakukan secara rahasia di luar Jakarta"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Golongan muda menginginkan proklamasi secepatnya tanpa campur tangan PPKI (bentukan Jepang), sedangkan golongan tua (Soekarno-Hatta) ingin melalui rapat PPKI agar tidak memicu bentrok dengan tentara Jepang.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Manusia dan Lingkungan",
+    "pertanyaan": "Pembukaan lahan kelapa sawit secara masif dengan cara pembakaran hutan dapat memicu berbagai masalah lingkungan. Salah satu dampak berskala global yang terjadi akibat aktivitas tersebut adalah...",
+    "jawabanBenar": "Peningkatan emisi gas rumah kaca yang memicu pemanasan global",
+    "pengecoh": [
+      "Penurunan suhu udara rata-rata di wilayah Asia Tenggara",
+      "Meningkatnya kesuburan tanah untuk pertanian palawija",
+      "Berkurangnya curah hujan harian di seluruh kepulauan Indonesia"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pembakaran hutan melepaskan karbon dalam jumlah masif ke atmosfer, yang merupakan penyebab utama efek rumah kaca dan perubahan iklim global.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Aktivitas Ekonomi",
+    "pertanyaan": "Perusahaan rintisan (startup) teknologi yang menciptakan aplikasi pemesanan transportasi online merupakan contoh inovasi di bidang ekonomi. Manfaat utama dari inovasi ini bagi masyarakat umum adalah...",
+    "jawabanBenar": "Mempermudah mobilitas masyarakat dan menciptakan lapangan kerja baru",
+    "pengecoh": [
+      "Mengurangi kemacetan lalu lintas secara instan di kota besar",
+      "Membuat harga kendaraan pribadi menjadi sangat mahal",
+      "Menghilangkan profesi sopir angkutan kota sepenuhnya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Ojek/taksi online mempertemukan mitra pengemudi dan konsumen secara efisien, yang mempermudah mobilitas sekaligus membuka lapangan pekerjaan sektor informal.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Kemerdekaan",
+    "pertanyaan": "Pada masa awal kemerdekaan, Indonesia menghadapi hiperinflasi karena kekosongan kas negara dan peredaran mata uang Jepang yang tak terkendali. Kebijakan ekonomi penting yang diambil pemerintah Republik Indonesia pada tahun 1946 untuk mengatasi kekacauan moneter tersebut adalah...",
+    "jawabanBenar": "Menerbitkan uang republik sendiri (ORI)",
+    "pengecoh": [
+      "Meminjam uang dalam jumlah besar dari pemerintah Belanda",
+      "Menjual perusahaan-perusahaan negara kepada pihak swasta",
+      "Melarang sama sekali penggunaan uang tunai di masyarakat"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pemerintah menerbitkan Oeang Repoeblik Indonesia (ORI) pada Oktober 1946 untuk menyatakan kemandirian ekonomi dan menarik peredaran uang Jepang dan uang NICA.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Pemberdayaan Masyarakat",
+    "pertanyaan": "Koperasi merupakan soko guru perekonomian Indonesia. Prinsip utama koperasi yang membedakannya dengan badan usaha milik swasta (PT) adalah...",
+    "jawabanBenar": "Koperasi mengutamakan kesejahteraan anggota berdasarkan asas kekeluargaan",
+    "pengecoh": [
+      "Koperasi selalu mencari keuntungan (profit) sebesar-besarnya bagi pemilik modal",
+      "Keputusan tertinggi koperasi ditentukan oleh seberapa besar saham yang dimiliki",
+      "Koperasi hanya dikelola oleh aparatur negara dan pemerintah daerah"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Prinsip utama koperasi Indonesia menurut Pasal 33 UUD 1945 didasarkan atas asas kekeluargaan dan musyawarah mufakat (satu anggota satu suara), bukan kapital modal.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sosial Budaya",
+    "pertanyaan": "Masuknya budaya K-Pop dan drama Korea (Hallyu Wave) memberikan pengaruh signifikan bagi remaja Indonesia. Dalam ilmu sosiologi, masuknya pengaruh budaya asing melalui media massa massa tanpa adanya paksaan disebut...",
+    "jawabanBenar": "Penetrasi kebudayaan secara damai (Penetration pacifique)",
+    "pengecoh": [
+      "Penetrasi kebudayaan dengan kekerasan (Penetration violante)",
+      "Kolonialisme budaya tradisional",
+      "Etnosentrisme budaya populer"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Penetration pacifique adalah meresapnya unsur-unsur kebudayaan asing dengan damai (seperti lewat musik/film) sehingga masyarakat menerimanya tanpa konflik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Letak Geografis",
+    "pertanyaan": "Wilayah Indonesia dilalui oleh jalur pegunungan Sirkum Pasifik dan Sirkum Mediterania. Keuntungan dari kondisi geologis ini adalah...",
+    "jawabanBenar": "Memiliki tanah vulkanik yang subur dan kaya bahan tambang mineral",
+    "pengecoh": [
+      "Bebas dari ancaman gempa bumi dan tsunami",
+      "Memiliki batas laut teritorial yang sangat luas",
+      "Memiliki iklim gurun yang cocok untuk peternakan unta"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pertemuan sirkum pegunungan ini menyebabkan banyaknya gunung berapi. Abu vulkaniknya menyuburkan tanah dan aktivitas magmatisnya membentuk deposit mineral.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Perdagangan",
+    "pertanyaan": "Dalam perdagangan, kegiatan membeli barang dari luar negeri untuk memenuhi kebutuhan dalam negeri disebut...",
+    "jawabanBenar": "Impor",
+    "pengecoh": [
+      "Ekspor",
+      "Barter",
+      "Proteksi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Impor adalah kegiatan memasukkan barang dari luar negara (luar negeri) ke dalam negeri.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Keberagaman",
+    "pertanyaan": "Semboyan 'Bhinneka Tunggal Ika' berasal dari kitab Sutasoma karangan Mpu Tantular peninggalan Kerajaan Majapahit. Makna filosofis semboyan ini bagi bangsa Indonesia adalah...",
+    "jawabanBenar": "Meskipun bangsa Indonesia terdiri atas berbagai suku, agama, dan budaya, pada hakikatnya tetap satu kesatuan",
+    "pengecoh": [
+      "Bangsa Indonesia harus menggunakan satu bahasa ibu agar bisa bersatu",
+      "Setiap perbedaan pendapat harus diselesaikan melalui pengadilan hukum",
+      "Seluruh suku bangsa harus dilebur menjadi satu identitas budaya yang sama"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Bhinneka Tunggal Ika berarti 'berbeda-beda tetapi tetap satu jua', mengakui pluralitas tanpa memaksakan keseragaman total.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Masa Pendudukan Jepang",
+    "pertanyaan": "Kedatangan Jepang ke Indonesia pada tahun 1942 awalnya disambut gembira karena Jepang mempropagandakan diri sebagai 'Saudara Tua'. Namun, penderitaan rakyat sangat berat akibat romusha. Tujuan utama Jepang memberlakukan romusha adalah...",
+    "jawabanBenar": "Mengerahkan tenaga kerja gratis untuk membangun infrastruktur keperluan Perang Asia Timur Raya",
+    "pengecoh": [
+      "Melatih pemuda Indonesia agar memiliki keterampilan teknis",
+      "Membuka lahan pertanian baru untuk meningkatkan ekspor beras",
+      "Mendidik masyarakat agar disiplin dalam bekerja"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Romusha adalah kerja paksa untuk mendukung mesin perang Jepang, di mana rakyat dipaksa membangun rel kereta, jalan, bunker, dan lapangan terbang dengan kondisi tragis.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPS-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Institusi Sosial",
+    "pertanyaan": "Keluarga memiliki fungsi afeksi bagi anggotanya. Pernyataan yang menunjukkan pelaksanaan fungsi afeksi dalam keluarga adalah...",
+    "jawabanBenar": "Orang tua memberikan kasih sayang, perhatian, dan rasa aman kepada anak-anaknya",
+    "pengecoh": [
+      "Orang tua membiayai seluruh kebutuhan sekolah anak-anaknya",
+      "Keluarga mengajarkan nilai-nilai agama dan sopan santun",
+      "Keluarga menentukan status sosial seseorang di tengah masyarakat"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Afeksi berarti kasih sayang dan kehangatan emosional. Membiayai sekolah adalah fungsi ekonomi, mengajarkan nilai adalah fungsi sosialisasi/edukasi.",
+    "challengeType": "IDENTIFY"
+  }
+]

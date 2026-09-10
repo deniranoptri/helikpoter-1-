@@ -1,0 +1,272 @@
+[
+  {
+    "id": "FC-KKA-001",
+    "j": "1 - 2 - 3 - 4",
+    "p": [
+      "2 - 1 - 4 - 3",
+      "3 - 1 - 2 - 4",
+      "4 - 3 - 2 - 1"
+    ]
+  },
+  {
+    "id": "FC-KKA-002",
+    "j": "Hijau",
+    "p": [
+      "Merah",
+      "Kuning",
+      "Biru"
+    ]
+  },
+  {
+    "id": "FC-KKA-003",
+    "j": "Mengelompokkan benda berdasarkan jenisnya (klasifikasi)",
+    "p": [
+      "Menghancurkan benda agar muat",
+      "Mencampur semua benda tanpa aturan",
+      "Menyembunyikan benda dari pandangan"
+    ]
+  },
+  {
+    "id": "FC-KKA-004",
+    "j": "Maju, Maju, Belok Kanan",
+    "p": [
+      "Maju, Belok Kanan, Maju",
+      "Belok Kanan, Maju, Maju",
+      "Maju, Belok Kiri, Maju"
+    ]
+  },
+  {
+    "id": "FC-KKA-005",
+    "j": "Menguraikan masalah (Dekomposisi)",
+    "p": [
+      "Menemukan pola gambar",
+      "Membuat prediksi cuaca",
+      "Menulis huruf abjad"
+    ]
+  },
+  {
+    "id": "FC-KKA-006",
+    "j": "Permainan akan terus berlanjut di level yang sama",
+    "p": [
+      "Pemain langsung naik level",
+      "Permainan akan tamat seketika (Game Over)",
+      "Koin bintang akan direset menjadi nol"
+    ]
+  },
+  {
+    "id": "FC-KKA-007",
+    "j": "Mengeringkan tangan (3) seharusnya dilakukan di akhir, setelah membilas dengan air (4)",
+    "p": [
+      "Nyalakan keran air (1) seharusnya dilakukan paling akhir",
+      "Pakai sabun (2) harus dilakukan sebelum menyalakan keran air",
+      "Bilas dengan air (4) seharusnya dihapus dari daftar"
+    ]
+  },
+  {
+    "id": "FC-KKA-008",
+    "j": "Majalah dipisahkan sendiri; lalu Buku Bahasa diletakkan lebih dulu, diikuti Buku Matematika di sebelahnya",
+    "p": [
+      "Buku Matematika di paling depan, lalu Buku Bahasa, dan terakhir Majalah",
+      "Semuanya dicampur saja karena sama-sama bahan bacaan",
+      "Majalah Anak disusun di tengah-tengah antara Buku Bahasa dan Matematika"
+    ]
+  },
+  {
+    "id": "FC-KKA-009",
+    "j": "Alamat rumah lengkap dan kata sandi (password) akun kita",
+    "p": [
+      "Warna kesukaan dan nama kartun favorit",
+      "Judul lagu yang sedang sering kita dengarkan",
+      "Nama negara dan benua tempat kita tinggal"
+    ]
+  },
+  {
+    "id": "FC-KKA-010",
+    "j": "Mencari informasi, video edukasi, dan materi pelajaran untuk membantu mengerjakan tugas sekolah",
+    "p": [
+      "Bermain game online tanpa henti dari pagi sampai malam hari",
+      "Mengejek dan menertawakan foto teman dari sekolah lain di media sosial",
+      "Mengunduh semua aplikasi berbayar menggunakan uang orang tua diam-diam"
+    ]
+  },
+  {
+    "id": "FC-KKA-011",
+    "j": "Meminta izin dan didampingi atau diawasi oleh orang tua saat menjelajahi internet",
+    "p": [
+      "Mengunci diri di kamar agar tidak ada yang tahu situs apa yang dibuka",
+      "Mengobrol dengan orang asing yang berjanji memberikan hadiah game",
+      "Mengeklik semua iklan yang berkedip-kedip di layar komputer"
+    ]
+  },
+  {
+    "id": "FC-KKA-012",
+    "j": "Apakah pesanku sopan, jelas, dan tidak menyakiti perasaan teman-teman yang membacanya?",
+    "p": [
+      "Apakah pesan ini cukup panjang untuk menghabiskan kuota internet temanku?",
+      "Berapa banyak stiker lucu dan tidak jelas yang bisa aku kirim sekaligus?",
+      "Bagaimana caranya agar aku terlihat paling hebat dan pamer di grup?"
+    ]
+  },
+  {
+    "id": "FC-KKA-013",
+    "j": "Abaikan pesan tersebut, jangan klik tautan (link) apa pun, dan laporkan kepada orang tua",
+    "p": [
+      "Langsung membalas dan memberikan nomor rekening serta alamat rumah",
+      "Mengirimkan (forward) pesan bahagia itu ke seluruh anggota keluarga",
+      "Menelepon nomor tersebut agar hadiahnya cepat dikirim ke rumah"
+    ]
+  },
+  {
+    "id": "FC-KKA-014",
+    "j": "Kurang sopan, karena huruf kapital semua (Caps Lock) sering diartikan seperti orang yang sedang berteriak marah",
+    "p": [
+      "Sangat baik, karena memudahkan teman yang matanya kurang awas untuk membaca",
+      "Keren, karena membuat teks terlihat lebih penting dari pesan orang lain",
+      "Biasa saja, karena internet tidak memiliki aturan sopan santun sama sekali"
+    ]
+  },
+  {
+    "id": "FC-KKA-015",
+    "j": "Gambar ilustrasi anak yang sedang tersenyum memegang buku dan kalimat ajakan membaca yang singkat",
+    "p": [
+      "Foto artis luar negeri yang sedang bermain film aksi, tanpa ada tulisan apa-apa",
+      "Video berdurasi 30 menit tentang cara mencetak kertas di pabrik",
+      "Daftar nilai rapor seluruh siswa kelas 6 bulan lalu agar semua termotivasi"
+    ]
+  },
+  {
+    "id": "FC-KKA-016",
+    "j": "Tidak langsung percaya, lalu menanyakan kebenarannya kepada orang dewasa (guru/orang tua) atau mencari informasi dari dokter terpercaya",
+    "p": [
+      "Langsung percaya dan berhenti minum air putih mulai hari itu juga",
+      "Segera menyebarkan artikel itu ke seluruh media sosial karena terlihat gawat",
+      "Mengejek teman yang mengirim karena artikel tersebut pastilah mantra sihir"
+    ]
+  },
+  {
+    "id": "FC-KKA-017",
+    "j": "Program komputer yang dirancang oleh manusia untuk bisa belajar dan meniru cara kerja kecerdasan manusia",
+    "p": [
+      "Robot besi mainan yang bisa berjalan lambat kalau diisi baterai",
+      "Mesin ajaib dari luar angkasa yang bisa menjawab semua pertanyaan tanpa diajari manusia",
+      "Lampu lalu lintas yang berubah warna setiap satu menit sekali"
+    ]
+  },
+  {
+    "id": "FC-KKA-018",
+    "j": "Fitur di HP yang bisa membuka kunci layar dengan mendeteksi dan mengenali pola wajah (Face Unlock)",
+    "p": [
+      "Kipas angin dinding yang selalu menengok ke kanan dan kiri",
+      "Kompor gas yang mengeluarkan api biru saat diputar",
+      "Pintu lemari es yang bisa menutup rapat sendiri karena magnet"
+    ]
+  },
+  {
+    "id": "FC-KKA-019",
+    "j": "Manusia memiliki perasaan, hati nurani, dan rasa empati kepada sesama",
+    "p": [
+      "Manusia tidak pernah melakukan kesalahan, sedangkan mesin selalu salah",
+      "Manusia bisa menyimpan triliunan data angka di otaknya tanpa pernah lupa",
+      "Manusia tidak memerlukan energi sama sekali untuk bekerja"
+    ]
+  },
+  {
+    "id": "FC-KKA-020",
+    "j": "Membantu dan mempermudah pekerjaan manusia, misalnya di bidang kesehatan atau mengatur jadwal",
+    "p": [
+      "Menggantikan manusia sepenuhnya agar manusia tidak perlu belajar lagi di sekolah",
+      "Membuat mesin yang bisa melawan dan memerintah manusia",
+      "Menghabiskan listrik di seluruh dunia agar bumi menjadi gelap"
+    ]
+  },
+  {
+    "id": "FC-KKA-021",
+    "j": "Manusia (pemiliknya), karena robot adalah benda mati yang diprogram, bukan makhluk yang bisa dimintai pertanggungjawaban",
+    "p": [
+      "Robot itu sendiri, robot harus dihukum dan dikurung di gudang",
+      "Pabrik pot bunga, karena mereka membuat pot yang mudah pecah",
+      "Tetangga sebelah rumah, karena tidak menjaga rumah kita"
+    ]
+  },
+  {
+    "id": "FC-KKA-022",
+    "j": "Menggunakan alat bantu sensor penglihatan seperti kamera digital (kamera HP/Webcam)",
+    "p": [
+      "Komputer memiliki sepasang mata biologis kecil yang bersembunyi di balik layarnya",
+      "Komputer melihat dengan mendengarkan suara dari pengeras suara (speaker)",
+      "Komputer langsung menebak saja dari udara tanpa menggunakan alat apa pun"
+    ]
+  },
+  {
+    "id": "FC-KKA-023",
+    "j": "Karena Andi tidak jujur dan kehilangan proses belajar untuk berpikir kreatif merangkai cerita sendiri",
+    "p": [
+      "Karena tulisan komputer selalu lebih jelek dari tulisan manusia",
+      "Karena aplikasi AI akan selalu meminta uang jika digunakan untuk mengerjakan PR",
+      "Karena guru bahasa Indonesia lebih suka cerita fiksi tentang hewan saja"
+    ]
+  },
+  {
+    "id": "FC-KKA-024",
+    "j": "Klasifikasi (Pengelompokan) benda berdasarkan warna",
+    "p": [
+      "Menghitung jumlah balok terbanyak",
+      "Mengubah warna balok agar semuanya menjadi merah",
+      "Membuang semua balok agar keranjang menjadi rapi"
+    ]
+  },
+  {
+    "id": "FC-KKA-025",
+    "j": "Memberikan dan melatih aplikasi itu dengan ratusan contoh foto apel dan jeruk",
+    "p": [
+      "Membiarkan aplikasi itu mencari tahu sendiri di kebun tanpa diajari sama sekali",
+      "Menyemprotkan aroma buah apel dan jeruk ke layar komputer",
+      "Mengetikkan kata \"Enak\" berulang-ulang ke dalam aplikasi tersebut"
+    ]
+  },
+  {
+    "id": "FC-KKA-026",
+    "j": "Prediksi (Rekomendasi) berdasarkan pola lagu yang sering kamu dengarkan hari-hari sebelumnya",
+    "p": [
+      "Mesin ajaib yang bisa membaca isi pikiranmu",
+      "Tebakan acak (asal-asalan) yang kebetulan selalu benar setiap hari",
+      "Aplikasi itu diam-diam menyadap pembicaraanmu dengan orang tua"
+    ]
+  },
+  {
+    "id": "FC-KKA-027",
+    "j": "Masukan (Input)",
+    "p": [
+      "Keluaran (Output)",
+      "Proses (Processing)",
+      "Penyimpanan (Storage)"
+    ]
+  },
+  {
+    "id": "FC-KKA-028",
+    "j": "Keluaran (Output) akan berubah drastis menjadi lebih detail dan sesuai dengan permintaan (Input) Siti yang baru",
+    "p": [
+      "Keluaran akan tetap menampilkan kucing biasa karena komputer tidak suka bajak laut",
+      "Aplikasi akan meledak karena permintaan Siti terlalu panjang",
+      "Komputer akan menghapus semua gambar kucing dari internet"
+    ]
+  },
+  {
+    "id": "FC-KKA-029",
+    "j": "Bingung atau salah menebak, karena ia tidak pernah diberi data contoh (belajar) mengenai truk gandeng",
+    "p": [
+      "Sangat pintar mengenali truk gandeng karena mesin selalu tahu semua jenis kendaraan otomatis",
+      "Mengubah truk gandeng tersebut menjadi mobil sedan kecil di dunia nyata",
+      "Menertawakan Dito karena telah memberikan ujian yang terlalu mudah"
+    ]
+  },
+  {
+    "id": "FC-KKA-030",
+    "j": "Mesin akan menyebutnya \"BUKU\", karena mesin hanya terpaku pada pola instruksi bentuk KOTAK yang diajarkan",
+    "p": [
+      "Mesin akan menyebutnya \"KOTAK PENSIL\" karena mesin tahu tempat menyimpan alat tulis",
+      "Mesin akan menyebutnya \"BOLA\" karena kotak pensil bisa menggelinding",
+      "Mesin akan marah dan menolak mengeluarkan suara apa pun"
+    ]
+  }
+]

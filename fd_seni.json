@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-SENI-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Unsur Seni Rupa",
+    "pertanyaan": "Unsur dasar seni rupa yang terbentuk dari gabungan titik-titik yang bersambung dan memiliki dimensi memanjang adalah...",
+    "jawabanBenar": "Garis",
+    "pengecoh": [
+      "Bidang",
+      "Bentuk",
+      "Ruang"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Garis adalah unsur seni rupa yang paling mendasar, terbentuk dari rangkaian titik yang memanjang dan memiliki arah serta sifat tertentu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Warna (Seni Rupa)",
+    "pertanyaan": "Pencampuran warna primer merah dan kuning dengan perbandingan yang sama akan menghasilkan warna sekunder, yaitu...",
+    "jawabanBenar": "Jingga (Oranye)",
+    "pengecoh": [
+      "Hijau",
+      "Ungu",
+      "Cokelat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dalam teori warna pigmen, merah + kuning = jingga/oranye; biru + kuning = hijau; merah + biru = ungu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Rupa Terapan",
+    "pertanyaan": "Karya seni rupa yang dibuat dengan tujuan utama untuk memenuhi fungsi praktis (kegunaan sehari-hari) selain juga memiliki nilai estetis disebut...",
+    "jawabanBenar": "Seni Rupa Terapan (Applied Art)",
+    "pengecoh": [
+      "Seni Rupa Murni (Fine Art)",
+      "Seni Instalasi",
+      "Seni Lukis Abstrak"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Seni terapan (applied art) mengutamakan fungsi pakai (contoh: kursi, pakaian, cangkir kriya) dibandingkan hanya fungsi keindahan semata.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Unsur Musik (Tempo)",
+    "pertanyaan": "Istilah dalam musik yang digunakan untuk menunjukkan cepat atau lambatnya sebuah lagu dinyanyikan adalah...",
+    "jawabanBenar": "Tempo",
+    "pengecoh": [
+      "Dinamika",
+      "Nada",
+      "Irama"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tempo adalah ukuran kecepatan birama lagu. Dinamika adalah keras-lembutnya nada, sedangkan irama adalah ketukan/ritme.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Unsur Musik (Dinamika)",
+    "pertanyaan": "Tanda dinamika 'Forte' (simbol 'f') pada partitur musik memberikan instruksi kepada pemain musik atau penyanyi agar membunyikan nada secara...",
+    "jawabanBenar": "Keras",
+    "pengecoh": [
+      "Lembut",
+      "Cepat",
+      "Lambat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Forte berasal dari bahasa Italia yang berarti kuat atau keras. (Piano = lembut).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Ansambel Musik",
+    "pertanyaan": "Sajian musik yang dimainkan oleh sekelompok orang secara bersama-sama menggunakan berbagai jenis alat musik (seperti gitar, pianika, dan rekorder) disebut...",
+    "jawabanBenar": "Musik Ansambel Campuran",
+    "pengecoh": [
+      "Musik Ansambel Sejenis",
+      "Paduan Suara (Koor)",
+      "Vokal Grup"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Ansambel campuran menggunakan beberapa jenis alat musik yang berbeda. Ansambel sejenis menggunakan satu jenis alat musik yang sama (misal: ansambel rekorder semua).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Pola Lantai (Seni Tari)",
+    "pertanyaan": "Garis imajiner yang dilalui oleh penari saat melakukan gerak tari di atas panggung disebut...",
+    "jawabanBenar": "Pola Lantai",
+    "pengecoh": [
+      "Level Gerak",
+      "Ruang Tari",
+      "Desain Atas"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pola lantai adalah formasi atau garis lintasan yang dilalui penari (misalnya lurus, melengkung, zig-zag) untuk memperindah pertunjukan tari.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Tari Tradisional",
+    "pertanyaan": "Dalam seni tari tradisional Indonesia, properti tari memiliki peran penting. Properti yang biasa digunakan pada Tari Piring dari Sumatra Barat adalah...",
+    "jawabanBenar": "Piring",
+    "pengecoh": [
+      "Selendang",
+      "Kipas",
+      "Payung"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sesuai namanya, Tari Piring menggunakan piring sebagai properti utama yang digenggam dan diayunkan penari tanpa terjatuh.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Ekspresi Teater",
+    "pertanyaan": "Kemampuan seorang aktor untuk mengubah raut wajah agar sesuai dengan perasaan atau emosi tokoh yang diperankannya disebut...",
+    "jawabanBenar": "Mimik muka (Ekspresi wajah)",
+    "pengecoh": [
+      "Pantomim",
+      "Bloking",
+      "Artikulasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Mimik adalah perubahan raut muka. Pantomim adalah seni tanpa kata, bloking adalah pengaturan posisi panggung, dan artikulasi adalah kejelasan pengucapan kata.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Prinsip Seni Rupa (Proporsi)",
+    "pertanyaan": "Saat menggambar bentuk tubuh manusia, Budi membuat ukuran kepala yang terlalu besar sehingga tidak seimbang dengan ukuran badannya. Kesalahan Budi melanggar prinsip seni rupa, yaitu...",
+    "jawabanBenar": "Proporsi (Kesebandingan)",
+    "pengecoh": [
+      "Irama (Ritme)",
+      "Kesatuan (Unity)",
+      "Pusat Perhatian (Center of Interest)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Proporsi adalah prinsip yang mengatur perbandingan ukuran yang ideal dan harmonis antar bagian dalam satu kesatuan karya (misalnya ukuran kepala dibanding badan).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Lukis (Teknik)",
+    "pertanyaan": "Teknik melukis menggunakan cat air dengan sapuan warna yang tipis sehingga menghasilkan warna yang transparan atau tembus pandang disebut teknik...",
+    "jawabanBenar": "Aquarel",
+    "pengecoh": [
+      "Plakat",
+      "Pointilis",
+      "Impasto"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teknik aquarel menggunakan cat air dengan sapuan tipis (transparan). Teknik plakat menggunakan cat kental yang menutup/pekat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Patung",
+    "pertanyaan": "Membuat patung dengan cara mengurangi bahan sedikit demi sedikit menggunakan alat pahat (misalnya pada bahan kayu atau batu) disebut teknik...",
+    "jawabanBenar": "Pahat / Ukir",
+    "pengecoh": [
+      "Butsir",
+      "Cor (Casting)",
+      "Cetak (Molding)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teknik pahat bersifat subtraktif (mengurangi bahan keras). Butsir dilakukan pada bahan lunak (tanah liat) dengan mengurangi dan menambah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Unsur Tari (Waktu/Tempo)",
+    "pertanyaan": "Seorang penari melakukan gerakan melompat dengan cepat, kemudian tiba-tiba berhenti dan bergerak sangat lambat. Elemen dasar tari yang sedang diolah oleh penari tersebut adalah unsur...",
+    "jawabanBenar": "Waktu (Tempo/Irama gerak)",
+    "pengecoh": [
+      "Ruang",
+      "Tenaga",
+      "Properti"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Cepat-lambatnya (ritme/tempo) gerakan berkaitan dengan unsur Waktu. Ruang berkaitan dengan volume/besaran gerak, sedangkan Tenaga berkaitan dengan kuat-lemahnya gerak.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Tari (Level)",
+    "pertanyaan": "Gerakan tari Kecak dari Bali yang didominasi oleh para penari laki-laki yang duduk bersila melingkar sambil mengangkat tangan, merupakan contoh eksplorasi gerak tari pada level...",
+    "jawabanBenar": "Level Rendah",
+    "pengecoh": [
+      "Level Sedang",
+      "Level Tinggi",
+      "Level Vertikal"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Level rendah pada tari dilakukan menyentuh lantai (duduk, rebah). Level sedang dilakukan sambil berdiri merendah/menekuk. Level tinggi melompat/jinjit.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Musik Tradisional",
+    "pertanyaan": "Alat musik angklung dari Jawa Barat membedakan tinggi rendah nada berdasarkan...",
+    "jawabanBenar": "Ukuran besar kecilnya tabung bambu yang digoyangkan",
+    "pengecoh": [
+      "Ketebalan senar yang dipetik",
+      "Kekerasan pukulan pada selaput kulit (membran)",
+      "Panjang pendeknya lubang tiup yang ditutup jari"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Angklung adalah alat musik idiofon (sumber bunyi dari badannya sendiri). Tabung bambu yang lebih besar menghasilkan nada lebih rendah, dan tabung kecil menghasilkan nada tinggi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Bentuk Musik",
+    "pertanyaan": "Dalam paduan suara (koor), pengelompokan suara wanita dewasa yang memiliki wilayah nada paling tinggi disebut...",
+    "jawabanBenar": "Sopran",
+    "pengecoh": [
+      "Alto",
+      "Tenor",
+      "Bass"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sopran (wanita tinggi), Alto (wanita rendah), Tenor (pria tinggi), dan Bass (pria rendah).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Teater (Tata Panggung)",
+    "pertanyaan": "Penataan benda-benda di atas panggung pementasan teater, seperti kursi pajangan, meja usang, dan lampu gantung untuk menciptakan suasana ruang tamu kuno, menjadi tanggung jawab seorang penata...",
+    "jawabanBenar": "Panggung (Setting/Scenery)",
+    "pengecoh": [
+      "Rias dan Busana",
+      "Cahaya (Lighting)",
+      "Suara (Sound)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Penata panggung (scenographer) bertugas menata ruang, properti dekoratif, dan latar panggung (setting) untuk membangun latar tempat/waktu pertunjukan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Teater (Karakterisasi)",
+    "pertanyaan": "Dalam sebuah naskah drama, tokoh yang menjadi lawan dari tokoh utama (protagonis) dan selalu menimbulkan konflik atau halangan disebut tokoh...",
+    "jawabanBenar": "Antagonis",
+    "pengecoh": [
+      "Tritagonis",
+      "Figuran",
+      "Sutradara"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Antagonis adalah karakter penentang utama. Protagonis adalah tokoh utama. Tritagonis adalah penengah/pendukung.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Apresiasi Seni Rupa",
+    "pertanyaan": "Kritik seni rupa yang dilakukan dengan cara mendeskripsikan apa adanya tentang sebuah karya tanpa memberikan penilaian baik atau buruk disebut tahap...",
+    "jawabanBenar": "Deskripsi",
+    "pengecoh": [
+      "Analisis Formal",
+      "Interpretasi",
+      "Evaluasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tahapan kritik seni menurut Feldman: Deskripsi (mengamati apa adanya), Analisis (mengkaji komposisi unsur), Interpretasi (menafsirkan makna), dan Evaluasi (menilai kualitas).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Musik Tradisional",
+    "pertanyaan": "Alat musik Sasando yang berasal dari Pulau Rote, Nusa Tenggara Timur, dimainkan dengan cara...",
+    "jawabanBenar": "Dipetik",
+    "pengecoh": [
+      "Ditiup",
+      "Dipukul",
+      "Digesek"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sasando adalah instrumen dawai berdawai tradisional (kordofon) dari NTT yang dimainkan dengan cara dipetik (plucked).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Harmoni (Seni Rupa)",
+    "pertanyaan": "Penerapan prinsip kesatuan (unity) dalam sebuah lukisan pemandangan bertujuan untuk...",
+    "jawabanBenar": "Menciptakan hubungan yang padu dan saling mendukung antar unsur rupa sehingga karya tidak terkesan tercerai-berai",
+    "pengecoh": [
+      "Membuat bagian tengah lukisan terlihat lebih mencolok daripada bagian lainnya",
+      "Memberikan kesan gelap terang secara tiba-tiba tanpa gradasi",
+      "Memastikan semua objek lukisan memiliki ukuran yang sama besar persis"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Unity (Kesatuan) membuat elemen-elemen yang berbeda (garis, warna, bentuk) terikat harmonis dan menyatu menjadi satu karya yang kohesif.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Pameran (Seni Rupa)",
+    "pertanyaan": "Susunlah tahapan perencanaan pameran seni rupa kelas di sekolah secara logis!\n1. Menentukan tema pameran.\n2. Mengumpulkan dan menyeleksi karya seni siswa.\n3. Membentuk panitia pameran.\n4. Menata ruang dan memajang karya pameran.",
+    "jawabanBenar": "3 - 1 - 2 - 4",
+    "pengecoh": [
+      "1 - 2 - 3 - 4",
+      "2 - 3 - 1 - 4",
+      "3 - 2 - 1 - 4"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Prosedur event: Bentuk panitia (3), tentukan tema/konsep bersama panitia (1), kumpulkan karya (2), lalu display di lokasi pameran (4).",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FD-SENI-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Teater (Improvisasi)",
+    "pertanyaan": "Di tengah pertunjukan drama, seorang aktor tiba-tiba lupa dialognya. Lawan mainnya dengan cepat merespons dengan dialog baru yang spontan namun tetap masuk akal dan menyelamatkan alur cerita. Teknik spontanitas ini dalam teater disebut...",
+    "jawabanBenar": "Improvisasi",
+    "pengecoh": [
+      "Gladi bersih",
+      "Observasi",
+      "Pantomim"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Improvisasi adalah akting atau dialog spontan yang dilakukan tanpa naskah atau persiapan sebelumnya, sering digunakan untuk menutupi kesalahan saat pementasan langsung.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Seni Tari (Tari Kreasi)",
+    "pertanyaan": "Tari kreasi baru merupakan pengembangan dari tari tradisional. Karakteristik utama dari tari kreasi baru adalah...",
+    "jawabanBenar": "Tidak lagi terikat pada aturan baku tari tradisional secara ketat, namun tetap mempertahankan nilai seninya",
+    "pengecoh": [
+      "Hanya boleh menggunakan iringan musik pop mancanegara",
+      "Tidak memperbolehkan penggunaan pola lantai sama sekali",
+      "Pakaian penari harus meniru budaya Eropa masa lalu"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tari kreasi membebaskan koreografer dari aturan adat (pakem) yang kaku pada tari klasik/tradisional, memberikan ruang inovasi pada gerak, musik, dan kostum.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Analisis Desain (Seni Rupa)",
+    "pertanyaan": "Sebuah poster layanan masyarakat ditata dengan teks yang sangat kecil, warna teks kuning terang di atas latar belakang putih, dan ilustrasi yang bertumpuk-tumpuk. Analisis desain yang paling tepat untuk mengkritik poster tersebut adalah...",
+    "jawabanBenar": "Desain tersebut gagal secara fungsi karena kontras warna yang rendah dan komposisi yang berantakan membuatnya tidak terbaca.",
+    "pengecoh": [
+      "Desain tersebut sangat berhasil karena warna kuning dan putih mencerminkan kebersihan.",
+      "Desain tersebut melanggar aturan hak cipta karena menggunakan ilustrasi bertumpuk.",
+      "Desain tersebut terlalu tradisional untuk zaman modern."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kritik desain (seni terapan) berfokus pada fungsi. Teks kecil dengan kontras buruk (kuning di atas putih) melanggar prinsip kejelasan (legibility).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Analisis Pertunjukan (Teater)",
+    "pertanyaan": "Seorang sutradara mementaskan drama tentang kemiskinan di sebuah desa kecil. Untuk memperkuat ironi dan pesan emosionalnya, sang sutradara menggunakan tata lampu (lighting) redup kebiruan dengan iringan musik instrumental bertempo sangat lambat dan sunyi. Interpretasi paling logis dari keputusan artistik tersebut adalah untuk menciptakan atmosfer yang...",
+    "jawabanBenar": "Muram, sepi, dan penuh penderitaan",
+    "pengecoh": [
+      "Gembira, meriah, dan penuh harapan",
+      "Mencekam, horor, dan mengancam jiwa",
+      "Mewah, elegan, dan penuh kekayaan"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Lampu redup kebiruan (cool tone) dipadu musik lambat/sunyi adalah bahasa panggung universal untuk kesedihan, kemuraman, dan kesepian (melankolis).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Apresiasi Musik (Harmoni)",
+    "pertanyaan": "Dalam aransemen paduan suara SATB (Sopran, Alto, Tenor, Bass), apabila kelompok Sopran dan Tenor bernyanyi sangat keras (Forte) sementara melodi utamanya sebenarnya berada di kelompok Alto yang bernyanyi pelan, maka yang akan terjadi pada karya musik tersebut adalah...",
+    "jawabanBenar": "Kehilangan keseimbangan musikal, karena melodi utama akan tertutup oleh suara pengiring",
+    "pengecoh": [
+      "Harmoni akan terdengar jauh lebih indah dan dramatis dari sebelumnya",
+      "Suara Bass akan otomatis berubah menjadi melodi utama",
+      "Lagu akan secara otomatis bertambah temponya (makin cepat)"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Keseimbangan (balance) dalam ansambel/koor sangat penting. Jika suara pengiring (Sopran/Tenor dalam kasus ini) terlalu dominan (Forte), melodi utama di Alto akan tenggelam (overpowered).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Analisis Karya Tari",
+    "pertanyaan": "Tari Saman dari Aceh dilakukan dengan posisi duduk bersimpuh, bahu-membahu, dan gerakan tangan yang menepuk dada atau paha secara cepat dan sinkron tanpa iringan instrumen musik eksternal (mengandalkan nyanyian dan tepukan penari). Kesimpulan koreografis yang tepat mengenai karakteristik tari ini adalah...",
+    "jawabanBenar": "Mengutamakan kekompakan ritmis internal dan formasi garis lurus (horizontal) yang rapat",
+    "pengecoh": [
+      "Mengandalkan eksplorasi ruang luas dengan lompatan-lompatan tinggi",
+      "Sangat bergantung pada melodi gamelan jawa yang kompleks",
+      "Memiliki desain gerak asimetris dan individualistik"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Analisis gerak Saman: tidak ada instrumen luar (musik internal), tidak ada lompatan/ruang luas (karena duduk bersimpuh dalam barisan lurus), sangat bergantung pada kekompakan ritme.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Perspektif dan Ruang (Seni Rupa)",
+    "pertanyaan": "Dalam menggambar bentuk pemandangan jalan raya yang lurus ke depan dengan tiang listrik di pinggir jalan, hukum perspektif optik satu titik hilang mensyaratkan bahwa...",
+    "jawabanBenar": "Semakin jauh tiang listrik, akan digambar semakin kecil dan menyempit ke satu titik di garis cakrawala",
+    "pengecoh": [
+      "Semua tiang listrik harus digambar dengan ukuran yang sama persis agar akurat",
+      "Tiang listrik di kejauhan digambar lebih besar karena terpengaruh pembiasan cahaya",
+      "Jalan raya digambar semakin melebar saat mendekati garis cakrawala"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Prinsip perspektif linear: benda yang ukurannya sama di dunia nyata, akan tampak semakin kecil (diminishing scale) dan menyatu di titik hilang (vanishing point) saat jaraknya semakin jauh dari pengamat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-SENI-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Seni Budaya",
+    "topik": "Apresiasi Seni Kriya",
+    "pertanyaan": "Batik motif Megamendung dari Cirebon memiliki bentuk awan berarak dengan gradasi warna tegas. Secara filosofis dan historis, pola awan pada batik ini merupakan bukti nyata adanya pengaruh akulturasi dengan kebudayaan...",
+    "jawabanBenar": "Tiongkok (China)",
+    "pengecoh": [
+      "India (Hindu-Buddha)",
+      "Timur Tengah (Arab)",
+      "Eropa (Belanda)"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Motif awan (Megamendung) di Cirebon dipengaruhi kuat oleh motif awan pada seni rupa dan keramik Tiongkok (akulturasi budaya karena posisi Cirebon sebagai bandar perdagangan pesisir).",
+    "challengeType": "IDENTIFY"
+  }
+]

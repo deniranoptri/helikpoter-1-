@@ -54,6 +54,7 @@ const Background = () => (
 
 export function CommandCenter({ onStart }: CommandCenterProps) {
   const [jenjang, setJenjang] = useState<string>('');
+  const [fase, setFase] = useState<string>('');
   const [mapel, setMapel] = useState<string>('');
   const [gameMode, setGameMode] = useState<'SOLO' | 'DUEL' | 'SQUAD' | ''>('');
   const [sumberSoal, setSumberSoal] = useState<'BAWAAN' | 'GURU'>('BAWAAN');
@@ -72,17 +73,29 @@ export function CommandCenter({ onStart }: CommandCenterProps) {
     return Array.from(j).sort();
   }, []);
 
+  const availableFases = useMemo(() => {
+    if (!jenjang) return [];
+    const f = new Set<string>();
+    SAMPLE_EDUCATIONAL_CONTENT.forEach(c => {
+      if (c.jenjang === jenjang || c.gradeBand === jenjang) {
+        if (c.kelasAtauFase) f.add(c.kelasAtauFase);
+      }
+    });
+    return Array.from(f).sort();
+  }, [jenjang]);
+
   const availableMapels = useMemo(() => {
     if (!jenjang) return [];
     const m = new Set<string>();
     SAMPLE_EDUCATIONAL_CONTENT.forEach(c => {
       if (c.jenjang === jenjang || c.gradeBand === jenjang) {
+        if (fase && c.kelasAtauFase !== fase) return;
         if (c.mataPelajaran) m.add(c.mataPelajaran);
         else if (c.subject) m.add(c.subject);
       }
     });
     return Array.from(m).sort();
-  }, [jenjang]);
+  }, [jenjang, fase]);
 
   const css = `
     @keyframes float-heli {
@@ -206,6 +219,7 @@ export function CommandCenter({ onStart }: CommandCenterProps) {
                     value={jenjang} 
                     onChange={(e) => { 
                       setJenjang(e.target.value); 
+                      setFase('');
                       setMapel(''); 
                       setErrorMsg(''); 
                     }}
@@ -221,6 +235,32 @@ export function CommandCenter({ onStart }: CommandCenterProps) {
                   </div>
                 </div>
               </div>
+
+              {/* Fase (Optional) */}
+              {availableFases.length > 0 && (
+                <div className="flex flex-col gap-0.5">
+                  <label className="text-[10px] sm:text-xs font-bold text-slate-400 uppercase tracking-widest pl-2">FASE / KELAS (OPSIONAL)</label>
+                  <div className="relative group">
+                    <select 
+                      value={fase} 
+                      onChange={(e) => { 
+                        setFase(e.target.value); 
+                        setMapel(''); 
+                        setErrorMsg(''); 
+                      }}
+                      className="w-full appearance-none bg-slate-800 text-sm sm:text-base md:text-lg font-bold text-white p-2 md:p-2.5 rounded-xl border-2 border-slate-600 group-hover:border-slate-400 focus:border-amber-400 focus:outline-none transition-all cursor-pointer shadow-inner"
+                    >
+                      <option value="" className="text-slate-500">Semua Fase (Default)</option>
+                      {availableFases.map(f => (
+                        <option key={f} value={f} className="text-slate-800 bg-white font-bold">{f}</option>
+                      ))}
+                    </select>
+                    <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-slate-400 group-hover:text-white transition-colors">
+                      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" /></svg>
+                    </div>
+                  </div>
+                </div>
+              )}
 
               {/* Mapel */}
               <div className="flex flex-col gap-0.5">
@@ -333,11 +373,12 @@ export function CommandCenter({ onStart }: CommandCenterProps) {
                   }
                   
                   if (sumberSoal === 'GURU') {
-                    const ds = TeacherBankStore.loadByJenjangMapel(jenjang, mapel);
+                    const ds = TeacherBankStore.loadByJenjangMapel(jenjang, mapel, fase || undefined);
                     EducationalEngine.activeTeacherContent = ds ? ds.questions : [];
                   } else {
                     EducationalEngine.activeTeacherContent = [];
                   }
+                  EducationalEngine.activeFase = fase || undefined;
                   EducationalEngine.currentSumberSoal = sumberSoal;
                   
                   onStart({

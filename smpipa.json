@@ -1,0 +1,994 @@
+[
+  {
+    "id": "smp_ipa_1",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Mengapa daun terlihat berwarna hijau?",
+    "jawabanBenar": "Klorofil",
+    "pengecoh": [
+      "Air",
+      "Sinar",
+      "Tanah"
+    ],
+    "challengeType": "IDENTIFY",
+    "difficulty": "MEDIUM",
+    "explanation": "Secara ilmiah, jawaban yang paling tepat untuk fenomena ini adalah Klorofil."
+  },
+  {
+    "id": "smp_ipa_2",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Apa fungsi utama dari akar tanaman?",
+    "jawabanBenar": "Serap air",
+    "pengecoh": [
+      "Cahaya",
+      "Napas",
+      "Buah"
+    ],
+    "challengeType": "IDENTIFY",
+    "difficulty": "EASY",
+    "explanation": "Secara ilmiah, jawaban yang paling tepat untuk fenomena ini adalah Serap air."
+  },
+  {
+    "id": "smp_ipa_3",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Gas apa yang diserap tumbuhan saat fotosintesis?",
+    "jawabanBenar": "Karbon dioksida",
+    "pengecoh": [
+      "Oksigen",
+      "Nitrogen",
+      "Hidrogen"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tumbuhan menyerap karbon dioksida dari udara sebagai bahan baku fotosintesis."
+  },
+  {
+    "id": "smp_ipa_4",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Gas apa yang dihasilkan dari proses fotosintesis?",
+    "jawabanBenar": "Oksigen",
+    "pengecoh": [
+      "Karbon dioksida",
+      "Nitrogen",
+      "Helium"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Fotosintesis menghasilkan oksigen yang sangat penting bagi pernapasan makhluk hidup."
+  },
+  {
+    "id": "smp_ipa_5",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Dimanakah fotosintesis umumnya terjadi pada tumbuhan?",
+    "jawabanBenar": "Daun",
+    "pengecoh": [
+      "Akar",
+      "Batang",
+      "Bunga"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Daun adalah tempat utama fotosintesis karena mengandung paling banyak klorofil."
+  },
+  {
+    "id": "smp_ipa_6",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Energi apa yang dibutuhkan untuk fotosintesis?",
+    "jawabanBenar": "Cahaya matahari",
+    "pengecoh": [
+      "Panas bumi",
+      "Listrik",
+      "Gerak"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Cahaya matahari memberikan energi yang dibutuhkan untuk mengubah bahan baku menjadi makanan."
+  },
+  {
+    "id": "smp_ipa_7",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Apa karbohidrat hasil dari fotosintesis?",
+    "jawabanBenar": "Glukosa",
+    "pengecoh": [
+      "Protein",
+      "Lemak",
+      "Vitamin"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Fotosintesis menghasilkan gula sederhana berupa glukosa sebagai sumber energi tumbuhan."
+  },
+  {
+    "id": "smp_ipa_8",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Jaringan apa yang mengangkut air dari akar ke daun?",
+    "jawabanBenar": "Xilem",
+    "pengecoh": [
+      "Floem",
+      "Epidermis",
+      "Kambium"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Xilem berfungsi seperti pipa yang mengangkut air dan mineral dari dalam tanah."
+  },
+  {
+    "id": "smp_ipa_9",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Jaringan apa yang mengedarkan hasil fotosintesis?",
+    "jawabanBenar": "Floem",
+    "pengecoh": [
+      "Xilem",
+      "Korteks",
+      "Meristem"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Floem bertugas mendistribusikan zat makanan hasil fotosintesis ke seluruh bagian tumbuhan."
+  },
+  {
+    "id": "smp_ipa_10",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Apa fungsi utama dari putik pada bunga?",
+    "jawabanBenar": "Alat kelamin betina",
+    "pengecoh": [
+      "Alat kelamin jantan",
+      "Perhiasan bunga",
+      "Pelindung bunga"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Putik adalah bagian betina pada bunga yang berperan dalam perkembangbiakan."
+  },
+  {
+    "id": "smp_ipa_11",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Apa fungsi utama benang sari pada bunga?",
+    "jawabanBenar": "Alat kelamin jantan",
+    "pengecoh": [
+      "Alat kelamin betina",
+      "Penarik serangga",
+      "Penyimpan nektar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Benang sari menghasilkan serbuk sari yang berfungsi sebagai alat kelamin jantan."
+  },
+  {
+    "id": "smp_ipa_12",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Proses melekatnya serbuk sari pada kepala putik?",
+    "jawabanBenar": "Penyerbukan",
+    "pengecoh": [
+      "Pembuahan",
+      "Fotosintesis",
+      "Respirasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Penyerbukan atau polinasi adalah peristiwa jatuhnya serbuk sari ke kepala putik."
+  },
+  {
+    "id": "smp_ipa_13",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Di organ mana pencernaan makanan pertama kali terjadi?",
+    "jawabanBenar": "Mulut",
+    "pengecoh": [
+      "Lambung",
+      "Kerongkongan",
+      "Usus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pencernaan mekanis dan kimiawi dimulai di mulut dengan bantuan gigi dan air liur."
+  },
+  {
+    "id": "smp_ipa_14",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Saluran yang menghubungkan mulut dengan lambung?",
+    "jawabanBenar": "Kerongkongan",
+    "pengecoh": [
+      "Tenggorokan",
+      "Usus halus",
+      "Usus besar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kerongkongan atau esofagus adalah saluran yang mendorong makanan ke lambung."
+  },
+  {
+    "id": "smp_ipa_15",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Gerakan meremas pada kerongkongan disebut apa?",
+    "jawabanBenar": "Peristaltik",
+    "pengecoh": [
+      "Mekanik",
+      "Kimiawi",
+      "Absorpsi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gerak peristaltik memungkinkan makanan terdorong masuk ke dalam lambung."
+  },
+  {
+    "id": "smp_ipa_16",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Di mana penyerapan sari-sari makanan terjadi?",
+    "jawabanBenar": "Usus halus",
+    "pengecoh": [
+      "Lambung",
+      "Usus besar",
+      "Hati"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Usus halus memiliki jonjot-jonjot yang menyerap nutrisi makanan ke dalam darah."
+  },
+  {
+    "id": "smp_ipa_17",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Organ pencernaan apa yang menyerap air dari sisa makanan?",
+    "jawabanBenar": "Usus besar",
+    "pengecoh": [
+      "Usus halus",
+      "Lambung",
+      "Pankreas"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Usus besar bertugas menyerap air agar sisa makanan menjadi padat."
+  },
+  {
+    "id": "smp_ipa_18",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Asam apa yang dihasilkan oleh lambung?",
+    "jawabanBenar": "Asam klorida",
+    "pengecoh": [
+      "Asam sulfat",
+      "Asam sitrat",
+      "Asam cuka"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Lambung menghasilkan asam klorida (HCl) untuk membunuh kuman pada makanan."
+  },
+  {
+    "id": "smp_ipa_19",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Pusat tata surya kita adalah?",
+    "jawabanBenar": "Matahari",
+    "pengecoh": [
+      "Bumi",
+      "Bulan",
+      "Jupiter"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Matahari adalah bintang yang menjadi pusat gravitasi sistem tata surya kita."
+  },
+  {
+    "id": "smp_ipa_20",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Planet manakah yang paling dekat dengan Matahari?",
+    "jawabanBenar": "Merkurius",
+    "pengecoh": [
+      "Venus",
+      "Bumi",
+      "Mars"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Merkurius berada di urutan pertama dan terdekat dari Matahari."
+  },
+  {
+    "id": "smp_ipa_21",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Planet terbesar di tata surya kita adalah?",
+    "jawabanBenar": "Jupiter",
+    "pengecoh": [
+      "Saturnus",
+      "Uranus",
+      "Neptunus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Jupiter adalah planet raksasa gas yang paling besar dalam tata surya kita."
+  },
+  {
+    "id": "smp_ipa_22",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Garis edar planet mengelilingi matahari disebut?",
+    "jawabanBenar": "Orbit",
+    "pengecoh": [
+      "Rotasi",
+      "Satelit",
+      "Gravitasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Setiap planet memiliki lintasan atau orbit tertentu dalam mengelilingi matahari."
+  },
+  {
+    "id": "smp_ipa_23",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Perputaran bumi pada porosnya disebut apa?",
+    "jawabanBenar": "Rotasi",
+    "pengecoh": [
+      "Revolusi",
+      "Orbit",
+      "Evolusi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Rotasi bumi mengakibatkan terjadinya siang dan malam."
+  },
+  {
+    "id": "smp_ipa_24",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Satelit alami yang dimiliki oleh bumi adalah?",
+    "jawabanBenar": "Bulan",
+    "pengecoh": [
+      "Phobos",
+      "Titan",
+      "Europa"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Bulan adalah satu-satunya benda langit yang mengitari bumi secara alami."
+  },
+  {
+    "id": "smp_ipa_25",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Perubahan wujud dari padat menjadi cair disebut?",
+    "jawabanBenar": "Mencair",
+    "pengecoh": [
+      "Membeku",
+      "Menguap",
+      "Menyublim"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Mencair terjadi karena benda padat menerima kalor (panas)."
+  },
+  {
+    "id": "smp_ipa_26",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Perubahan wujud dari cair menjadi gas disebut?",
+    "jawabanBenar": "Menguap",
+    "pengecoh": [
+      "Membeku",
+      "Mencair",
+      "Mengembun"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Proses menguap terjadi misalnya saat air dipanaskan hingga mendidih."
+  },
+  {
+    "id": "smp_ipa_27",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Peristiwa kamper (kapur barus) mengecil merupakan contoh?",
+    "jawabanBenar": "Menyublim",
+    "pengecoh": [
+      "Menguap",
+      "Mencair",
+      "Mengkristal"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menyublim adalah perubahan langsung dari zat padat menjadi gas."
+  },
+  {
+    "id": "smp_ipa_28",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Embun di pagi hari terjadi akibat proses apa?",
+    "jawabanBenar": "Mengembun",
+    "pengecoh": [
+      "Mencair",
+      "Menguap",
+      "Menyublim"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gas atau uap air di udara berubah menjadi titik-titik air karena suhu dingin."
+  },
+  {
+    "id": "smp_ipa_29",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Zat yang bentuk dan volumenya selalu berubah?",
+    "jawabanBenar": "Gas",
+    "pengecoh": [
+      "Padat",
+      "Cair",
+      "Plasma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gas akan selalu mengisi seluruh ruang yang diempatinya karena susunan partikel bebas."
+  },
+  {
+    "id": "smp_ipa_30",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Sifat benda padat yaitu bentuk dan volumenya?",
+    "jawabanBenar": "Tetap",
+    "pengecoh": [
+      "Berubah",
+      "Mengikuti wadah",
+      "Bebas"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Susunan partikel zat padat sangat rapat sehingga bentuk dan volumenya tidak mudah berubah."
+  },
+  {
+    "id": "FD-IPA-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sel",
+    "pertanyaan": "Organel sel yang berfungsi sebagai tempat berlangsungnya respirasi selular untuk menghasilkan energi adalah...",
+    "jawabanBenar": "Mitokondria",
+    "pengecoh": [
+      "Nukleus",
+      "Kloroplas",
+      "Ribosom"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Mitokondria sering disebut sebagai 'pabrik energi' sel karena berfungsi menghasilkan energi (ATP) melalui proses respirasi selular.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sel",
+    "pertanyaan": "Perbedaan utama antara sel hewan dan sel tumbuhan adalah...",
+    "jawabanBenar": "Sel tumbuhan memiliki dinding sel dan kloroplas, sedangkan sel hewan tidak",
+    "pengecoh": [
+      "Sel hewan memiliki vakuola yang besar, sedangkan sel tumbuhan tidak",
+      "Sel tumbuhan tidak memiliki membran sel, sedangkan sel hewan memiliki",
+      "Sel hewan memiliki inti sel, sedangkan sel tumbuhan tidak memiliki inti sel"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sel tumbuhan dilindungi oleh dinding sel yang kaku dan memiliki kloroplas untuk fotosintesis, organel-organel ini tidak ditemukan pada sel hewan biasa.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Organisasi Kehidupan",
+    "pertanyaan": "Urutan tingkat organisasi kehidupan dari yang paling sederhana hingga yang paling kompleks adalah...",
+    "jawabanBenar": "Sel - Jaringan - Organ - Sistem Organ - Organisme",
+    "pengecoh": [
+      "Sel - Organ - Jaringan - Sistem Organ - Organisme",
+      "Jaringan - Sel - Organ - Sistem Organ - Organisme",
+      "Organisme - Sistem Organ - Organ - Jaringan - Sel"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tingkatan organisasi kehidupan diawali dari unit terkecil (sel), kumpulan sel membentuk jaringan, kumpulan jaringan membentuk organ, kumpulan organ membentuk sistem organ, dan akhirnya menjadi organisme.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Organ Manusia",
+    "pertanyaan": "Fungsi utama asam klorida (HCl) di dalam lambung adalah...",
+    "jawabanBenar": "Membunuh kuman yang masuk bersama makanan dan mengaktifkan pepsinogen",
+    "pengecoh": [
+      "Mengubah amilum menjadi zat gula",
+      "Menyerap sari-sari makanan ke dalam darah",
+      "Mengemulsikan lemak agar mudah dicerna"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Asam lambung (HCl) berfungsi menciptakan lingkungan asam yang mematikan bakteri patogen dan mengaktifkan enzim pepsinogen menjadi pepsin untuk mencerna protein.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Organ Manusia",
+    "pertanyaan": "Proses pertukaran gas oksigen dan karbon dioksida di dalam paru-paru terjadi pada bagian...",
+    "jawabanBenar": "Alveolus",
+    "pengecoh": [
+      "Bronkus",
+      "Trakea",
+      "Bronkiolus"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Alveolus adalah kantung udara kecil di paru-paru tempat terjadinya difusi (pertukaran) oksigen ke dalam darah dan karbon dioksida keluar dari darah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Organ Manusia",
+    "pertanyaan": "Manakah urutan aliran darah pada sistem peredaran darah besar yang paling tepat?",
+    "jawabanBenar": "Bilik kiri -> Aorta -> Seluruh tubuh -> Vena Cava -> Serambi kanan",
+    "pengecoh": [
+      "Bilik kanan -> Arteri pulmonalis -> Paru-paru -> Vena pulmonalis -> Serambi kiri",
+      "Serambi kiri -> Bilik kiri -> Aorta -> Paru-paru -> Serambi kanan",
+      "Bilik kiri -> Vena Cava -> Seluruh tubuh -> Aorta -> Serambi kanan"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Peredaran darah besar (sistemik) memompa darah kaya oksigen dari bilik kiri jantung melalui aorta ke seluruh tubuh, lalu kembali membawa karbon dioksida melalui vena cava ke serambi kanan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Perubahannya",
+    "pertanyaan": "Sifat benda gas yang membedakannya dengan benda padat dan cair adalah...",
+    "jawabanBenar": "Bentuk dan volumenya selalu berubah mengikuti wadahnya",
+    "pengecoh": [
+      "Volumenya tetap tetapi bentuknya selalu berubah",
+      "Bentuk dan volumenya selalu tetap",
+      "Bentuknya tetap tetapi volumenya bisa diubah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Partikel zat gas sangat renggang dan bebas bergerak sehingga gas selalu mengisi seluruh ruang (volume berubah) dan mengikuti bentuk wadahnya (bentuk berubah).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Perubahannya",
+    "pertanyaan": "Kapur barus (kamper) yang dibiarkan di dalam lemari pakaian lama-kelamaan akan mengecil dan habis. Proses perubahan wujud yang terjadi adalah...",
+    "jawabanBenar": "Menyublim",
+    "pengecoh": [
+      "Mencair",
+      "Menguap",
+      "Mengkristal"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menyublim adalah peristiwa perubahan wujud dari zat padat (kapur barus) menjadi gas tanpa melalui fase cair terlebih dahulu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Materi dan Sifatnya",
+    "pertanyaan": "Suatu benda akan mengapung jika dimasukkan ke dalam air apabila...",
+    "jawabanBenar": "Massa jenis benda lebih kecil dari massa jenis air",
+    "pengecoh": [
+      "Massa jenis benda lebih besar dari massa jenis air",
+      "Massa benda lebih besar dari massa air",
+      "Volume benda lebih besar dari volume air"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hukum Archimedes menyatakan benda akan mengapung jika massa jenisnya lebih kecil daripada massa jenis fluida di sekitarnya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Suhu dan Kalor",
+    "pertanyaan": "Suhu suatu ruangan diukur dengan termometer Celcius menunjukkan skala 40°C. Jika diukur dengan termometer Reamur, suhu tersebut adalah...",
+    "jawabanBenar": "32°R",
+    "pengecoh": [
+      "30°R",
+      "45°R",
+      "50°R"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Perbandingan Celcius : Reamur adalah 5 : 4. Maka suhunya dalam Reamur = (4/5) x 40°C = 32°R.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Suhu dan Kalor",
+    "pertanyaan": "Sebanyak 200 gram air bersuhu 20°C dicampur dengan 100 gram air bersuhu 80°C. Jika kalor jenis air diabaikan dalam perbandingan karena zatnya sama, suhu campuran (keseimbangan termal) yang terjadi adalah...",
+    "jawabanBenar": "40°C",
+    "pengecoh": [
+      "50°C",
+      "60°C",
+      "45°C"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Asas Black: Q_lepas = Q_terima. m1 x c x (T_akhir - T1) = m2 x c x (T2 - T_akhir). 200 x (T - 20) = 100 x (80 - T). Dibagi 100: 2(T - 20) = 80 - T. 2T - 40 = 80 - T. 3T = 120, T = 40°C.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Gerak dan Gaya",
+    "pertanyaan": "Sebuah buah kelapa jatuh bebas dari pohonnya ke tanah. Jenis gerak yang dialami buah kelapa tersebut adalah...",
+    "jawabanBenar": "Gerak lurus berubah beraturan (GLBB) dipercepat",
+    "pengecoh": [
+      "Gerak lurus beraturan (GLB)",
+      "Gerak lurus berubah beraturan (GLBB) diperlambat",
+      "Gerak melingkar beraturan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Benda yang jatuh bebas mengalami percepatan akibat gravitasi bumi, sehingga kecepatannya terus bertambah (GLBB dipercepat).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Gerak dan Gaya",
+    "pertanyaan": "Sebuah balok bermassa 5 kg didorong dengan gaya mendatar sebesar 20 Newton di atas lantai licin (tanpa gesekan). Percepatan balok tersebut adalah...",
+    "jawabanBenar": "4 m/s²",
+    "pengecoh": [
+      "15 m/s²",
+      "25 m/s²",
+      "100 m/s²"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sesuai Hukum II Newton, a = F/m. Maka a = 20 N / 5 kg = 4 m/s².",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Energi",
+    "pertanyaan": "Sebuah benda bermassa 2 kg berada pada ketinggian 5 meter dari permukaan tanah. Jika percepatan gravitasi bumi 10 m/s², besar energi potensial gravitasi benda tersebut adalah...",
+    "jawabanBenar": "100 Joule",
+    "pengecoh": [
+      "50 Joule",
+      "20 Joule",
+      "250 Joule"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Energi Potensial (Ep) = m x g x h. Ep = 2 kg x 10 m/s² x 5 m = 100 Joule.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Energi",
+    "pertanyaan": "Budi mendorong meja dengan gaya 50 Newton sehingga meja berpindah sejauh 4 meter searah gaya dorongnya. Usaha yang dilakukan Budi adalah...",
+    "jawabanBenar": "200 Joule",
+    "pengecoh": [
+      "12,5 Joule",
+      "54 Joule",
+      "46 Joule"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Usaha (W) = Gaya (F) x Perpindahan (s). W = 50 N x 4 m = 200 Joule.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tekanan",
+    "pertanyaan": "Sebuah pisau yang tajam lebih mudah digunakan untuk memotong daging daripada pisau tumpul karena...",
+    "jawabanBenar": "Luas penampang pisau tajam lebih kecil sehingga menghasilkan tekanan yang besar",
+    "pengecoh": [
+      "Luas penampang pisau tajam lebih besar sehingga menghasilkan gaya yang besar",
+      "Pisau tajam memiliki massa yang lebih ringan sehingga mudah diayunkan",
+      "Gaya gesek pada pisau tajam lebih besar daripada pisau tumpul"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tekanan (P) berbanding terbalik dengan luas permukaan (A). Semakin kecil luas permukaan mata pisau, semakin besar tekanan yang dihasilkan (P = F/A).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tekanan",
+    "pertanyaan": "Seekor ikan berenang pada kedalaman 2 meter di bawah permukaan air. Jika massa jenis air 1000 kg/m³ dan gravitasi bumi 10 m/s², tekanan hidrostatis yang dialami ikan tersebut adalah...",
+    "jawabanBenar": "20.000 Pascal",
+    "pengecoh": [
+      "2.000 Pascal",
+      "500 Pascal",
+      "10.000 Pascal"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tekanan Hidrostatis (Ph) = rho x g x h. Ph = 1000 kg/m³ x 10 m/s² x 2 m = 20.000 Pascal (Pa).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Pesawat Sederhana",
+    "pertanyaan": "Sebuah tuas memiliki lengan beban 20 cm. Jika berat beban yang diangkat adalah 600 Newton dan gaya kuasa yang diberikan sebesar 200 Newton, maka panjang lengan kuasa yang dibutuhkan adalah...",
+    "jawabanBenar": "60 cm",
+    "pengecoh": [
+      "120 cm",
+      "40 cm",
+      "30 cm"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Prinsip tuas: W x Lb = F x Lk. 600 N x 20 cm = 200 N x Lk. 12000 = 200 x Lk. Lk = 12000 / 200 = 60 cm.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Getaran dan Gelombang",
+    "pertanyaan": "Banyaknya getaran yang terjadi dalam waktu satu sekon disebut...",
+    "jawabanBenar": "Frekuensi",
+    "pengecoh": [
+      "Periode",
+      "Amplitudo",
+      "Panjang gelombang"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Frekuensi adalah jumlah getaran atau gelombang yang terjadi dalam satu satuan waktu (detik), dengan satuan Hertz (Hz).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Getaran dan Gelombang",
+    "pertanyaan": "Sebuah kapal memancarkan bunyi sonar ke dasar laut. Bunyi pantul diterima kembali oleh kapal setelah 2 detik. Jika cepat rambat bunyi di air laut 1400 m/s, kedalaman laut tersebut adalah...",
+    "jawabanBenar": "1400 meter",
+    "pengecoh": [
+      "2800 meter",
+      "700 meter",
+      "5600 meter"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kedalaman (s) = (v x t) / 2. s = (1400 m/s x 2 s) / 2 = 2800 / 2 = 1400 meter. Dibagi 2 karena gelombang menempuh perjalanan bolak-balik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Cahaya dan Alat Optik",
+    "pertanyaan": "Sebuah sedotan yang dimasukkan sebagian ke dalam gelas berisi air akan tampak patah. Peristiwa ini merupakan bukti dari sifat cahaya yaitu...",
+    "jawabanBenar": "Dapat dibiaskan (Refraksi)",
+    "pengecoh": [
+      "Dapat dipantulkan (Refleksi)",
+      "Dapat diuraikan (Dispersi)",
+      "Merambat lurus"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pembelokan cahaya terjadi karena cahaya melewati dua medium dengan kerapatan berbeda (udara ke air), sifat ini disebut pembiasan (refraksi).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Cahaya dan Alat Optik",
+    "pertanyaan": "Bagian mata yang berfungsi menangkap bayangan benda dan memiliki sel reseptor cahaya adalah...",
+    "jawabanBenar": "Retina",
+    "pengecoh": [
+      "Kornea",
+      "Pupil",
+      "Lensa"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Retina adalah selaput jala di bagian belakang mata yang sangat peka terhadap cahaya dan berfungsi menangkap bayangan dari lensa.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Listrik dan Kemagnetan",
+    "pertanyaan": "Kaca yang digosok dengan kain sutra akan bermuatan listrik positif. Hal ini terjadi karena...",
+    "jawabanBenar": "Elektron dari kaca berpindah ke kain sutra",
+    "pengecoh": [
+      "Elektron dari kain sutra berpindah ke kaca",
+      "Proton dari kaca berpindah ke kain sutra",
+      "Proton dari kain sutra berpindah ke kaca"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Muatan positif terjadi bila sebuah benda kekurangan elektron. Kaca kehilangan elektron karena elektronnya berpindah ke sutra saat digosok, sedangkan proton tidak berpindah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Listrik dan Kemagnetan",
+    "pertanyaan": "Dua buah hambatan masing-masing bernilai 2 ohm dan 4 ohm dirangkai secara seri dan dihubungkan pada baterai bertegangan 12 Volt. Kuat arus yang mengalir pada rangkaian tersebut adalah...",
+    "jawabanBenar": "2 Ampere",
+    "pengecoh": [
+      "6 Ampere",
+      "18 Ampere",
+      "3 Ampere"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Hambatan total seri (R) = 2 + 4 = 6 ohm. Berdasarkan Hukum Ohm, I = V / R = 12 V / 6 ohm = 2 Ampere.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Listrik dan Kemagnetan",
+    "pertanyaan": "Sebuah trafo step-down (penurun tegangan) dihubungkan dengan tegangan primer 220 Volt. Jika jumlah lilitan primernya 1000 lilitan dan lilitan sekundernya 200 lilitan, tegangan sekunder yang dihasilkan adalah...",
+    "jawabanBenar": "44 Volt",
+    "pengecoh": [
+      "1100 Volt",
+      "110 Volt",
+      "440 Volt"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Persamaan trafo ideal: Vp / Vs = Np / Ns. 220 / Vs = 1000 / 200. 220 / Vs = 5. Vs = 220 / 5 = 44 Volt.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Ekosistem",
+    "pertanyaan": "Dalam suatu ekosistem padang rumput, rumput bertindak sebagai organisme fotosintetik. Peran rumput dalam rantai makanan tersebut adalah sebagai...",
+    "jawabanBenar": "Produsen",
+    "pengecoh": [
+      "Konsumen tingkat I",
+      "Dekomposer",
+      "Konsumen puncak"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Organisme yang mampu menghasilkan makanannya sendiri melalui fotosintesis disebut produsen (autotrof).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Ekosistem",
+    "pertanyaan": "Perhatikan rantai makanan berikut: Padi -> Belalang -> Katak -> Ular -> Elang. Jika populasi katak banyak diburu oleh manusia, dampak langsung yang akan terjadi pada ekosistem tersebut adalah...",
+    "jawabanBenar": "Populasi belalang akan meningkat dan populasi ular akan menurun",
+    "pengecoh": [
+      "Populasi padi akan meningkat tajam",
+      "Populasi elang akan meningkat",
+      "Populasi belalang akan menurun dan ular meningkat"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Jika katak menurun, predator belalang berkurang sehingga belalang meningkat. Di sisi lain, ular kehilangan sumber makanannya sehingga populasinya menurun.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Lingkungan",
+    "pertanyaan": "Pembuangan limbah deterjen dan pupuk pertanian ke aliran sungai secara berlebihan dapat menyebabkan ledakan populasi ganggang (alga) di permukaan sungai. Fenomena pencemaran air ini disebut...",
+    "jawabanBenar": "Eutrofikasi",
+    "pengecoh": [
+      "Efek rumah kaca",
+      "Bioremediasi",
+      "Biomagnifikasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Eutrofikasi adalah pengayaan nutrien di lingkungan perairan (seperti fosfat dari pupuk/deterjen) yang memicu pertumbuhan tak terkendali alga/tumbuhan air.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Lingkungan",
+    "pertanyaan": "Mekanisme terjadinya efek rumah kaca yang memicu pemanasan global secara alami berawal dari radiasi matahari. Faktor utama yang menyebabkan suhu bumi semakin panas akibat efek ini adalah...",
+    "jawabanBenar": "Gas rumah kaca di atmosfer memerangkap radiasi panas bumi sehingga tidak bisa terpantul kembali ke luar angkasa",
+    "pengecoh": [
+      "Lapisan ozon yang berlubang membiarkan lebih banyak sinar ultraviolet masuk",
+      "Panas matahari terfokus oleh atmosfer seperti melalui lensa cembung",
+      "Peningkatan aktivitas inti bumi yang merambat hingga ke kerak bumi"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Efek rumah kaca disebabkan oleh gas-gas (CO2, metana) yang menyerap dan memantulkan kembali radiasi inframerah (panas) dari permukaan bumi, memerangkapnya di dalam atmosfer. Ini berbeda dari masalah lubang ozon (UV).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-IPA-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Bumi dan Fenomena Alam",
+    "pertanyaan": "Peristiwa alam berikut ini yang merupakan akibat dari revolusi bumi (bumi mengelilingi matahari) adalah...",
+    "jawabanBenar": "Terjadinya perbedaan musim di belahan bumi utara dan selatan",
+    "pengecoh": [
+      "Terjadinya siang dan malam",
+      "Gerak semu harian benda langit dari timur ke barat",
+      "Perbedaan waktu di berbagai wilayah bumi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Revolusi bumi dikombinasikan dengan kemiringan sumbu bumi menyebabkan pergantian musim, perbedaan lama siang dan malam, serta gerak semu tahunan matahari. Siang malam dan gerak harian adalah akibat rotasi.",
+    "challengeType": "IDENTIFY"
+  }
+]

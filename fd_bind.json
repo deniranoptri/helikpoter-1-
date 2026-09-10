@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-BIND-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Makna Kata",
+    "pertanyaan": "Bacalah kalimat berikut: 'Tim penyelamat segera melakukan **evakuasi** warga yang terjebak banjir.' Makna kata evakuasi pada kalimat tersebut adalah...",
+    "jawabanBenar": "pemindahan penduduk dari daerah bahaya ke tempat yang aman",
+    "pengecoh": [
+      "penyelamatan harta benda dari bencana",
+      "pemberian bantuan makanan dan obat-obatan",
+      "peninjauan lokasi yang terkena musibah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dalam KBBI, evakuasi berarti pemindahan atau penyingkiran (penduduk, dsb.) dari daerah yang dianggap berbahaya ke tempat yang aman.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ide Pokok",
+    "pertanyaan": "Hutan mangrove memiliki peran penting bagi lingkungan pesisir. Akar-akarnya yang kuat mampu menahan ombak sehingga mencegah abrasi. Selain itu, hutan mangrove juga menjadi tempat berkembang biak berbagai jenis biota laut seperti udang dan ikan kecil. Oleh karena itu, kelestarian hutan mangrove harus terus dijaga.\n\nIde pokok paragraf tersebut adalah...",
+    "jawabanBenar": "Peran penting hutan mangrove bagi lingkungan pesisir",
+    "pengecoh": [
+      "Cara mencegah abrasi dengan hutan mangrove",
+      "Hutan mangrove sebagai tempat berkembang biak biota laut",
+      "Himbauan untuk menjaga kelestarian hutan mangrove"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Ide pokok adalah gagasan utama yang menjiwai seluruh paragraf. Kalimat pertama 'Hutan mangrove memiliki peran penting bagi lingkungan pesisir' merangkum seluruh isi paragraf.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Simpulan",
+    "pertanyaan": "Banyak remaja saat ini lebih suka menghabiskan waktu bermain gawai daripada berolahraga. Akibatnya, angka kebugaran jasmani pada remaja menurun. Padahal, masa remaja adalah masa pertumbuhan fisik yang membutuhkan aktivitas gerak yang cukup. Jika dibiarkan, hal ini dapat meningkatkan risiko penyakit metabolik di masa depan.\n\nSimpulan yang paling tepat dari teks tersebut adalah...",
+    "jawabanBenar": "Gaya hidup remaja yang kurang gerak akibat kecanduan gawai mengancam kesehatan fisik mereka di masa depan.",
+    "pengecoh": [
+      "Bermain gawai adalah satu-satunya penyebab menurunnya kebugaran remaja.",
+      "Remaja harus dilarang menggunakan gawai agar fisiknya sehat.",
+      "Penyakit metabolik hanya menyerang remaja yang malas berolahraga."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Simpulan merangkum ide pokok dan akibat logis dalam teks tanpa menambahkan opini di luar teks (ancaman kesehatan masa depan akibat kurang gerak/gawai).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Deskripsi",
+    "pertanyaan": "Pantai Parangtritis memiliki hamparan pasir hitam yang eksotis. Deburan ombak yang besar menjadi ciri khas pantai di pesisir selatan ini. Saat senja, langit di ufuk barat merona jingga, menciptakan siluet tebing karang yang memukau.\n\nTujuan penulisan teks tersebut adalah...",
+    "jawabanBenar": "Menggambarkan suasana dan keindahan Pantai Parangtritis",
+    "pengecoh": [
+      "Menceritakan sejarah Pantai Parangtritis",
+      "Menjelaskan proses terjadinya ombak besar",
+      "Mengajak pembaca berwisata ke Pantai Parangtritis"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Teks deskripsi bertujuan merinci atau menggambarkan objek secara nyata agar pembaca seolah-olah melihat atau merasakannya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kohesi dan Koherensi",
+    "pertanyaan": "(1) Sampah plastik menjadi masalah serius di perkotaan. (2) Sulitnya sampah plastik terurai membuat volume sampah di TPA terus menumpuk. (3) [...] (4) Salah satunya adalah dengan membawa kantong belanja kain saat ke pasar.\n\nKalimat yang tepat untuk melengkapi bagian rumpang agar paragraf menjadi padu adalah...",
+    "jawabanBenar": "Oleh karena itu, diperlukan upaya nyata untuk mengurangi penggunaan plastik.",
+    "pengecoh": [
+      "Banyak orang masih membuang sampah sembarangan di sungai.",
+      "Pemerintah harus membangun lebih banyak TPA baru.",
+      "Sampah plastik dapat didaur ulang menjadi kerajinan tangan."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kalimat sebelum rumpang membahas masalah penumpukan, kalimat setelah rumpang memberi contoh solusi tindakan. Kalimat penghubung yang logis adalah perlunya upaya mengurangi plastik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kalimat Efektif",
+    "pertanyaan": "Kalimat berikut ini yang merupakan kalimat efektif adalah...",
+    "jawabanBenar": "Semua peserta rapat harus mematuhi tata tertib.",
+    "pengecoh": [
+      "Bagi semua peserta rapat harus mematuhi tata tertib.",
+      "Semua peserta rapat-rapat harus mematuhi tata tertib.",
+      "Peserta rapat sekalian harus mematuhi tata tertib."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kalimat 'Semua peserta rapat harus mematuhi tata tertib' memiliki struktur S-P-O yang jelas tanpa pemborosan kata atau kata depan di awal kalimat yang menghilangkan subjek.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ejaan dan Tanda Baca",
+    "pertanyaan": "Penulisan huruf kapital yang benar terdapat pada kalimat...",
+    "jawabanBenar": "Bapak Presiden Joko Widodo meresmikan jembatan baru di Papua.",
+    "pengecoh": [
+      "Ibu membeli pisang Ambon di pasar tradisional.",
+      "sungai Kapuas adalah sungai terpanjang di Indonesia.",
+      "Paman baru saja pulang dari kota Surabaya kemarin Sore."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Huruf kapital digunakan pada awal kalimat, nama gelar yang diikuti nama orang, dan nama geografi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Prosedur",
+    "pertanyaan": "Perhatikan petunjuk acak membuat nasi goreng berikut!\n1. Masukkan nasi dan aduk hingga rata.\n2. Haluskan bawang merah, bawang putih, dan cabai.\n3. Tambahkan garam dan kecap secukupnya.\n4. Panaskan minyak goreng di wajan.\n5. Tumis bumbu halus hingga harum.\n\nUrutan yang tepat agar menjadi teks prosedur yang padu adalah...",
+    "jawabanBenar": "2 - 4 - 5 - 1 - 3",
+    "pengecoh": [
+      "4 - 2 - 5 - 3 - 1",
+      "2 - 5 - 4 - 1 - 3",
+      "4 - 5 - 2 - 1 - 3"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Langkah logis: menghaluskan bumbu (2), memanaskan minyak (4), menumis (5), memasukkan nasi (1), lalu membumbui (3).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Fakta dan Opini",
+    "pertanyaan": "Kalimat manakah yang merupakan opini dari teks berita tentang kekeringan?",
+    "jawabanBenar": "Kondisi ini mungkin akan menjadi yang terparah dalam dekade terakhir.",
+    "pengecoh": [
+      "Badan Penanggulangan Bencana Daerah mencatat 15 desa mengalami krisis air bersih.",
+      "Bantuan air bersih sebanyak 10 truk tangki telah dikirimkan hari ini.",
+      "Suhu udara pada siang hari mencapai 34 derajat Celcius."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Opini ditandai dengan kata-kata dugaan atau penilaian pribadi seperti 'mungkin akan menjadi...'. Kalimat lainnya mengandung angka atau kejadian spesifik yang bisa diverifikasi (fakta).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Persuasi",
+    "pertanyaan": "Mari kita biasakan memilah sampah dari rumah tangga. Dengan memisahkan sampah organik dan anorganik, kita mempermudah proses daur ulang. Tindakan kecil kita ini sangat berarti bagi kelestarian bumi.\n\nTujuan utama dari penggalan teks tersebut adalah...",
+    "jawabanBenar": "Mengajak pembaca untuk memilah sampah organik dan anorganik.",
+    "pengecoh": [
+      "Menjelaskan perbedaan sampah organik dan anorganik.",
+      "Menceritakan cara mengolah sampah menjadi pupuk.",
+      "Menyajikan data tentang penumpukan sampah di bumi."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kata 'Mari' dan penjelasan manfaatnya menunjukkan bahwa teks bertujuan membujuk atau mengajak pembaca melakukan suatu tindakan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Eksplanasi",
+    "pertanyaan": "Teks eksplanasi disusun dengan struktur yang baku. Bagian teks eksplanasi yang berisi penjelasan terperinci tentang proses terjadinya suatu fenomena disebut...",
+    "jawabanBenar": "Deretan penjelas",
+    "pengecoh": [
+      "Identifikasi fenomena",
+      "Interpretasi",
+      "Pernyataan umum"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Struktur teks eksplanasi: Pernyataan Umum, Deretan Penjelas (urutan sebab-akibat), dan Interpretasi (opsional). Deretan penjelas berisi detail proses terjadinya fenomena.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Ejaan dan Tanda Baca",
+    "pertanyaan": "Penggunaan tanda baca koma (,) yang tepat terdapat pada kalimat...",
+    "jawabanBenar": "Oleh karena itu, kita harus selalu menjaga kebersihan lingkungan.",
+    "pengecoh": [
+      "Ibu membeli, sayur ayam dan buah-buahan di pasar.",
+      "Dia tidak datang, karena hari hujan sangat deras.",
+      "Budi membaca buku dan, Andi sedang bermain komputer."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tanda koma wajib digunakan di belakang kata atau ungkapan penghubung antarkalimat, seperti 'Oleh karena itu,'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Makna Tersirat",
+    "pertanyaan": "Dalam cerita, diceritakan bahwa Andi 'selalu ringan tangan' saat teman-temannya mengalami kesulitan. Makna ungkapan 'ringan tangan' adalah...",
+    "jawabanBenar": "Suka menolong",
+    "pengecoh": [
+      "Suka memukul",
+      "Cepat marah",
+      "Bekerja dengan cepat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dalam konteks membantu teman yang kesulitan, 'ringan tangan' bermakna kiasan untuk orang yang suka menolong. (Terkadang juga berarti suka memukul, tetapi konteks kalimat ini adalah hal positif).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Evaluasi Teks",
+    "pertanyaan": "Sebuah artikel mengklaim bahwa makan cokelat setiap hari dapat menyembuhkan penyakit mata minus, dengan mengutip testimoni seorang selebritas tanpa referensi medis. Evaluasi logis yang tepat terhadap klaim teks tersebut adalah...",
+    "jawabanBenar": "Klaim tersebut kurang kredibel karena tidak didukung oleh data medis atau riset ilmiah, melainkan hanya testimoni.",
+    "pengecoh": [
+      "Klaim tersebut benar karena selebritas biasanya memiliki informasi kesehatan yang akurat.",
+      "Klaim tersebut salah karena cokelat hanya berfungsi untuk menaikkan berat badan.",
+      "Klaim tersebut benar asalkan cokelat yang dikonsumsi adalah cokelat hitam."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Kredibilitas teks informasi diukur dari validitas sumber pendukungnya. Testimoni tokoh tanpa basis medis bukanlah bukti yang kuat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Sintesis Informasi",
+    "pertanyaan": "Teks 1: Vitamin C dosis tinggi terbukti mempercepat pemulihan sariawan dan radang gusi.\nTeks 2: Konsumsi vitamin C yang berlebihan tanpa asupan air yang cukup dapat membebani kerja ginjal.\n\nSintesis (paduan) yang paling tepat dari kedua teks tersebut adalah...",
+    "jawabanBenar": "Vitamin C bermanfaat untuk menyembuhkan radang, tetapi konsumsinya harus diimbangi minum air yang cukup agar tidak mengganggu ginjal.",
+    "pengecoh": [
+      "Vitamin C dosis tinggi adalah penyebab utama kerusakan ginjal jika tidak minum air.",
+      "Sariawan dan radang gusi hanya dapat disembuhkan dengan vitamin C dan minum banyak air.",
+      "Konsumsi vitamin C secara berlebihan sangat dilarang karena merusak kerja ginjal dan gusi."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Sintesis menggabungkan esensi Teks 1 (manfaat vitamin C) dan Teks 2 (risiko pada ginjal dan syarat pencegahannya) tanpa melebih-lebihkan fakta.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Penyuntingan",
+    "pertanyaan": "(1) Bunga melati memiliki aroma yang khas. (2) Warna putihnya melambangkan kesucian. (3) Bunga bangkai merupakan bunga terbesar di dunia. (4) Bunga melati sering digunakan dalam upacara adat.\n\nKalimat sumbang (tidak padu) pada paragraf tersebut ditunjukkan oleh nomor...",
+    "jawabanBenar": "(3)",
+    "pengecoh": [
+      "(1)",
+      "(2)",
+      "(4)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Paragraf tersebut membahas ciri dan kegunaan bunga melati. Kalimat (3) tiba-tiba membahas bunga bangkai sehingga tidak nyambung dengan kalimat lainnya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Narasi",
+    "pertanyaan": "Walau tubuhnya kecil, Kancil tak pernah ragu melangkah masuk ke hutan yang gelap. Ia yakin kecerdasannya mampu mengalahkan hewan-hewan buas yang mencoba memangsanya.\nWatak tokoh Kancil berdasarkan kutipan tersebut adalah...",
+    "jawabanBenar": "Pemberani dan percaya diri",
+    "pengecoh": [
+      "Sombong dan angkuh",
+      "Licik dan penipu",
+      "Penakut dan ragu-ragu"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kutipan menyebutkan Kancil 'tak pernah ragu' (pemberani) dan 'yakin kecerdasannya mampu mengalahkan' (percaya diri).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Narasi",
+    "pertanyaan": "Matahari mulai condong ke barat. Suara jangkrik bersahutan dari sela-sela ilalang. Petani itu menghapus keringat di dahinya sebelum melangkah pulang menyusuri pematang.\n\nLatar waktu dan tempat pada kutipan cerita tersebut adalah...",
+    "jawabanBenar": "Sore hari, di sawah",
+    "pengecoh": [
+      "Pagi hari, di desa",
+      "Siang hari, di ladang",
+      "Malam hari, di hutan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "'Matahari condong ke barat' menunjukkan waktu sore. 'Pematang' dan keberadaan petani erat kaitannya dengan latar tempat sawah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kata Hubung (Konjungsi)",
+    "pertanyaan": "Gempa bumi terjadi [...] lempeng tektonik bumi mengalami pergeseran secara tiba-tiba.\n\nKonjungsi yang tepat untuk melengkapi kalimat tersebut adalah...",
+    "jawabanBenar": "karena",
+    "pengecoh": [
+      "tetapi",
+      "kemudian",
+      "sehingga"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kalimat tersebut menunjukkan hubungan sebab-akibat. Anak kalimat menjelaskan alasan/sebab terjadinya gempa, sehingga konjungsi yang tepat adalah 'karena'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Sinonim",
+    "pertanyaan": "Pemerintah sedang menggalakkan program **reboisasi** di lahan-lahan yang gundul akibat penebangan liar.\n\nSinonim dari kata yang dicetak tebal adalah...",
+    "jawabanBenar": "penghijauan kembali",
+    "pengecoh": [
+      "pembukaan lahan",
+      "pemupukan tanah",
+      "pembalakan liar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Reboisasi bersinonim dengan penanaman kembali hutan yang telah ditebang atau gundul (penghijauan kembali).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Teks Laporan Hasil Observasi",
+    "pertanyaan": "Pernyataan berikut ini yang merupakan ciri khas dari teks laporan hasil observasi adalah...",
+    "jawabanBenar": "Bersifat objektif dan ditulis berdasarkan fakta dari pengamatan langsung.",
+    "pengecoh": [
+      "Banyak mengandung opini pribadi penulis.",
+      "Ditulis menggunakan gaya bahasa kiasan dan imajinatif.",
+      "Berisi alur cerita fiktif dengan tokoh dan latar buatan."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teks laporan hasil observasi (LHO) berfungsi menyajikan informasi yang objektif, faktual, dan hasil dari pengamatan nyata.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Menyimpulkan Sebab-Akibat",
+    "pertanyaan": "Tingkat polusi udara di kota X mencapai angka berbahaya. Pemerintah menerapkan kebijakan uji emisi ketat dan mendorong penggunaan transportasi umum. Namun, karena armada bus sangat sedikit dan tidak nyaman, warga tetap menggunakan kendaraan pribadi.\n\nBerdasarkan teks, mengapa kebijakan pemerintah untuk menekan polusi sulit berhasil?",
+    "jawabanBenar": "Fasilitas transportasi umum yang tersedia belum memadai untuk menarik minat warga.",
+    "pengecoh": [
+      "Warga tidak peduli dengan polusi udara di kotanya.",
+      "Kebijakan uji emisi yang diterapkan terlalu ketat.",
+      "Pemerintah tidak memberikan sosialisasi kepada masyarakat."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Jawaban disimpulkan dari kalimat 'karena armada bus sangat sedikit dan tidak nyaman, warga tetap menggunakan kendaraan pribadi'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kata Baku",
+    "pertanyaan": "Di antara deretan kata berikut, manakah kelompok kata yang seluruhnya baku?",
+    "jawabanBenar": "Apotek, nasihat, kualitas",
+    "pengecoh": [
+      "Apotik, nasehat, kwalitas",
+      "Apotek, nasehat, kualitas",
+      "Apotik, nasihat, kwalitas"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kata baku menurut KBBI adalah apotek (bukan apotik), nasihat (bukan nasehat), dan kualitas (bukan kwalitas).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Kalimat Imperatif",
+    "pertanyaan": "Kalimat yang menggunakan verba (kata kerja) imperatif dalam teks prosedur adalah...",
+    "jawabanBenar": "Panaskan wajan di atas kompor dengan api sedang!",
+    "pengecoh": [
+      "Minyak goreng akan mendidih dalam tiga menit.",
+      "Bumbu-bumbu yang dibutuhkan mudah ditemukan di pasar.",
+      "Bawang putih memiliki aroma yang sangat tajam."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kalimat imperatif adalah kalimat perintah. Kata 'Panaskan' merupakan verba imperatif yang memberi instruksi langsung.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Menyusun Paragraf",
+    "pertanyaan": "(1) Akhirnya, mereka berhasil menemukan mata air yang dicari. (2) Perjalanan menembus hutan rimba itu sangat melelahkan. (3) Mereka berangkat sejak fajar menyingsing. (4) Namun, semangat pantang menyerah mengalahkan lelah mereka.\n\nSusunan kalimat yang tepat agar menjadi paragraf yang padu adalah...",
+    "jawabanBenar": "3 - 2 - 4 - 1",
+    "pengecoh": [
+      "2 - 3 - 1 - 4",
+      "3 - 1 - 2 - 4",
+      "2 - 4 - 3 - 1"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Susunan yang runut bermula dari waktu keberangkatan (3), kondisi perjalanan (2), sikap terhadap lelah (4), dan hasil akhir (1).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Gagasan Pendukung",
+    "pertanyaan": "Ide pokok: Membaca buku fiksi memberikan banyak manfaat bagi perkembangan otak anak.\n\nBerikut ini yang **tidak** sesuai menjadi gagasan pendukung untuk ide pokok di atas adalah...",
+    "jawabanBenar": "Buku referensi pelajaran membosankan bagi siswa.",
+    "pengecoh": [
+      "Membaca fiksi dapat meningkatkan empati anak.",
+      "Imajinasi anak akan terstimulasi oleh cerita fiksi.",
+      "Kosa kata baru mudah diserap melalui narasi fiksi."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gagasan pendukung harus selaras menjelaskan manfaat fiksi. Membahas buku pelajaran yang membosankan melenceng dari topik manfaat membaca fiksi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Membandingkan Teks",
+    "pertanyaan": "Teks 1: Tanah longsor kembali melanda kawasan pegunungan akibat curah hujan tinggi semalaman. Akses jalan terputus total.\nTeks 2: Curah hujan yang tinggi akhir-akhir ini tidak hanya menyebabkan banjir di hilir, tetapi juga memicu pergerakan tanah di dataran tinggi.\n\nPersamaan isi kedua teks tersebut adalah...",
+    "jawabanBenar": "Membahas dampak curah hujan tinggi terhadap terjadinya tanah longsor.",
+    "pengecoh": [
+      "Membahas terputusnya akses jalan raya.",
+      "Membahas kerugian material akibat bencana.",
+      "Membahas banjir yang melanda hilir sungai."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Teks 1 spesifik longsor, Teks 2 menyebutkan banjir dan pergerakan tanah (longsor). Keduanya sama-sama membahas curah hujan tinggi yang berdampak pada tanah longsor.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Struktur Teks",
+    "pertanyaan": "Struktur pada teks berita yang berisi pokok informasi paling penting (5W+1H) ditempatkan pada bagian awal yang disebut...",
+    "jawabanBenar": "Kepala berita (Lead)",
+    "pengecoh": [
+      "Tubuh berita (Body)",
+      "Ekor berita (Tail)",
+      "Latar belakang"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dalam piramida terbalik teks berita, kepala berita (lead) berada di paragraf pertama dan memuat intisari peristiwa (5W+1H).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Pesan Moral",
+    "pertanyaan": "Dalam cerita, seekor bangau tua menipu ikan-ikan dengan mengatakan kolam akan mengering agar ia bisa memakan mereka. Pada akhirnya, bangau itu mati dicekik oleh kepiting yang menyadari kebohongannya.\n\nPesan moral yang dapat dipetik dari fabel tersebut adalah...",
+    "jawabanBenar": "Kelincikan dan kebohongan pada akhirnya akan membawa malapetaka bagi pelakunya.",
+    "pengecoh": [
+      "Kita harus selalu membantu teman yang kesulitan air.",
+      "Jangan mudah percaya pada kepiting yang kuat.",
+      "Menyimpan makanan untuk hari esok sangat penting."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kematian bangau merupakan akibat langsung dari penipuan dan kebohongannya. Ini mengajarkan bahwa sifat buruk akan menghukum pelakunya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-BIND-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Bahasa Indonesia",
+    "topik": "Unsur Puisi",
+    "pertanyaan": "Perhatikan larik puisi berikut:\n'Mentari pagi tersenyum menyapa bumi'\n\nMajas yang digunakan pada larik puisi tersebut adalah...",
+    "jawabanBenar": "Personifikasi",
+    "pengecoh": [
+      "Hiperbola",
+      "Metafora",
+      "Simile"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Personifikasi adalah majas yang melekatkan sifat/perilaku manusia (tersenyum menyapa) pada benda mati/alam (mentari pagi).",
+    "challengeType": "IDENTIFY"
+  }
+]

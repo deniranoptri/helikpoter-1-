@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FC-KKA-001",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Susunlah urutan langkah-langkah (algoritma) yang logis untuk membuat teh manis hangat!\n1. Siapkan gelas kosong yang bersih.\n2. Masukkan kantong teh celup dan gula ke dalam gelas.\n3. Tuangkan air panas secukupnya ke dalam gelas.\n4. Aduk menggunakan sendok perlahan hingga gula larut.",
+    "jawabanBenar": "1 - 2 - 3 - 4",
+    "pengecoh": [
+      "2 - 1 - 4 - 3",
+      "3 - 1 - 2 - 4",
+      "4 - 3 - 2 - 1"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Berpikir komputasional mensyaratkan urutan yang sistematis (sequence). Kita harus menyiapkan wadah (gelas) terlebih dahulu, memasukkan bahan, menambahkan air, lalu mengaduknya agar menjadi teh manis.",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FC-KKA-002",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Budi melihat pola warna lampu hias yang berkedip secara berurutan: Merah, Kuning, Hijau, Merah, Kuning, Hijau, Merah, Kuning... Warna lampu apa yang akan menyala selanjutnya?",
+    "jawabanBenar": "Hijau",
+    "pengecoh": [
+      "Merah",
+      "Kuning",
+      "Biru"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pengenalan pola (pattern recognition) adalah bagian dari berpikir komputasional. Polanya adalah Merah-Kuning-Hijau yang berulang. Setelah Kuning, lampu yang menyala adalah Hijau.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-003",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Saat membereskan kamar, Siti memasukkan semua boneka ke dalam keranjang A dan semua buku cerita ke dalam rak B. Proses penyelesaian masalah yang dilakukan Siti disebut...",
+    "jawabanBenar": "Mengelompokkan benda berdasarkan jenisnya (klasifikasi)",
+    "pengecoh": [
+      "Menghancurkan benda agar muat",
+      "Mencampur semua benda tanpa aturan",
+      "Menyembunyikan benda dari pandangan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Mengelompokkan data atau benda dengan karakteristik yang sama (boneka dengan boneka, buku dengan buku) adalah cara logis dan terstruktur untuk merapikan ruangan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-004",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Kamu sedang bermain robot mobil. Kamu ingin mobil itu bergerak lurus dua kotak, lalu berbelok ke kanan satu kali. Instruksi (kode) sederhana yang paling tepat kamu berikan adalah...",
+    "jawabanBenar": "Maju, Maju, Belok Kanan",
+    "pengecoh": [
+      "Maju, Belok Kanan, Maju",
+      "Belok Kanan, Maju, Maju",
+      "Maju, Belok Kiri, Maju"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Instruksi harus jelas dan berurutan. Untuk bergerak lurus dua kotak lalu berbelok, urutannya harus Maju (langkah 1), Maju (langkah 2), lalu Belok Kanan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-005",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Rina ingin merayakan ulang tahun. Karena pekerjaannya sangat banyak, ia membaginya: Kakak memesan kue, Ibu mendekorasi ruangan, dan Rina membagikan undangan. Dalam berpikir komputasional, memecah tugas besar menjadi bagian kecil-kecil ini disebut...",
+    "jawabanBenar": "Menguraikan masalah (Dekomposisi)",
+    "pengecoh": [
+      "Menemukan pola gambar",
+      "Membuat prediksi cuaca",
+      "Menulis huruf abjad"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dekomposisi adalah teknik memecah masalah yang kompleks (pesta ulang tahun) menjadi bagian-bagian atau tugas yang lebih kecil agar lebih mudah diselesaikan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-006",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Sebuah permainan komputer memiliki aturan logika: 'Jika pemain mengumpulkan 10 koin bintang, maka pemain akan naik level. Jika kurang dari 10, permainan berlanjut.' Jika kamu baru mengumpulkan 8 koin bintang, apa yang akan terjadi menurut aturan tersebut?",
+    "jawabanBenar": "Permainan akan terus berlanjut di level yang sama",
+    "pengecoh": [
+      "Pemain langsung naik level",
+      "Permainan akan tamat seketika (Game Over)",
+      "Koin bintang akan direset menjadi nol"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Komputer bekerja sesuai kondisi (If-Else). Karena 8 koin kurang dari 10 koin, maka syarat pertama tidak terpenuhi, sehingga program menjalankan instruksi 'permainan berlanjut'.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-007",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Dito menulis instruksi cara mencuci tangan: (1) Nyalakan keran air, (2) Pakai sabun, (3) Keringkan tangan pakai handuk, (4) Bilas dengan air sampai bersih. Ada urutan yang keliru (bug) dalam instruksi tersebut, perbaikan yang tepat adalah...",
+    "jawabanBenar": "Mengeringkan tangan (3) seharusnya dilakukan di akhir, setelah membilas dengan air (4)",
+    "pengecoh": [
+      "Nyalakan keran air (1) seharusnya dilakukan paling akhir",
+      "Pakai sabun (2) harus dilakukan sebelum menyalakan keran air",
+      "Bilas dengan air (4) seharusnya dihapus dari daftar"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Debugging atau memperbaiki instruksi adalah bagian penting dari berpikir komputasional. Logikanya, kita tidak bisa mengeringkan tangan jika masih banyak sabun yang belum dibilas.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-008",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Di perpustakaan kelas, kamu diminta memisahkan majalah dari buku pelajaran, lalu menyusun buku pelajaran dari yang paling tipis ke paling tebal. Jika ada Majalah Anak, Buku Matematika (tebal), dan Buku Bahasa (tipis), bagaimana hasil akhir susunannya?",
+    "jawabanBenar": "Majalah dipisahkan sendiri; lalu Buku Bahasa diletakkan lebih dulu, diikuti Buku Matematika di sebelahnya",
+    "pengecoh": [
+      "Buku Matematika di paling depan, lalu Buku Bahasa, dan terakhir Majalah",
+      "Semuanya dicampur saja karena sama-sama bahan bacaan",
+      "Majalah Anak disusun di tengah-tengah antara Buku Bahasa dan Matematika"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Penyelesaian masalah ini membutuhkan dua tahap (multi-step): pertama mengelompokkan jenis (pisahkan majalah), kedua mengurutkan ketebalan (sorting tipis ke tebal pada buku pelajaran).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-009",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Data pribadi adalah informasi penting tentang diri kita yang tidak boleh disebarkan sembarangan di internet. Contoh data pribadi yang harus sangat dijaga rahasianya adalah...",
+    "jawabanBenar": "Alamat rumah lengkap dan kata sandi (password) akun kita",
+    "pengecoh": [
+      "Warna kesukaan dan nama kartun favorit",
+      "Judul lagu yang sedang sering kita dengarkan",
+      "Nama negara dan benua tempat kita tinggal"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Alamat lengkap dan kata sandi adalah data privasi tingkat tinggi yang jika disebar dapat membahayakan keamanan fisik maupun akun digital kita.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-010",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Teknologi digital dan internet memiliki banyak manfaat jika digunakan dengan baik. Manfaat paling positif menggunakan internet bagi siswa kelas 6 SD adalah...",
+    "jawabanBenar": "Mencari informasi, video edukasi, dan materi pelajaran untuk membantu mengerjakan tugas sekolah",
+    "pengecoh": [
+      "Bermain game online tanpa henti dari pagi sampai malam hari",
+      "Mengejek dan menertawakan foto teman dari sekolah lain di media sosial",
+      "Mengunduh semua aplikasi berbayar menggunakan uang orang tua diam-diam"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Literasi digital menekankan pemanfaatan teknologi untuk hal-hal yang edukatif, konstruktif, dan membantu proses belajar.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-011",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Saat menggunakan internet, tablet, atau komputer di rumah, aturan paling aman yang sebaiknya diterapkan oleh siswa SD adalah...",
+    "jawabanBenar": "Meminta izin dan didampingi atau diawasi oleh orang tua saat menjelajahi internet",
+    "pengecoh": [
+      "Mengunci diri di kamar agar tidak ada yang tahu situs apa yang dibuka",
+      "Mengobrol dengan orang asing yang berjanji memberikan hadiah game",
+      "Mengeklik semua iklan yang berkedip-kedip di layar komputer"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Siswa usia SD masih rentan terhadap konten negatif atau penipuan di internet, sehingga pendampingan (parental guidance) sangat diwajibkan untuk keamanan digital.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-012",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Sebelum mengetik dan mengirim pesan ke grup kelas sekolah, hal pertama yang selalu harus kamu pikirkan adalah...",
+    "jawabanBenar": "Apakah pesanku sopan, jelas, dan tidak menyakiti perasaan teman-teman yang membacanya?",
+    "pengecoh": [
+      "Apakah pesan ini cukup panjang untuk menghabiskan kuota internet temanku?",
+      "Berapa banyak stiker lucu dan tidak jelas yang bisa aku kirim sekaligus?",
+      "Bagaimana caranya agar aku terlihat paling hebat dan pamer di grup?"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Berpikir sebelum mengirim (Think before you post) adalah prinsip dasar etika komunikasi digital untuk mencegah cyberbullying dan kesalahpahaman.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-013",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Tiba-tiba kamu menerima pesan WhatsApp dari nomor tidak dikenal yang mengatakan kamu menang hadiah sepeda mahal. Tindakan paling aman dan cerdas adalah...",
+    "jawabanBenar": "Abaikan pesan tersebut, jangan klik tautan (link) apa pun, dan laporkan kepada orang tua",
+    "pengecoh": [
+      "Langsung membalas dan memberikan nomor rekening serta alamat rumah",
+      "Mengirimkan (forward) pesan bahagia itu ke seluruh anggota keluarga",
+      "Menelepon nomor tersebut agar hadiahnya cepat dikirim ke rumah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pesan hadiah dari nomor tidak dikenal adalah ciri khas penipuan (phishing/scamming). Mengabaikan dan melaporkan ke orang dewasa adalah langkah pertahanan terbaik bagi anak-anak.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-014",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Andi sedang marah karena pensilnya hilang. Ia menulis pesan di grup kelas: \"SIAPA YANG MENGAMBIL PENSILKU?!\" Menggunakan huruf kapital besar semua dalam dunia digital dianggap sebagai perilaku...",
+    "jawabanBenar": "Kurang sopan, karena huruf kapital semua (Caps Lock) sering diartikan seperti orang yang sedang berteriak marah",
+    "pengecoh": [
+      "Sangat baik, karena memudahkan teman yang matanya kurang awas untuk membaca",
+      "Keren, karena membuat teks terlihat lebih penting dari pesan orang lain",
+      "Biasa saja, karena internet tidak memiliki aturan sopan santun sama sekali"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Netiquette (etika internet) mengatur bahwa penulisan huruf besar semua secara terus-menerus melambangkan teriakan (shouting) dan dianggap agresif.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-015",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Gurumu menugaskan pembuatan poster digital ajakan 'Gemar Membaca Buku'. Komponen konten digital yang paling tepat dan bermakna untuk dimasukkan ke dalam karyamu adalah...",
+    "jawabanBenar": "Gambar ilustrasi anak yang sedang tersenyum memegang buku dan kalimat ajakan membaca yang singkat",
+    "pengecoh": [
+      "Foto artis luar negeri yang sedang bermain film aksi, tanpa ada tulisan apa-apa",
+      "Video berdurasi 30 menit tentang cara mencetak kertas di pabrik",
+      "Daftar nilai rapor seluruh siswa kelas 6 bulan lalu agar semua termotivasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Produksi konten digital (poster) membutuhkan pemilihan gambar dan teks (copywriting) yang langsung relevan dengan tema dan tujuan pesannya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-016",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Temanmu mengirimkan sebuah artikel mencurigakan yang berjudul \"Awas, Minum Air Putih Terlalu Banyak Bisa Membuat Tubuh Menjadi Balon!\". Sebagai anak yang melek digital (literat), apa tindakan pertamamu untuk memeriksa informasi (fakta/opini) tersebut?",
+    "jawabanBenar": "Tidak langsung percaya, lalu menanyakan kebenarannya kepada orang dewasa (guru/orang tua) atau mencari informasi dari dokter terpercaya",
+    "pengecoh": [
+      "Langsung percaya dan berhenti minum air putih mulai hari itu juga",
+      "Segera menyebarkan artikel itu ke seluruh media sosial karena terlihat gawat",
+      "Mengejek teman yang mengirim karena artikel tersebut pastilah mantra sihir"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Mengenali dan memverifikasi informasi mencurigakan (hoaks) adalah inti literasi digital. Langkah terbaik di usia SD adalah cross-check ke sumber otoritas (orang tua/guru/situs resmi).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-017",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Secara sederhana, apa yang dimaksud dengan Kecerdasan Artifisial (AI) atau kecerdasan buatan?",
+    "jawabanBenar": "Program komputer yang dirancang oleh manusia untuk bisa belajar dan meniru cara kerja kecerdasan manusia",
+    "pengecoh": [
+      "Robot besi mainan yang bisa berjalan lambat kalau diisi baterai",
+      "Mesin ajaib dari luar angkasa yang bisa menjawab semua pertanyaan tanpa diajari manusia",
+      "Lampu lalu lintas yang berubah warna setiap satu menit sekali"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kecerdasan Artifisial (AI) pada intinya adalah perangkat lunak (program komputer) buatan manusia yang dibuat agar mesin dapat mempelajari pola dan mengambil keputusan mirip manusia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-018",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Tanpa kita sadari, teknologi AI sudah ada di sekitar kita. Contoh paling sederhana dari penggunaan Kecerdasan Artifisial di rumah adalah...",
+    "jawabanBenar": "Fitur di HP yang bisa membuka kunci layar dengan mendeteksi dan mengenali pola wajah (Face Unlock)",
+    "pengecoh": [
+      "Kipas angin dinding yang selalu menengok ke kanan dan kiri",
+      "Kompor gas yang mengeluarkan api biru saat diputar",
+      "Pintu lemari es yang bisa menutup rapat sendiri karena magnet"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pengenalan wajah (Face Unlock/Recognition) adalah contoh nyata AI (Computer Vision) sehari-hari yang mengenali pola titik-titik pada wajah pemilik HP.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-019",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Meskipun komputer bisa berhitung sangat cepat, manusia memiliki kelebihan utama yang tidak akan pernah dimiliki oleh mesin cerdas (AI), yaitu...",
+    "jawabanBenar": "Manusia memiliki perasaan, hati nurani, dan rasa empati kepada sesama",
+    "pengecoh": [
+      "Manusia tidak pernah melakukan kesalahan, sedangkan mesin selalu salah",
+      "Manusia bisa menyimpan triliunan data angka di otaknya tanpa pernah lupa",
+      "Manusia tidak memerlukan energi sama sekali untuk bekerja"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Perbedaan mendasar (human vs machine) adalah perasaan, moralitas, empati, dan kesadaran, yang tidak dimiliki oleh barisan kode program komputer mana pun.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-020",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Tujuan utama manusia menciptakan dan mengembangkan teknologi Kecerdasan Artifisial (AI) di dunia ini adalah untuk...",
+    "jawabanBenar": "Membantu dan mempermudah pekerjaan manusia, misalnya di bidang kesehatan atau mengatur jadwal",
+    "pengecoh": [
+      "Menggantikan manusia sepenuhnya agar manusia tidak perlu belajar lagi di sekolah",
+      "Membuat mesin yang bisa melawan dan memerintah manusia",
+      "Menghabiskan listrik di seluruh dunia agar bumi menjadi gelap"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "AI dikembangkan sebagai alat bantu (co-pilot) yang efisien untuk membantu menyelesaikan masalah kompleks umat manusia, bukan untuk menguasai manusia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-021",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Jika sebuah robot pembersih ruangan secara tidak sengaja menabrak pot bunga ibu hingga pecah, siapakah yang pada akhirnya harus bertanggung jawab secara etika atas kejadian itu?",
+    "jawabanBenar": "Manusia (pemiliknya), karena robot adalah benda mati yang diprogram, bukan makhluk yang bisa dimintai pertanggungjawaban",
+    "pengecoh": [
+      "Robot itu sendiri, robot harus dihukum dan dikurung di gudang",
+      "Pabrik pot bunga, karena mereka membuat pot yang mudah pecah",
+      "Tetangga sebelah rumah, karena tidak menjaga rumah kita"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dalam etika AI tingkat dasar, mesin/robot tidak memiliki 'moral agency' (tanggung jawab moral). Tanggung jawab atas dampak penggunaan alat selalu kembali kepada manusia penggunanya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-022",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Manusia mengenali benda di sekitarnya menggunakan panca indera seperti mata. Bagaimana cara robot atau aplikasi komputer \"melihat\" benda-benda di sekelilingnya?",
+    "jawabanBenar": "Menggunakan alat bantu sensor penglihatan seperti kamera digital (kamera HP/Webcam)",
+    "pengecoh": [
+      "Komputer memiliki sepasang mata biologis kecil yang bersembunyi di balik layarnya",
+      "Komputer melihat dengan mendengarkan suara dari pengeras suara (speaker)",
+      "Komputer langsung menebak saja dari udara tanpa menggunakan alat apa pun"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Mesin memahami dunia fisik menggunakan perangkat keras input, seperti kamera optik (sensor) untuk menerima gambar yang kemudian diolah datanya oleh komputer.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-023",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Andi menggunakan aplikasi pembuat cerita otomatis (AI) untuk mengerjakan tugas mengarang bahasa Indonesia, lalu menyerahkannya tanpa membacanya sama sekali. Secara etika pelajar, mengapa hal ini dianggap tidak benar?",
+    "jawabanBenar": "Karena Andi tidak jujur dan kehilangan proses belajar untuk berpikir kreatif merangkai cerita sendiri",
+    "pengecoh": [
+      "Karena tulisan komputer selalu lebih jelek dari tulisan manusia",
+      "Karena aplikasi AI akan selalu meminta uang jika digunakan untuk mengerjakan PR",
+      "Karena guru bahasa Indonesia lebih suka cerita fiksi tentang hewan saja"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Penggunaan AI secara etis di sekolah berarti menggunakan AI sebagai alat bantu belajar (inspirasi/asisten), bukan alat untuk berbuat curang (plagiasi) yang menghilangkan proses berpikir mandiri.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-024",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Kamu memprogram sebuah komputer cerdas untuk memisahkan kumpulan balok mainan menjadi dua keranjang. Komputer itu memasukkan balok merah ke Keranjang A dan balok biru ke Keranjang B. Proses yang dilakukan komputer ini disebut...",
+    "jawabanBenar": "Klasifikasi (Pengelompokan) benda berdasarkan warna",
+    "pengecoh": [
+      "Menghitung jumlah balok terbanyak",
+      "Mengubah warna balok agar semuanya menjadi merah",
+      "Membuang semua balok agar keranjang menjadi rapi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Klasifikasi adalah kemampuan sistem cerdas (dan manusia) untuk mengelompokkan data atau objek berdasarkan karakteristik tertentu, seperti warna, bentuk, atau ukuran.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-025",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Agar sebuah aplikasi kecerdasan buatan bisa membedakan mana foto buah Apel dan mana foto buah Jeruk, apa hal utama yang harus dilakukan manusia kepada aplikasi tersebut sebelumnya?",
+    "jawabanBenar": "Memberikan dan melatih aplikasi itu dengan ratusan contoh foto apel dan jeruk",
+    "pengecoh": [
+      "Membiarkan aplikasi itu mencari tahu sendiri di kebun tanpa diajari sama sekali",
+      "Menyemprotkan aroma buah apel dan jeruk ke layar komputer",
+      "Mengetikkan kata \"Enak\" berulang-ulang ke dalam aplikasi tersebut"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Machine Learning (pembelajaran mesin) membutuhkan data (foto contoh) agar sistem bisa mempelajari pola visual ciri-ciri khas apel (kulit halus, merah) dan jeruk (kulit berpori, oranye).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-026",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Sebuah aplikasi musik sering memutarkan lagu anak-anak bertema petualangan yang sangat kamu sukai, padahal kamu tidak pernah memintanya secara langsung. Aplikasi tersebut bisa melakukan hal itu berkat sistem...",
+    "jawabanBenar": "Prediksi (Rekomendasi) berdasarkan pola lagu yang sering kamu dengarkan hari-hari sebelumnya",
+    "pengecoh": [
+      "Mesin ajaib yang bisa membaca isi pikiranmu",
+      "Tebakan acak (asal-asalan) yang kebetulan selalu benar setiap hari",
+      "Aplikasi itu diam-diam menyadap pembicaraanmu dengan orang tua"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sistem Rekomendasi (Recommendation System) adalah bentuk AI yang mengenali pola kebiasaan pengguna dari data riwayat masa lalu (Input), untuk memprediksi dan memberikan saran yang cocok (Output).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-027",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Saat Budi berbicara ke ponselnya, \"Tolong nyalakan senter,\" lalu lampu kilat HP-nya menyala. Kalimat ucapan Budi dalam sistem komputer disebut sebagai...",
+    "jawabanBenar": "Masukan (Input)",
+    "pengecoh": [
+      "Keluaran (Output)",
+      "Proses (Processing)",
+      "Penyimpanan (Storage)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dalam alur komputasi (Input -> Proses -> Output), perintah suara (suara Budi) adalah Input (masukan data), lalu AI memproses makna kalimat, dan lampu yang menyala adalah Output.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-028",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Siti meminta aplikasi AI pembuat gambar: \"Buatkan gambar kucing.\" Aplikasi itu menghasilkan gambar kucing biasa. Kemudian Siti mengubah permintaannya (Input): \"Buatkan gambar kucing lucu yang sedang memakai topi bajak laut di atas perahu.\" Apa yang akan terjadi pada Keluaran (Output) aplikasinya?",
+    "jawabanBenar": "Keluaran (Output) akan berubah drastis menjadi lebih detail dan sesuai dengan permintaan (Input) Siti yang baru",
+    "pengecoh": [
+      "Keluaran akan tetap menampilkan kucing biasa karena komputer tidak suka bajak laut",
+      "Aplikasi akan meledak karena permintaan Siti terlalu panjang",
+      "Komputer akan menghapus semua gambar kucing dari internet"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menggambarkan prinsip utama AI generatif: perubahan pada masukan deskripsi (prompt/input) akan secara langsung mempengaruhi ketepatan dan detail hasil akhir (output).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-029",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Dito melatih sebuah aplikasi kamera AI hanya menggunakan foto-foto mobil sedan. Suatu hari, ia menghadapkan kamera itu ke sebuah Truk Gandeng berukuran besar. Aplikasi itu kemungkinan besar akan...",
+    "jawabanBenar": "Bingung atau salah menebak, karena ia tidak pernah diberi data contoh (belajar) mengenai truk gandeng",
+    "pengecoh": [
+      "Sangat pintar mengenali truk gandeng karena mesin selalu tahu semua jenis kendaraan otomatis",
+      "Mengubah truk gandeng tersebut menjadi mobil sedan kecil di dunia nyata",
+      "Menertawakan Dito karena telah memberikan ujian yang terlalu mudah"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kecerdasan buatan terbatas pada data yang diberikan kepadanya (data training). Jika ia tidak pernah dilatih mengenali truk, ia tidak akan memiliki memori pola untuk mengenalinya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FC-KKA-030",
+    "jenjang": "SD",
+    "kelasAtauFase": "Fase C",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Kamu memprogram AI sederhana dengan aturan: \"Jika benda itu berbentuk KOTAK, sebut itu BUKU. Jika benda itu BULAT, sebut itu BOLA.\" Jika kamu menunjukkan sebuah \"Kotak Pensil\" yang berbentuk kotak panjang ke kamera, apa hasil keluaran (output) mesin tersebut?",
+    "jawabanBenar": "Mesin akan menyebutnya \"BUKU\", karena mesin hanya terpaku pada pola instruksi bentuk KOTAK yang diajarkan",
+    "pengecoh": [
+      "Mesin akan menyebutnya \"KOTAK PENSIL\" karena mesin tahu tempat menyimpan alat tulis",
+      "Mesin akan menyebutnya \"BOLA\" karena kotak pensil bisa menggelinding",
+      "Mesin akan marah dan menolak mengeluarkan suara apa pun"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "AI yang sederhana hanya mengikuti aturan pengenalan pola kaku (berdasarkan bentuk kotak = buku) tanpa bisa memahami konteks fungsi benda nyata secara utuh (tidak tahu itu tempat pensil).",
+    "challengeType": "IDENTIFY"
+  }
+]

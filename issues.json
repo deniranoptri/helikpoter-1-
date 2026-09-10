@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "smp_ipa_3",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Gas apa yang diserap tumbuhan saat fotosintesis?",
+    "jawabanBenar": "Karbon dioksida",
+    "pengecoh": [
+      "Oksigen",
+      "Nitrogen",
+      "Hidrogen"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Tumbuhan menyerap karbon dioksida dari udara sebagai bahan baku fotosintesis."
+  },
+  {
+    "id": "smp_ipa_4",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Gas apa yang dihasilkan dari proses fotosintesis?",
+    "jawabanBenar": "Oksigen",
+    "pengecoh": [
+      "Karbon dioksida",
+      "Nitrogen",
+      "Helium"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Fotosintesis menghasilkan oksigen yang sangat penting bagi pernapasan makhluk hidup."
+  },
+  {
+    "id": "smp_ipa_5",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Dimanakah fotosintesis umumnya terjadi pada tumbuhan?",
+    "jawabanBenar": "Daun",
+    "pengecoh": [
+      "Akar",
+      "Batang",
+      "Bunga"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Daun adalah tempat utama fotosintesis karena mengandung paling banyak klorofil."
+  },
+  {
+    "id": "smp_ipa_6",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Energi apa yang dibutuhkan untuk fotosintesis?",
+    "jawabanBenar": "Cahaya matahari",
+    "pengecoh": [
+      "Panas bumi",
+      "Listrik",
+      "Gerak"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Cahaya matahari memberikan energi yang dibutuhkan untuk mengubah bahan baku menjadi makanan."
+  },
+  {
+    "id": "smp_ipa_7",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Fotosintesis",
+    "pertanyaan": "Apa karbohidrat hasil dari fotosintesis?",
+    "jawabanBenar": "Glukosa",
+    "pengecoh": [
+      "Protein",
+      "Lemak",
+      "Vitamin"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Fotosintesis menghasilkan gula sederhana berupa glukosa sebagai sumber energi tumbuhan."
+  },
+  {
+    "id": "smp_ipa_8",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Jaringan apa yang mengangkut air dari akar ke daun?",
+    "jawabanBenar": "Xilem",
+    "pengecoh": [
+      "Floem",
+      "Epidermis",
+      "Kambium"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Xilem berfungsi seperti pipa yang mengangkut air dan mineral dari dalam tanah."
+  },
+  {
+    "id": "smp_ipa_9",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Jaringan apa yang mengedarkan hasil fotosintesis?",
+    "jawabanBenar": "Floem",
+    "pengecoh": [
+      "Xilem",
+      "Korteks",
+      "Meristem"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Floem bertugas mendistribusikan zat makanan hasil fotosintesis ke seluruh bagian tumbuhan."
+  },
+  {
+    "id": "smp_ipa_10",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Apa fungsi utama dari putik pada bunga?",
+    "jawabanBenar": "Alat kelamin betina",
+    "pengecoh": [
+      "Alat kelamin jantan",
+      "Perhiasan bunga",
+      "Pelindung bunga"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Putik adalah bagian betina pada bunga yang berperan dalam perkembangbiakan."
+  },
+  {
+    "id": "smp_ipa_11",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Apa fungsi utama benang sari pada bunga?",
+    "jawabanBenar": "Alat kelamin jantan",
+    "pengecoh": [
+      "Alat kelamin betina",
+      "Penarik serangga",
+      "Penyimpan nektar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Benang sari menghasilkan serbuk sari yang berfungsi sebagai alat kelamin jantan."
+  },
+  {
+    "id": "smp_ipa_12",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tumbuhan",
+    "pertanyaan": "Proses melekatnya serbuk sari pada kepala putik?",
+    "jawabanBenar": "Penyerbukan",
+    "pengecoh": [
+      "Pembuahan",
+      "Fotosintesis",
+      "Respirasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Penyerbukan atau polinasi adalah peristiwa jatuhnya serbuk sari ke kepala putik."
+  },
+  {
+    "id": "smp_ipa_13",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Di organ mana pencernaan makanan pertama kali terjadi?",
+    "jawabanBenar": "Mulut",
+    "pengecoh": [
+      "Lambung",
+      "Kerongkongan",
+      "Usus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pencernaan mekanis dan kimiawi dimulai di mulut dengan bantuan gigi dan air liur."
+  },
+  {
+    "id": "smp_ipa_14",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Saluran yang menghubungkan mulut dengan lambung?",
+    "jawabanBenar": "Kerongkongan",
+    "pengecoh": [
+      "Tenggorokan",
+      "Usus halus",
+      "Usus besar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kerongkongan atau esofagus adalah saluran yang mendorong makanan ke lambung."
+  },
+  {
+    "id": "smp_ipa_15",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Gerakan meremas pada kerongkongan disebut apa?",
+    "jawabanBenar": "Peristaltik",
+    "pengecoh": [
+      "Mekanik",
+      "Kimiawi",
+      "Absorpsi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gerak peristaltik memungkinkan makanan terdorong masuk ke dalam lambung."
+  },
+  {
+    "id": "smp_ipa_16",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Di mana penyerapan sari-sari makanan terjadi?",
+    "jawabanBenar": "Usus halus",
+    "pengecoh": [
+      "Lambung",
+      "Usus besar",
+      "Hati"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Usus halus memiliki jonjot-jonjot yang menyerap nutrisi makanan ke dalam darah."
+  },
+  {
+    "id": "smp_ipa_17",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Organ pencernaan apa yang menyerap air dari sisa makanan?",
+    "jawabanBenar": "Usus besar",
+    "pengecoh": [
+      "Usus halus",
+      "Lambung",
+      "Pankreas"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Usus besar bertugas menyerap air agar sisa makanan menjadi padat."
+  },
+  {
+    "id": "smp_ipa_18",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Asam apa yang dihasilkan oleh lambung?",
+    "jawabanBenar": "Asam klorida",
+    "pengecoh": [
+      "Asam sulfat",
+      "Asam sitrat",
+      "Asam cuka"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Lambung menghasilkan asam klorida (HCl) untuk membunuh kuman pada makanan."
+  },
+  {
+    "id": "smp_ipa_19",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Pusat tata surya kita adalah?",
+    "jawabanBenar": "Matahari",
+    "pengecoh": [
+      "Bumi",
+      "Bulan",
+      "Jupiter"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Matahari adalah bintang yang menjadi pusat gravitasi sistem tata surya kita."
+  },
+  {
+    "id": "smp_ipa_20",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Planet manakah yang paling dekat dengan Matahari?",
+    "jawabanBenar": "Merkurius",
+    "pengecoh": [
+      "Venus",
+      "Bumi",
+      "Mars"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Merkurius berada di urutan pertama dan terdekat dari Matahari."
+  },
+  {
+    "id": "smp_ipa_21",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Planet terbesar di tata surya kita adalah?",
+    "jawabanBenar": "Jupiter",
+    "pengecoh": [
+      "Saturnus",
+      "Uranus",
+      "Neptunus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Jupiter adalah planet raksasa gas yang paling besar dalam tata surya kita."
+  },
+  {
+    "id": "smp_ipa_22",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Garis edar planet mengelilingi matahari disebut?",
+    "jawabanBenar": "Orbit",
+    "pengecoh": [
+      "Rotasi",
+      "Satelit",
+      "Gravitasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Setiap planet memiliki lintasan atau orbit tertentu dalam mengelilingi matahari."
+  },
+  {
+    "id": "smp_ipa_23",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Perputaran bumi pada porosnya disebut apa?",
+    "jawabanBenar": "Rotasi",
+    "pengecoh": [
+      "Revolusi",
+      "Orbit",
+      "Evolusi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Rotasi bumi mengakibatkan terjadinya siang dan malam."
+  },
+  {
+    "id": "smp_ipa_24",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Tata Surya",
+    "pertanyaan": "Satelit alami yang dimiliki oleh bumi adalah?",
+    "jawabanBenar": "Bulan",
+    "pengecoh": [
+      "Phobos",
+      "Titan",
+      "Europa"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Bulan adalah satu-satunya benda langit yang mengitari bumi secara alami."
+  },
+  {
+    "id": "smp_ipa_25",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Perubahan wujud dari padat menjadi cair disebut?",
+    "jawabanBenar": "Mencair",
+    "pengecoh": [
+      "Membeku",
+      "Menguap",
+      "Menyublim"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Mencair terjadi karena benda padat menerima kalor (panas)."
+  },
+  {
+    "id": "smp_ipa_26",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Perubahan wujud dari cair menjadi gas disebut?",
+    "jawabanBenar": "Menguap",
+    "pengecoh": [
+      "Membeku",
+      "Mencair",
+      "Mengembun"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Proses menguap terjadi misalnya saat air dipanaskan hingga mendidih."
+  },
+  {
+    "id": "smp_ipa_27",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Peristiwa kamper (kapur barus) mengecil merupakan contoh?",
+    "jawabanBenar": "Menyublim",
+    "pengecoh": [
+      "Menguap",
+      "Mencair",
+      "Mengkristal"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menyublim adalah perubahan langsung dari zat padat menjadi gas."
+  },
+  {
+    "id": "smp_ipa_28",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Embun di pagi hari terjadi akibat proses apa?",
+    "jawabanBenar": "Mengembun",
+    "pengecoh": [
+      "Mencair",
+      "Menguap",
+      "Menyublim"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gas atau uap air di udara berubah menjadi titik-titik air karena suhu dingin."
+  },
+  {
+    "id": "smp_ipa_29",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Zat yang bentuk dan volumenya selalu berubah?",
+    "jawabanBenar": "Gas",
+    "pengecoh": [
+      "Padat",
+      "Cair",
+      "Plasma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gas akan selalu mengisi seluruh ruang yang diempatinya karena susunan partikel bebas."
+  },
+  {
+    "id": "smp_ipa_30",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPA",
+    "topik": "Zat dan Wujudnya",
+    "pertanyaan": "Sifat benda padat yaitu bentuk dan volumenya?",
+    "jawabanBenar": "Tetap",
+    "pengecoh": [
+      "Berubah",
+      "Mengikuti wadah",
+      "Bebas"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Susunan partikel zat padat sangat rapat sehingga bentuk dan volumenya tidak mudah berubah."
+  },
+  {
+    "id": "smp_ips_3",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Gunung, lembah, dan sungai merupakan kenampakan?",
+    "jawabanBenar": "Alam",
+    "pengecoh": [
+      "Buatan",
+      "Sosial",
+      "Budaya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kenampakan alam adalah segala sesuatu di alam yang terbentuk oleh peristiwa alam."
+  },
+  {
+    "id": "smp_ips_4",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Angin laut terjadi pada waktu?",
+    "jawabanBenar": "Siang hari",
+    "pengecoh": [
+      "Malam hari",
+      "Subuh",
+      "Sore hari"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Angin laut bertiup dari laut ke darat yang umumnya terjadi pada siang hari saat suhu daratan lebih panas."
+  },
+  {
+    "id": "smp_ips_5",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Garis khayal yang membagi bumi menjadi dua belahan utara-selatan?",
+    "jawabanBenar": "Khatulistiwa",
+    "pengecoh": [
+      "Bujur",
+      "Greenwich",
+      "Meridian"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Garis khatulistiwa atau ekuator adalah garis lintang nol derajat yang membagi bumi utara dan selatan."
+  },
+  {
+    "id": "smp_ips_6",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Hutan bakau atau mangrove banyak ditemukan di wilayah?",
+    "jawabanBenar": "Pesisir",
+    "pengecoh": [
+      "Pegunungan",
+      "Gurun",
+      "Perkotaan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hutan mangrove tumbuh di daerah pesisir yang dipengaruhi pasang surut air laut."
+  },
+  {
+    "id": "smp_ips_7",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Indonesia memiliki dua musim utama karena pengaruh angin?",
+    "jawabanBenar": "Muson",
+    "pengecoh": [
+      "Topan",
+      "Puyuh",
+      "Tornado"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Angin muson barat dan timur menyebabkan terjadinya musim hujan dan kemarau di Indonesia."
+  },
+  {
+    "id": "smp_ips_8",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Daratan yang menjorok ke laut disebut?",
+    "jawabanBenar": "Tanjung",
+    "pengecoh": [
+      "Teluk",
+      "Selat",
+      "Delta"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tanjung atau semenanjung adalah wilayah daratan yang menjorok ke arah laut."
+  },
+  {
+    "id": "smp_ips_9",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Wilayah lautan yang menjorok ke daratan disebut?",
+    "jawabanBenar": "Teluk",
+    "pengecoh": [
+      "Tanjung",
+      "Selat",
+      "Semenanjung"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Teluk adalah kebalikan dari tanjung, yaitu lautan yang menjorok ke darat."
+  },
+  {
+    "id": "smp_ips_10",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Laut sempit yang menghubungkan dua pulau disebut?",
+    "jawabanBenar": "Selat",
+    "pengecoh": [
+      "Teluk",
+      "Tanjung",
+      "Samudra"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Selat adalah perairan sempit yang berada di antara dua buah pulau."
+  },
+  {
+    "id": "smp_ips_11",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Geografi",
+    "pertanyaan": "Cuaca diamati dalam waktu yang?",
+    "jawabanBenar": "Singkat",
+    "pengecoh": [
+      "Lama",
+      "Tahunan",
+      "Abad"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Cuaca adalah keadaan udara dalam waktu singkat dan wilayah terbatas, berbeda dengan iklim."
+  },
+  {
+    "id": "smp_ips_12",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Perbandingan jarak di peta dengan jarak sebenarnya disebut?",
+    "jawabanBenar": "Skala",
+    "pengecoh": [
+      "Legenda",
+      "Indeks",
+      "Orientasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Skala peta menunjukkan perbandingan matematis antara jarak di peta dengan jarak asli di lapangan."
+  },
+  {
+    "id": "smp_ips_13",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Keterangan dari simbol-simbol pada peta disebut?",
+    "jawabanBenar": "Legenda",
+    "pengecoh": [
+      "Skala",
+      "Inset",
+      "Garis tepi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Legenda berfungsi untuk memperjelas arti dari setiap simbol yang digunakan pada peta."
+  },
+  {
+    "id": "smp_ips_14",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Arah utara pada peta umumnya menunjuk ke bagian?",
+    "jawabanBenar": "Atas",
+    "pengecoh": [
+      "Bawah",
+      "Kanan",
+      "Kiri"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Secara konvensi kartografi standar, arah atas pada peta menunjukkan arah Utara."
+  },
+  {
+    "id": "smp_ips_15",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Warna biru pada peta umum biasanya digunakan untuk?",
+    "jawabanBenar": "Perairan",
+    "pengecoh": [
+      "Daratan",
+      "Pegunungan",
+      "Jalan raya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Warna biru merupakan simbol warna standar untuk danau, sungai, dan laut (perairan)."
+  },
+  {
+    "id": "smp_ips_16",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Peta kecil di dalam peta utama disebut?",
+    "jawabanBenar": "Inset",
+    "pengecoh": [
+      "Legenda",
+      "Indeks",
+      "Skala"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Inset adalah peta kecil yang menunjukkan lokasi daerah yang dipetakan dalam lingkup yang lebih luas."
+  },
+  {
+    "id": "smp_ips_17",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Warna coklat pada peta digunakan untuk simbol?",
+    "jawabanBenar": "Pegunungan",
+    "pengecoh": [
+      "Dataran rendah",
+      "Laut dalam",
+      "Hutan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Warna coklat menandakan wilayah dataran tinggi atau wilayah pegunungan."
+  },
+  {
+    "id": "smp_ips_18",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Simbol segitiga merah pada peta melambangkan apa?",
+    "jawabanBenar": "Gunung berapi",
+    "pengecoh": [
+      "Danau",
+      "Ibu kota",
+      "Bandara"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Secara universal, segitiga merah digunakan sebagai simbol gunung berapi aktif."
+  },
+  {
+    "id": "smp_ips_19",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Bentuk bumi yang bulat ditiru dalam bentuk bola disebut?",
+    "jawabanBenar": "Globe",
+    "pengecoh": [
+      "Atlas",
+      "Peta",
+      "Denah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Globe adalah model atau tiruan bola bumi yang paling mendekati bentuk aslinya."
+  },
+  {
+    "id": "smp_ips_20",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Peta",
+    "pertanyaan": "Buku yang berisi kumpulan peta disebut?",
+    "jawabanBenar": "Atlas",
+    "pengecoh": [
+      "Globe",
+      "Katalog",
+      "Kamus"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Atlas adalah kumpulan peta-peta yang dibukukan."
+  },
+  {
+    "id": "smp_ips_21",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan bercorak Hindu tertua di Indonesia adalah?",
+    "jawabanBenar": "Kutai",
+    "pengecoh": [
+      "Tarumanegara",
+      "Majapahit",
+      "Sriwijaya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerajaan Kutai di Kalimantan Timur adalah kerajaan Hindu tertua (berdiri abad ke-4)."
+  },
+  {
+    "id": "smp_ips_22",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan bercorak Buddha terbesar di Nusantara adalah?",
+    "jawabanBenar": "Sriwijaya",
+    "pengecoh": [
+      "Majapahit",
+      "Mataram",
+      "Demak"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sriwijaya merupakan pusat pendidikan agama Buddha dan kerajaan maritim terbesar di Sumatra."
+  },
+  {
+    "id": "smp_ips_23",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sumpah Palapa diucapkan oleh mahapatih dari Majapahit bernama?",
+    "jawabanBenar": "Gajah Mada",
+    "pengecoh": [
+      "Hayam Wuruk",
+      "Ken Arok",
+      "Raden Wijaya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sumpah Palapa merupakan janji Patih Gajah Mada untuk menyatukan Nusantara."
+  },
+  {
+    "id": "smp_ips_24",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Siapakah yang membacakan Teks Proklamasi Kemerdekaan RI?",
+    "jawabanBenar": "Soekarno",
+    "pengecoh": [
+      "Moh. Hatta",
+      "Sudirman",
+      "Sjahrir"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Soekarno membacakan proklamasi didampingi oleh Mohammad Hatta pada 17 Agustus 1945."
+  },
+  {
+    "id": "smp_ips_25",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah?",
+    "jawabanBenar": "Budi Utomo",
+    "pengecoh": [
+      "Sarekat Islam",
+      "Indische Partij",
+      "PNI"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Budi Utomo didirikan pada 20 Mei 1908, kini diperingati sebagai Hari Kebangkitan Nasional."
+  },
+  {
+    "id": "smp_ips_26",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Kerajaan Islam pertama di Pulau Jawa adalah?",
+    "jawabanBenar": "Demak",
+    "pengecoh": [
+      "Mataram",
+      "Banten",
+      "Cirebon"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerajaan Demak merupakan kesultanan Islam pertama di pantai utara Jawa, dipimpin Raden Patah."
+  },
+  {
+    "id": "smp_ips_27",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Bapak Pendidikan Nasional Indonesia adalah?",
+    "jawabanBenar": "Ki Hajar",
+    "pengecoh": [
+      "Soetomo",
+      "Tjipto",
+      "Douwes Dekker"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Ki Hajar Dewantara mendirikan Taman Siswa dan menjadi Bapak Pendidikan Nasional."
+  },
+  {
+    "id": "smp_ips_28",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sistem kerja paksa pada zaman penjajahan Belanda disebut?",
+    "jawabanBenar": "Kerja Rodi",
+    "pengecoh": [
+      "Romusha",
+      "Cultuurstelsel",
+      "Devide"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerja Rodi diterapkan Belanda, sementara Romusha adalah pada zaman Jepang."
+  },
+  {
+    "id": "smp_ips_29",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Sistem tanam paksa dicetuskan oleh gubernur jenderal?",
+    "jawabanBenar": "Van den Bosch",
+    "pengecoh": [
+      "Daendels",
+      "Raffles",
+      "J.P. Coen"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Johannes van den Bosch memberlakukan Cultuurstelsel pada 1830."
+  },
+  {
+    "id": "smp_ips_30",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "IPS",
+    "topik": "Sejarah Indonesia",
+    "pertanyaan": "Bangsa Eropa pertama yang mendarat mencari rempah di Maluku?",
+    "jawabanBenar": "Portugis",
+    "pengecoh": [
+      "Spanyol",
+      "Belanda",
+      "Inggris"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Portugis merupakan bangsa Eropa pertama yang mendarat di Maluku pada abad ke-16."
+  },
+  {
+    "id": "sma_bio_3",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Organel yang mengatur seluruh kegiatan sel adalah?",
+    "jawabanBenar": "Nukleus",
+    "pengecoh": [
+      "Ribosom",
+      "Lisosom",
+      "Badan Golgi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Nukleus (inti sel) berfungsi sebagai pusat kendali karena mengandung DNA."
+  },
+  {
+    "id": "sma_bio_4",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Tempat utama sintesis protein di dalam sel adalah?",
+    "jawabanBenar": "Ribosom",
+    "pengecoh": [
+      "Vakuola",
+      "Mitokondria",
+      "Sentriol"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Ribosom adalah organel tak bermembran yang merakit asam amino menjadi protein."
+  },
+  {
+    "id": "sma_bio_5",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Organel pencernaan intraseluler yang mengandung enzim hidrolitik?",
+    "jawabanBenar": "Lisosom",
+    "pengecoh": [
+      "Badan Golgi",
+      "Retikulum Endoplasma",
+      "Peroksisom"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Lisosom berfungsi mencerna zat asing atau organel yang sudah rusak di dalam sel."
+  },
+  {
+    "id": "sma_bio_6",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Bagian sel tumbuhan yang menjaga tekanan turgor?",
+    "jawabanBenar": "Vakuola sentral",
+    "pengecoh": [
+      "Dinding sel",
+      "Kloroplas",
+      "Nukleolus"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Vakuola sentral yang besar menyimpan air dan menjaga kekakuan (turgiditas) sel tumbuhan."
+  },
+  {
+    "id": "sma_bio_7",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Struktur utama penyusun membran sel adalah?",
+    "jawabanBenar": "Fosfolipid bilayer",
+    "pengecoh": [
+      "Peptidoglikan",
+      "Selulosa",
+      "Kolin"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Membran sel utamanya tersusun dari dua lapis fosfolipid (fosfolipid bilayer)."
+  },
+  {
+    "id": "sma_bio_8",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Organel untuk sekresi dan pengemasan zat adalah?",
+    "jawabanBenar": "Badan Golgi",
+    "pengecoh": [
+      "Nukleus",
+      "Lisosom",
+      "Retikulum"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Badan Golgi (Aparatus Golgi) memodifikasi, mengemas, dan menyekresikan molekul."
+  },
+  {
+    "id": "sma_bio_9",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Transportasi molekul melawan gradien konsentrasi disebut?",
+    "jawabanBenar": "Transpor aktif",
+    "pengecoh": [
+      "Difusi",
+      "Osmosis",
+      "Fasilitasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Transpor aktif memerlukan energi (ATP) karena bergerak dari konsentrasi rendah ke tinggi."
+  },
+  {
+    "id": "sma_bio_10",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Perpindahan pelarut melalui membran semipermeabel disebut?",
+    "jawabanBenar": "Osmosis",
+    "pengecoh": [
+      "Difusi",
+      "Endositosis",
+      "Eksositosis"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Osmosis khusus merujuk pada difusi molekul pelarut (seperti air) melintasi membran."
+  },
+  {
+    "id": "sma_bio_11",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sel",
+    "pertanyaan": "Apa yang membuat sel tumbuhan kaku dibanding sel hewan?",
+    "jawabanBenar": "Dinding sel",
+    "pengecoh": [
+      "Membran sel",
+      "Kloroplas",
+      "Sitoskeleton"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Dinding sel yang terbuat dari selulosa memberikan bentuk tetap dan perlindungan pada sel tumbuhan."
+  },
+  {
+    "id": "sma_bio_12",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Enzim pepsin di lambung memecah makromolekul apa?",
+    "jawabanBenar": "Protein",
+    "pengecoh": [
+      "Lemak",
+      "Karbohidrat",
+      "Asam nukleat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pepsin merupakan enzim protease yang bekerja memecah protein menjadi pepton."
+  },
+  {
+    "id": "sma_bio_13",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Cairan empedu berfungsi untuk mengemulsi zat apa?",
+    "jawabanBenar": "Lemak",
+    "pengecoh": [
+      "Protein",
+      "Glukosa",
+      "Vitamin"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Empedu memecah lemak menjadi butiran kecil (emulsi) agar mudah dicerna enzim lipase."
+  },
+  {
+    "id": "sma_bio_14",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Organ yang memproduksi cairan empedu adalah?",
+    "jawabanBenar": "Hati",
+    "pengecoh": [
+      "Pankreas",
+      "Lambung",
+      "Kantung empedu"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hati memproduksi empedu, yang kemudian ditampung di kantung empedu."
+  },
+  {
+    "id": "sma_bio_15",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Enzim lipase yang mencerna lemak disekresikan oleh?",
+    "jawabanBenar": "Pankreas",
+    "pengecoh": [
+      "Hati",
+      "Lambung",
+      "Kerongkongan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pankreas menghasilkan lipase ke usus halus untuk mengubah lemak menjadi asam lemak dan gliserol."
+  },
+  {
+    "id": "sma_bio_16",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Lipatan kecil di dinding usus halus untuk absorpsi?",
+    "jawabanBenar": "Vili",
+    "pengecoh": [
+      "Alveolus",
+      "Papila",
+      "Silia"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Vili (jonjot usus) berfungsi memperluas permukaan penyerapan nutrisi."
+  },
+  {
+    "id": "sma_bio_17",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Bagian usus besar yang menampung feses sebelum dibuang?",
+    "jawabanBenar": "Rektum",
+    "pengecoh": [
+      "Sekum",
+      "Kolon",
+      "Duodenum"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Rektum adalah bagian akhir usus besar sebagai tempat penyimpanan sementara feses."
+  },
+  {
+    "id": "sma_bio_18",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Bakteri usus besar yang mensintesis vitamin K?",
+    "jawabanBenar": "Escherichia coli",
+    "pengecoh": [
+      "Salmonella typhi",
+      "Lactobacillus",
+      "Bacillus subtilis"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Bakteri E. coli di kolon bersimbiosis mutualisme dengan manusia membantu pembusukan dan sintesis vitamin K."
+  },
+  {
+    "id": "sma_bio_19",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Karbohidrat diserap usus halus dalam bentuk paling sederhana yaitu?",
+    "jawabanBenar": "Monosakarida",
+    "pengecoh": [
+      "Disakarida",
+      "Polisakarida",
+      "Amilum"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Karbohidrat kompleks harus dipecah menjadi monosakarida (seperti glukosa) agar bisa diserap usus."
+  },
+  {
+    "id": "sma_bio_20",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Sistem Pencernaan",
+    "pertanyaan": "Gerak menelan makanan yang didorong secara otot involunter?",
+    "jawabanBenar": "Peristaltik",
+    "pengecoh": [
+      "Mastikasi",
+      "Deglutisi",
+      "Defekasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gerak peristaltik di kerongkongan merupakan kontraksi otot involunter yang mendorong bolus makanan."
+  },
+  {
+    "id": "sma_bio_21",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Sifat fisik yang tampak dan dapat diamati disebut?",
+    "jawabanBenar": "Fenotipe",
+    "pengecoh": [
+      "Genotipe",
+      "Kromosom",
+      "Alel"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Fenotipe adalah ekspresi dari sifat genetik yang bisa dilihat, seperti warna bunga atau bentuk rambut."
+  },
+  {
+    "id": "sma_bio_22",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Susunan genetik suatu individu yang tidak selalu tampak disebut?",
+    "jawabanBenar": "Genotipe",
+    "pengecoh": [
+      "Fenotipe",
+      "Kromatin",
+      "Alel ganda"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Genotipe merujuk pada komposisi gen spesifik, biasanya dilambangkan dengan huruf (contoh: Aa, BB)."
+  },
+  {
+    "id": "sma_bio_23",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Pasangan gen yang terletak pada lokus yang sama disebut?",
+    "jawabanBenar": "Alel",
+    "pengecoh": [
+      "Kromatid",
+      "Sentromer",
+      "Kiasma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Alel adalah bentuk-bentuk alternatif dari suatu gen pada posisi (lokus) tertentu."
+  },
+  {
+    "id": "sma_bio_24",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Sifat gen yang menutupi ekspresi gen pasangannya?",
+    "jawabanBenar": "Dominan",
+    "pengecoh": [
+      "Resesif",
+      "Intermediet",
+      "Kodominan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sifat dominan adalah sifat yang menutupi sifat resesif ketika berpasangan heterozigot."
+  },
+  {
+    "id": "sma_bio_25",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Sifat gen yang tertutupi ekspresi gen pasangannya?",
+    "jawabanBenar": "Resesif",
+    "pengecoh": [
+      "Dominan",
+      "Homozigot",
+      "Heterozigot"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sifat resesif hanya akan terekspresikan jika pasangannya sesama resesif (homozigot resesif)."
+  },
+  {
+    "id": "sma_bio_26",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Individu dengan dua alel yang sama (contoh: AA atau aa)?",
+    "jawabanBenar": "Homozigot",
+    "pengecoh": [
+      "Heterozigot",
+      "Monohibrid",
+      "Polihibrid"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Individu homozigot memiliki sepasang alel yang identik untuk suatu gen tertentu."
+  },
+  {
+    "id": "sma_bio_27",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Individu dengan alel yang berbeda (contoh: Aa)?",
+    "jawabanBenar": "Heterozigot",
+    "pengecoh": [
+      "Homozigot",
+      "Galur murni",
+      "Homolog"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Heterozigot adalah keadaan individu memiliki alel dominan dan alel resesif untuk suatu sifat."
+  },
+  {
+    "id": "sma_bio_28",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Basa nitrogen RNA yang menggantikan timin pada DNA?",
+    "jawabanBenar": "Urasil",
+    "pengecoh": [
+      "Sitosin",
+      "Guanin",
+      "Adenin"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Dalam struktur RNA, basa Urasil (U) berikatan dengan Adenin (A), menggantikan peran Timin (T)."
+  },
+  {
+    "id": "sma_bio_29",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Gula pentosa penyusun struktur DNA adalah?",
+    "jawabanBenar": "Deoksiribosa",
+    "pengecoh": [
+      "Ribosa",
+      "Glukosa",
+      "Fruktosa"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "DNA (Deoxyribonucleic acid) tersusun dari gula deoksiribosa, sedangkan RNA menggunakan gula ribosa."
+  },
+  {
+    "id": "sma_bio_30",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase E",
+    "mataPelajaran": "Biologi",
+    "topik": "Genetika",
+    "pertanyaan": "Bapak Genetika yang merumuskan hukum pewarisan sifat?",
+    "jawabanBenar": "Mendel",
+    "pengecoh": [
+      "Darwin",
+      "Lamarck",
+      "Pasteur"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gregor Mendel dijuluki Bapak Genetika karena penelitian klasiknya dengan kacang ercis."
+  },
+  {
+    "id": "sma_fis_3",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Hambatan listrik 5 ohm dialiri arus 2 A. Berapa tegangannya?",
+    "jawabanBenar": "10 V",
+    "pengecoh": [
+      "7 V",
+      "2.5 V",
+      "0.4 V"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Hukum Ohm (V = I.R): 2 Ampere dikali 5 Ohm menghasilkan 10 Volt."
+  },
+  {
+    "id": "sma_fis_4",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Alat pengukur kuat arus listrik dinamakan?",
+    "jawabanBenar": "Amperemeter",
+    "pengecoh": [
+      "Voltmeter",
+      "Ohmmeter",
+      "Wattmeter"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Amperemeter dipasang seri untuk mengukur kuat arus listrik (Ampere)."
+  },
+  {
+    "id": "sma_fis_5",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Rangkaian di mana arus memiliki satu jalur tunggal disebut?",
+    "jawabanBenar": "Seri",
+    "pengecoh": [
+      "Paralel",
+      "Campuran",
+      "Terbuka"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pada rangkaian seri, komponen disusun berderet sehingga hanya ada satu lintasan arus."
+  },
+  {
+    "id": "sma_fis_6",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Jika dua resistor 4 ohm dirangkai seri, berapa hambatan total?",
+    "jawabanBenar": "8 ohm",
+    "pengecoh": [
+      "2 ohm",
+      "4 ohm",
+      "16 ohm"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Hambatan pengganti seri adalah penjumlahan (R_total = R1 + R2)."
+  },
+  {
+    "id": "sma_fis_7",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Daya listrik 100 watt dinyalakan 2 jam. Berapa energi (Wh)?",
+    "jawabanBenar": "200 Wh",
+    "pengecoh": [
+      "50 Wh",
+      "100 Wh",
+      "102 Wh"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Energi (E = P.t) = 100 Watt dikali 2 jam menghasilkan 200 Watt-hour (Wh)."
+  },
+  {
+    "id": "sma_fis_8",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Dua muatan sejenis jika didekatkan akan mengalami gaya?",
+    "jawabanBenar": "Tolak-menolak",
+    "pengecoh": [
+      "Tarik-menarik",
+      "Diam",
+      "Berputar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Muatan listrik sejenis (misal positif dan positif) akan saling tolak-menolak."
+  },
+  {
+    "id": "sma_fis_9",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Satuan untuk daya listrik adalah?",
+    "jawabanBenar": "Watt",
+    "pengecoh": [
+      "Joule",
+      "Ampere",
+      "Coulomb"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Watt (W) adalah satuan SI untuk daya, atau laju perpindahan energi per satuan waktu."
+  },
+  {
+    "id": "sma_fis_10",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Jumlah arus masuk titik cabang sama dengan arus keluar?",
+    "jawabanBenar": "Hukum I Kirchhoff",
+    "pengecoh": [
+      "Hukum Ohm",
+      "Hukum II Kirchhoff",
+      "Hukum Faraday"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hukum I Kirchhoff menyatakan kekekalan muatan pada suatu titik percabangan rangkaian."
+  },
+  {
+    "id": "sma_fis_11",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Listrik",
+    "pertanyaan": "Sebuah baterai 12 V dihubungkan ke lampu 3 ohm. Arusnya?",
+    "jawabanBenar": "4 A",
+    "pengecoh": [
+      "36 A",
+      "9 A",
+      "15 A"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kuat arus (I = V/R) = 12 Volt dibagi 3 Ohm menghasilkan 4 Ampere."
+  },
+  {
+    "id": "sma_fis_12",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Besaran skalar yang menyatakan panjang lintasan benda adalah?",
+    "jawabanBenar": "Jarak",
+    "pengecoh": [
+      "Perpindahan",
+      "Kecepatan",
+      "Percepatan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Jarak adalah besaran skalar yang mengukur total panjang lintasan yang ditempuh."
+  },
+  {
+    "id": "sma_fis_13",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Besaran vektor dari posisi awal ke posisi akhir disebut?",
+    "jawabanBenar": "Perpindahan",
+    "pengecoh": [
+      "Jarak",
+      "Laju",
+      "Kelajuan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Perpindahan bergantung pada arah, mengukur beda posisi dari awal hingga akhir."
+  },
+  {
+    "id": "sma_fis_14",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Gerak dengan kecepatan konstan (tetap) dinamakan?",
+    "jawabanBenar": "GLB",
+    "pengecoh": [
+      "GLBB",
+      "Gerak Parabola",
+      "Gerak Jatuh Bebas"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gerak Lurus Beraturan (GLB) memiliki kecepatan yang konstan atau percepatan nol."
+  },
+  {
+    "id": "sma_fis_15",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Mobil bergerak 20 m/s selama 5 sekon. Berapa jaraknya?",
+    "jawabanBenar": "100 m",
+    "pengecoh": [
+      "25 m",
+      "4 m",
+      "10 m"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Untuk GLB, jarak (s = v.t) = 20 m/s dikali 5 sekon menghasilkan 100 meter."
+  },
+  {
+    "id": "sma_fis_16",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Benda jatuh bebas dari ketinggian tertentu memiliki v awal?",
+    "jawabanBenar": "0 m/s",
+    "pengecoh": [
+      "9.8 m/s",
+      "10 m/s",
+      "Tidak tentu"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gerak Jatuh Bebas (GJB) diasumsikan dimulai tanpa kecepatan awal (v0 = 0)."
+  },
+  {
+    "id": "sma_fis_17",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Dari diam, mobil dipercepat 2 m/s² selama 3 s. Kecepatannya?",
+    "jawabanBenar": "6 m/s",
+    "pengecoh": [
+      "1.5 m/s",
+      "5 m/s",
+      "9 m/s"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Untuk GLBB (v = v0 + a.t) = 0 + (2)(3) = 6 m/s."
+  },
+  {
+    "id": "sma_fis_18",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Kurva kecepatan-waktu pada GLB berbentuk garis?",
+    "jawabanBenar": "Mendatar",
+    "pengecoh": [
+      "Miring atas",
+      "Miring bawah",
+      "Parabola"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Karena kecepatan konstan (tidak berubah), grafik v terhadap t membentuk garis horizontal."
+  },
+  {
+    "id": "sma_fis_19",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Besaran skalar dari kecepatan dinamakan?",
+    "jawabanBenar": "Kelajuan",
+    "pengecoh": [
+      "Percepatan",
+      "Perpindahan",
+      "Gaya"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kelajuan adalah besar (magnitudo) tanpa memperhitungkan arah pergerakan."
+  },
+  {
+    "id": "sma_fis_20",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Kinematika",
+    "pertanyaan": "Lintasan peluru yang ditembakkan miring ke atas berbentuk?",
+    "jawabanBenar": "Parabola",
+    "pengecoh": [
+      "Lurus",
+      "Lingkaran",
+      "Hiperbola"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kombinasi gerak lurus seragam mendatar dan GLBB vertikal membentuk lintasan parabola."
+  },
+  {
+    "id": "sma_fis_21",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Hukum yang menyatakan F = m.a adalah Hukum Newton?",
+    "jawabanBenar": "Kedua",
+    "pengecoh": [
+      "Pertama",
+      "Ketiga",
+      "Gravitasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hukum II Newton menyatakan percepatan sebanding dengan gaya netto dan berbanding terbalik dengan massa."
+  },
+  {
+    "id": "sma_fis_22",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Gaya tarik gravitasi bumi pada suatu massa disebut?",
+    "jawabanBenar": "Berat",
+    "pengecoh": [
+      "Massa",
+      "Gaya normal",
+      "Gesekan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Berat (w = m.g) adalah gaya akibat percepatan gravitasi planet."
+  },
+  {
+    "id": "sma_fis_23",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Benda bermassa 2 kg didorong 10 N. Berapa percepatannya?",
+    "jawabanBenar": "5 m/s²",
+    "pengecoh": [
+      "20 m/s²",
+      "12 m/s²",
+      "8 m/s²"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Percepatan (a = F/m) = 10 N dibagi 2 kg menghasilkan 5 m/s²."
+  },
+  {
+    "id": "sma_fis_24",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Gaya tegak lurus bidang sentuh suatu permukaan disebut?",
+    "jawabanBenar": "Gaya normal",
+    "pengecoh": [
+      "Gaya berat",
+      "Gaya gesek",
+      "Gaya sentripetal"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gaya normal adalah gaya reaksi dari suatu permukaan bidang terhadap benda yang menekan."
+  },
+  {
+    "id": "sma_fis_25",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Hukum Newton tentang Aksi = Reaksi adalah Hukum Newton?",
+    "jawabanBenar": "Ketiga",
+    "pengecoh": [
+      "Pertama",
+      "Kedua",
+      "Gravitasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Hukum III Newton menyatakan bahwa setiap aksi menimbulkan gaya reaksi yang sama besar berlawanan arah."
+  },
+  {
+    "id": "sma_fis_26",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Sifat benda yang mempertahankan keadaan diam atau gerak lurus?",
+    "jawabanBenar": "Inersia",
+    "pengecoh": [
+      "Percepatan",
+      "Gesekan",
+      "Momentum"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Inersia (kelembaman) didefinisikan dalam Hukum I Newton tentang kecenderungan benda."
+  },
+  {
+    "id": "sma_fis_27",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Gaya gesek pada benda yang sudah bergerak disebut gaya gesek?",
+    "jawabanBenar": "Kinetis",
+    "pengecoh": [
+      "Statis",
+      "Maksimum",
+      "Udara"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Gaya gesek kinetis bekerja melawan arah gerak benda yang sedang bergeser."
+  },
+  {
+    "id": "sma_fis_28",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Massa astronot 60 kg, beratnya di bumi (g=10 m/s²) adalah?",
+    "jawabanBenar": "600 N",
+    "pengecoh": [
+      "60 N",
+      "6 N",
+      "10 N"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Berat (w = m.g) = 60 kg dikali 10 m/s² sama dengan 600 Newton."
+  },
+  {
+    "id": "sma_fis_29",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Gaya pengikat sentripetal pada mobil membelok umumnya gaya?",
+    "jawabanBenar": "Gesekan",
+    "pengecoh": [
+      "Normal",
+      "Berat",
+      "Tegangan tali"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Saat mobil menikung datar, gaya gesekan statis ban ke aspal yang menahan agar tidak selip (sentripetal)."
+  },
+  {
+    "id": "sma_fis_30",
+    "jenjang": "SMA",
+    "kelasAtauFase": "Fase F",
+    "mataPelajaran": "Fisika",
+    "topik": "Dinamika Gaya",
+    "pertanyaan": "Sistem katrol licin dengan beban diam, gaya tarik tali sama?",
+    "jawabanBenar": "Berat benda",
+    "pengecoh": [
+      "Nol",
+      "Dua kali berat",
+      "Setengah berat"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pada keseimbangan (a=0) dalam katrol tunggal, tegangan tali sama dengan gaya berat beban yang digantung."
+  }
+]

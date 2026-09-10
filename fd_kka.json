@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-KKA-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "OSIS mendata keikutsertaan eskul 100 siswa menggunakan tabel berisi Nama, Kelas, dan Eskul Pilihan. Untuk memudahkan mencari daftar siswa yang khusus mengikuti eskul Basket, tindakan komputasional pengolahan data yang paling efisien adalah...",
+    "jawabanBenar": "Menyaring (filtering) atau mengurutkan (sorting) data pada kolom Eskul Pilihan",
+    "pengecoh": [
+      "Membaca daftar nama siswa dari urutan nomor 1 hingga 100 secara berulang",
+      "Menghapus semua data siswa yang tidak mengikuti eskul Basket dari memori",
+      "Membuat tabel baru setiap kali ada satu orang siswa yang mendaftar"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pengelolaan data dalam berpikir komputasional menekankan efisiensi; fungsi filter atau sort adalah cara sistematis dan cepat untuk mengelompokkan data spesifik.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Algoritma pada dasarnya adalah urutan langkah logis dan sistematis untuk memecahkan masalah. Dalam kehidupan sehari-hari, contoh penerapan algoritma yang paling tepat adalah...",
+    "jawabanBenar": "Mengikuti langkah-langkah resep memasak nasi goreng dari awal hingga siap disajikan",
+    "pengecoh": [
+      "Menggambar bebas di atas kertas kosong tanpa tujuan tertentu",
+      "Berbicara secara spontan (improvisasi) saat menceritakan sebuah dongeng",
+      "Memilih baju secara acak dari dalam lemari saat terburu-buru"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Resep masakan merupakan contoh algoritma dunia nyata karena berisi serangkaian instruksi yang berurutan, sistematis, dan terstruktur untuk mencapai hasil akhir.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Saat merencanakan acara Pentas Seni sekolah yang sangat kompleks, ketua panitia memecah pekerjaan besar tersebut menjadi beberapa divisi kecil: divisi acara, divisi publikasi, divisi perlengkapan, dan divisi konsumsi. Dalam berpikir komputasional, teknik memecahkan masalah ini disebut...",
+    "jawabanBenar": "Dekomposisi",
+    "pengecoh": [
+      "Pengenalan Pola",
+      "Abstraksi",
+      "Desain Algoritma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dekomposisi adalah proses memecah suatu masalah yang besar dan kompleks menjadi sub-masalah yang lebih kecil agar lebih mudah dikelola dan diselesaikan secara paralel.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Dalam sebuah program kasir kantin, terdapat instruksi logika (percabangan): 'JIKA total belanja lebih dari Rp50.000, MAKA berikan diskon 10%, JIKA TIDAK, MAKA diskon 0%'. Apabila Budi berbelanja sebesar Rp45.000, apa yang akan dieksekusi oleh sistem?",
+    "jawabanBenar": "Sistem tidak memberikan diskon (0%) karena syarat tidak terpenuhi",
+    "pengecoh": [
+      "Sistem memberikan diskon 10% karena Rp45.000 mendekati Rp50.000",
+      "Sistem membatalkan transaksi karena uang tidak cukup",
+      "Sistem memberikan diskon secara acak tergantung programnya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pada algoritma kondisional dasar (If-Else), komputer secara kaku mengevaluasi syarat batas. Rp45.000 tidak lebih dari Rp50.000, sehingga masuk ke blok JIKA TIDAK (Else).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Susunlah instruksi logika (sequence) peminjaman buku perpustakaan digital ini agar menjadi urutan sistematis yang berjalan dengan benar!\n1. Sistem mencatat buku tersebut sedang dipinjam dan mengurangi stok digital.\n2. Siswa berhasil login masuk ke aplikasi perpustakaan.\n3. Siswa mencari dan memilih judul buku yang diinginkan.\n4. Siswa mengklik tombol perintah 'Pinjam Buku'.",
+    "jawabanBenar": "2 - 3 - 4 - 1",
+    "pengecoh": [
+      "3 - 2 - 4 - 1",
+      "2 - 4 - 3 - 1",
+      "1 - 2 - 3 - 4"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Urutan algoritmik dari sudut pandang alur proses: Autentikasi dulu (2), pencarian objek (3), eksekusi aksi (4), dan terakhir sistem merespons dengan memproses pembaruan database (1).",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FD-KKA-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Saat mendata tabel jadwal piket kelas yang berisi Hari dan Nama Siswa, sekretaris kelas tidak mencantumkan informasi golongan darah, hobi, atau alamat rumah siswa. Proses membuang atau mengabaikan detail informasi yang tidak relevan dengan tujuan penyelesaian masalah ini disebut...",
+    "jawabanBenar": "Abstraksi",
+    "pengecoh": [
+      "Dekomposisi",
+      "Evaluasi Data",
+      "Debug Algoritma"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Abstraksi adalah teknik memilah dan hanya berfokus pada informasi utama yang penting (nama & hari) serta menyembunyikan atau membuang detail yang tidak relevan untuk jadwal piket.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Seorang siswa mengamati bahwa setiap kali cuaca mendung dan angin kencang di pagi hari, bus sekolah selalu datang terlambat sekitar 15 menit dari jadwal biasanya. Kemampuan komputasional siswa dalam menghubungkan kesamaan kejadian-kejadian ini disebut...",
+    "jawabanBenar": "Pengenalan Pola (Pattern Recognition)",
+    "pengecoh": [
+      "Pengulangan Logika (Looping)",
+      "Penyandian Data (Enkripsi)",
+      "Pembuatan Pseudocode"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pengenalan pola adalah kemampuan mengenali kesamaan, tren, atau keteraturan dalam data maupun situasi (seperti hubungan cuaca dan keterlambatan) untuk membuat prediksi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Berpikir Komputasional",
+    "pertanyaan": "Perhatikan aturan algoritma lampu penyeberangan (pelican crossing) berikut:\n1. Jika lampu jalan hijau menyala, mobil berjalan, pejalan kaki dilarang menyeberang.\n2. Jika lampu jalan kuning menyala, mobil bersiap berhenti, pejalan kaki dilarang menyeberang.\n3. Jika lampu jalan merah menyala, mobil berhenti, pejalan kaki dilarang menyeberang.\n\nJika diterapkan secara nyata, apa kesalahan logika (bug) fatal pada algoritma tersebut?",
+    "jawabanBenar": "Pejalan kaki tidak akan pernah bisa menyeberang jalan, karena pada langkah 3 (saat kendaraan berhenti) mereka seharusnya diizinkan menyeberang.",
+    "pengecoh": [
+      "Langkah nomor 1 salah, karena mobil seharusnya berhenti saat lampu hijau menyala.",
+      "Lampu kuning seharusnya dilewati saja dari urutan algoritma karena membuang waktu.",
+      "Algoritma sudah sangat benar dan aman bagi pejalan kaki."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Mengevaluasi (debugging) algoritma logika mensyaratkan pencarian instruksi yang tidak logis/tidak memenuhi tujuan. Aturan 3 gagal memberikan kondisi yang memperbolehkan pejalan kaki menyeberang, sehingga sistem tersebut gagal berfungsi secara total.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Dalam mengevaluasi informasi digital di internet, kita harus mampu membedakan antara fakta dan opini. Manakah dari pernyataan berikut yang merupakan sebuah FAkta?",
+    "jawabanBenar": "Gempa bumi dengan magnitudo 5.0 terjadi di lepas pantai selatan pada hari Senin pukul 10.00 WIB.",
+    "pengecoh": [
+      "Cuaca di pantai selatan sangat indah dan menenangkan pikiran setiap hari Senin.",
+      "Menurut saya, gempa bumi adalah bencana yang paling menakutkan dari semua bencana alam.",
+      "Sebaiknya semua orang pindah dari pesisir pantai agar merasa lebih aman."
+    ],
+    "difficulty": "EASY",
+    "explanation": "Fakta adalah informasi yang objektif, memiliki bukti, dan dapat diukur/diuji kebenarannya (magnitudo, waktu, lokasi). Opini bersifat subjektif dan memuat pandangan pribadi.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Ketika mencari data kependudukan atau referensi sejarah menggunakan mesin pencari, kita dapat lebih memercayai informasi jika situs web tersebut berafiliasi dengan lembaga resmi yang ditandai dengan akhiran domain (URL)...",
+    "jawabanBenar": ".edu, .ac.id, atau .go.id",
+    "pengecoh": [
+      ".com, .net, atau .biz",
+      ".blogspot.com atau .wordpress.com",
+      ".tv, .shop, atau .info"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Domain resmi pemerintah (.go.id/gov) atau institusi pendidikan (.edu/ac.id) memiliki kredibilitas dan kontrol kualitas (peer-review) informasi yang jauh lebih baik dibandingkan blog pribadi atau komersial.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Budi mengambil sebuah gambar ilustrasi yang bagus dari sebuah blog di internet, lalu menempelkannya di tugas presentasi sekolahnya. Agar tindakannya sesuai dengan etika digital, Budi wajib melakukan...",
+    "jawabanBenar": "Atribusi (mencantumkan sumber tautan atau nama pencipta gambar tersebut di dalam presentasinya)",
+    "pengecoh": [
+      "Mengubah warna gambar tersebut sedikit agar terlihat seperti buatannya sendiri",
+      "Mengaku kepada gurunya bahwa ia menggambar ilustrasi tersebut semalaman",
+      "Membayar uang langsung kepada pihak sekolah sebagai biaya izin presentasi"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Etika digital mengharuskan kita menghargai Hak Kekayaan Intelektual (HAKI) karya orang lain dengan selalu memberikan kredit atau atribusi sumber secara jelas.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Sering membagikan foto kartu pelajar, nama lengkap ibu kandung, tiket pesawat (boarding pass), dan lokasi presisi rumah secara publik (oversharing) di media sosial sangat tidak dianjurkan. Risiko keamanan digital paling fatal dari hal ini adalah...",
+    "jawabanBenar": "Pencurian identitas (identity theft) dan manipulasi data untuk penipuan finansial",
+    "pengecoh": [
+      "Memori server media sosial akan cepat penuh dan akun kita otomatis terhapus",
+      "Akun media sosial akan secara otomatis berubah menjadi akun premium berbayar",
+      "Mengakibatkan perangkat smartphone terkena korsleting atau rusak baterainya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Oversharing data PII (Personally Identifiable Information) adalah gerbang utama bagi kejahatan siber berbasis social engineering dan pencurian identitas.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Pengurus OSIS ingin mengumumkan ringkasan laporan keuangan kegiatan yang panjang agar terlihat menarik, estetik, dan mudah dipahami siswa dalam satu kali usapan (swipe) layar di Instagram. Format konten digital apa yang paling efektif untuk memproduksi informasi ini?",
+    "jawabanBenar": "Infografis",
+    "pengecoh": [
+      "Audio Podcast berdurasi 1 jam",
+      "Dokumen teks PDF sebanyak 10 halaman penuh",
+      "Video resolusi 4K berisi layar hitam kosong"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Memilih perkakas produksi yang tepat (tool selection) adalah bagian literasi digital. Infografis menggabungkan data teks ringkas dengan visualisasi grafis untuk pemahaman data secara cepat di media sosial.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Sebuah pesan berantai (forward) di aplikasi chat mengklaim bahwa sebuah buah eksotis dapat menyembuhkan segala penyakit kritis dalam sehari. Ciri utama dari berita bohong (hoaks) pada pesan semacam ini biasanya ditandai dengan...",
+    "jawabanBenar": "Penggunaan judul sensasional dan instruksi mendesak untuk \"Viralkan!\" tanpa sumber rujukan ahli medis yang jelas",
+    "pengecoh": [
+      "Menyertakan kutipan resmi dari jurnal kedokteran yang diakui dunia",
+      "Ditulis dengan ejaan bahasa yang sangat baku, tenang, dan tertata rapi",
+      "Hanya dikirim oleh guru atau kepala sekolah melalui pengumuman resmi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Literasi informasi menuntut sikap kritis. Hoaks kesehatan biasanya bergantung pada manipulasi emosional (huruf kapital, ancaman, harapan palsu, dan desakan menyebarkan) tanpa verifikasi data.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi Digital",
+    "pertanyaan": "Rina tidak sengaja merekam video temannya yang sedang terjatuh tersungkur di kantin. Meskipun video itu dianggap lucu, temannya terlihat sangat malu dan meminta Rina menghapusnya. Jika Rina tetap mengunggahnya ke TikTok demi mendapatkan 'likes', evaluasi dampak etika digital yang paling tepat dari tindakan tersebut adalah...",
+    "jawabanBenar": "Rina melakukan pelanggaran etika dan jejak digital yang dapat berujung pada cyberbullying serta mempermalukan korban selamanya",
+    "pengecoh": [
+      "Rina melakukan hal yang benar karena konten komedi selalu kebal dari aturan etika",
+      "Tindakan tersebut sepenuhnya aman selama Rina tidak menuliskan nama asli temannya di caption",
+      "Tindakan Rina akan dihargai oleh sekolah sebagai karya jurnalistik dokumenter"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Tanggung jawab diseminasi konten meliputi perlindungan martabat (digital citizenship). Mengunggah konten yang merendahkan subjek meski tanpa niat jahat adalah bentuk pelanggaran privasi dan etika siber.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Sistem Kecerdasan Artifisial (AI) generatif mampu membalas pertanyaan kita seolah-olah seperti manusia karena sistem tersebut...",
+    "jawabanBenar": "Dilatih menggunakan jutaan teks (data besar) untuk mengenali pola bahasa dan menebak probabilitas kata selanjutnya",
+    "pengecoh": [
+      "Memiliki otak biologis buatan yang tumbuh di dalam komputer server",
+      "Secara ajaib langsung mengetahui segalanya sejak ia pertama kali dihidupkan",
+      "Memiliki ruh dan perasaan empati persis seperti yang dimiliki manusia"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Konsep dasar AI generatif (seperti LLM/chatbot) adalah pengenalan pola statistik matematis dari Big Data, bukan pemikiran atau kesadaran (consciousness).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Terkadang, sebuah aplikasi Kecerdasan Artifisial memberikan jawaban yang diketik dengan gaya bahasa sangat meyakinkan, namun secara faktual isinya fiktif atau sepenuhnya salah. Dalam dunia AI, fenomena ini disebut...",
+    "jawabanBenar": "Halusinasi (Hallucination)",
+    "pengecoh": [
+      "Kloning suara (Voice Cloning)",
+      "Verifikasi dua langkah (2FA)",
+      "Virus Ransomware"
+    ],
+    "difficulty": "EASY",
+    "explanation": "AI hallucination adalah keadaan ketika model menghasilkan informasi palsu namun menyajikannya dengan tingkat kepercayaan diri tekstual yang tinggi, sering menipu pengguna yang kurang kritis.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Meskipun sebuah sistem Kecerdasan Artifisial mampu memecahkan kode pemrograman atau meringkas 100 halaman buku dalam hitungan detik, ia tetap memiliki keterbatasan fundamental dibandingkan kecerdasan alami manusia, yaitu...",
+    "jawabanBenar": "AI tidak memiliki empati, kebijaksanaan, dan kesadaran moral atas keputusan yang dibuatnya",
+    "pengecoh": [
+      "AI tidak mampu menyelesaikan operasi matematika dasar seperti penjumlahan",
+      "AI selalu membutuhkan waktu bertahun-tahun untuk membalas satu kalimat pendek",
+      "AI tidak bisa disambungkan ke jaringan listrik komputer modern"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Perbedaan utama (human vs AI) adalah bahwa AI tidak memiliki pemahaman moral (moral reasoning) dan kesadaran. AI hanya mengkalkulasi statistik data tanpa memahami dampak emosional atau etis di dunia nyata.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Andi menggunakan AI untuk menyusun kerangka makalah sejarah tanpa mengeceknya lagi. Saat dipresentasikan, makalahnya ternyata berisi sejarah tokoh fiktif yang tidak pernah ada (halusinasi AI). Siapa yang paling bertanggung jawab secara etis atas penyebaran informasi salah tersebut?",
+    "jawabanBenar": "Andi, karena sebagai manusia, ia adalah pembuat keputusan akhir yang wajib memverifikasi hasil kerja AI sebelum diklaim sebagai karyanya",
+    "pengecoh": [
+      "Program AI tersebut, karena mesin selalu disalahkan atas setiap kesalahan",
+      "Perusahaan pembuat AI, karena mereka tidak pernah memperingatkan penggunanya",
+      "Guru sejarah, karena memberikan tugas makalah yang terlalu sulit bagi Andi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Prinsip etika 'Human-in-the-loop' menekankan bahwa manusia pemakai (user) menanggung tanggung jawab akhir dan otoritas (accountability) atas segala output buatan mesin yang ia sebarkan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Sebuah video yang beredar di media sosial menampilkan seorang tokoh masyarakat sedang mengucapkan ujaran kebencian, padahal tokoh tersebut tidak pernah mengatakannya. Video manipulatif tingkat tinggi yang dihasilkan oleh Kecerdasan Artifisial ini dikenal dengan istilah...",
+    "jawabanBenar": "Deepfake",
+    "pengecoh": [
+      "Augmented Reality (AR)",
+      "Virtual Reality (VR)",
+      "Stop Motion Animation"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Deepfake adalah penggunaan AI (khususnya deep learning) untuk memanipulasi atau mengganti wajah dan suara seseorang dalam video sehingga tampak sangat realistis dan menipu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Sebuah sistem AI penyeleksi beasiswa ternyata secara tidak adil selalu menolak siswa dari daerah tertentu. Setelah diteliti, sistem AI itu dilatih dengan data dari 10 tahun lalu di mana siswa daerah tersebut memang jarang mendaftar. Masalah kegagalan objektivitas AI ini disebut sebagai...",
+    "jawabanBenar": "Bias Algoritma (AI Bias)",
+    "pengecoh": [
+      "Bug Visualisasi Data",
+      "Halusinasi Geografis",
+      "Kecerdasan Super (Superintelligence)"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Algorithmic Bias terjadi ketika AI menghasilkan keputusan diskriminatif, biasanya akibat data pelatihannya (training data) merefleksikan ketidaksetaraan historis atau dataset yang tidak seimbang.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Ketika kita membaca jawaban chatbot AI yang menjelaskan tentang rumus fisika, langkah berpikir komputasional tingkat lanjut apa yang harus kita lakukan sebagai evaluasi keamanan (safety) sebelum menggunakan rumus tersebut untuk ujian?",
+    "jawabanBenar": "Lakukan cross-check (verifikasi silang) rumus tersebut dengan buku cetak pelajaran resmi atau panduan dari guru",
+    "pengecoh": [
+      "Langsung menghafalkannya karena AI komputer memiliki kecerdasan absolut dan tidak pernah salah",
+      "Menyalin (copy-paste) persis jawaban tersebut dan membagikannya langsung ke grup kelas tanpa membacanya",
+      "Mematikan komputer karena menggunakan AI untuk belajar adalah hal yang terlarang di seluruh dunia"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Karena risiko halusinasi, pengguna harus dilatih untuk mengevaluasi secara kritis output AI dan menjadikannya titik awal riset, bukan kebenaran absolut tanpa verifikasi silang (cross-check).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Literasi & Etika Kecerdasan Artifisial",
+    "pertanyaan": "Dina merasa cemas dan menceritakan seluruh rahasia pribadinya (termasuk keluhan medis, foto kartu identitas, dan masalah keluarga) kepada aplikasi chatbot AI publik gratis agar mendapat saran. Mengapa hal ini sangat rentan secara keamanan dan privasi data?",
+    "jawabanBenar": "Prompt dan data yang dimasukkan (input) dapat disimpan di server perusahaan AI dan mungkin digunakan kembali untuk melatih model, sehingga data sensitif berisiko terekspos",
+    "pengecoh": [
+      "Chatbot AI akan secara otomatis menelepon orang tua Dina melalui jaringan satelit untuk mengadukannya",
+      "Chatbot AI akan langsung mogok beroperasi karena tidak didesain untuk mendengarkan keluhan pribadi",
+      "Semua chatbot di internet diawasi langsung oleh dokter sungguhan yang berjaga 24 jam penuh di markas mereka"
+    ],
+    "difficulty": "HARD",
+    "explanation": "Sistem AI komersial yang digunakan publik sering kali merekam log interaksi untuk peningkatan layanan. Memasukkan data PII atau sensitif ke dalam prompt adalah risiko privasi masif (data leakage).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Berdasarkan prinsip pengembangan KA dasar, jika kita ingin meminta aplikasi pembuat gambar (AI Image Generator) menghasilkan karya yang sangat sesuai dengan imajinasi kita, yang harus kita fokuskan adalah...",
+    "jawabanBenar": "Menyusun input deskripsi kata (prompt) yang jelas, detail, dan spesifik",
+    "pengecoh": [
+      "Menulis satu kata pendek saja agar AI memiliki ruang untuk berimajinasi sendiri",
+      "Memasukkan gambar kode biner (0 dan 1) ke dalam kotak pencarian",
+      "Mematikan koneksi internet sesaat sebelum menekan tombol buat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kunci dari pemanfaatan AI generatif adalah rekayasa prompt (prompt engineering). Semakin spesifik detail yang diberikan pada input, semakin terarah output yang dihasilkan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Pemanfaatan model bahasa (Large Language Model) sangat bermanfaat dalam pendidikan SMP, asalkan digunakan untuk tujuan yang tepat. Manakah contoh pemanfaatan AI yang paling etis dan konstruktif bagi pelajar?",
+    "jawabanBenar": "Meminta AI untuk menjelaskan materi sains yang sulit dengan perumpamaan sederhana agar lebih mudah dipahami",
+    "pengecoh": [
+      "Menyuruh AI membuat seluruh karangan esai dan langsung menyerahkannya ke guru tanpa dibaca",
+      "Menggunakan AI untuk menjawab soal ujian akhir semester saat guru tidak melihat",
+      "Menyuruh AI meretas sistem keamanan WiFi perpustakaan sekolah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Pemanfaatan KA sebagai tutor atau asisten konsep abstrak meningkatkan pembelajaran (AI as a learning tool). Menyontek/plagiat mematikan proses berpikir kritis pelajar.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Siti ingin menggunakan AI untuk membantunya mendapatkan ide kampanye kebersihan sekolah. Manakah desain input (prompt) berikut yang secara struktural akan menghasilkan output paling relevan dan terarah?",
+    "jawabanBenar": "Tolong berikan 3 ide unik kampanye menjaga kebersihan di lingkungan sekolah untuk siswa SMP, serta sertakan satu slogan singkat untuk setiap ide.",
+    "pengecoh": [
+      "Bagaimana cara membersihkan sekolah?",
+      "Buat kampanye.",
+      "Tuliskan semua hal tentang sampah dan sapu."
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Prompting yang efektif memuat konteks (lingkungan sekolah, siswa SMP), kuantitas (3 ide), dan batasan format (sertakan slogan).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Dalam dunia pemrograman dan pemanfaatan sistem informasi, kita mengenal prinsip 'Garbage In, Garbage Out' (GIGO). Dalam konteks interaksi dengan AI (chatbot), prinsip ini berarti...",
+    "jawabanBenar": "Jika pertanyaan/instruksi (input) yang kita berikan tidak jelas atau membingungkan, maka jawaban (output) AI juga akan tidak bermutu",
+    "pengecoh": [
+      "AI secara otomatis akan membuang file sampah dari dalam memori komputer kita",
+      "Kita harus selalu menggunakan huruf kapital agar AI tidak mengeluarkan sampah digital",
+      "Jika kita memasukkan kata yang terlalu rumit, perangkat keras komputer akan terbakar"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "GIGO adalah konsep ilmu komputer fundamental yang berlaku kuat di ranah GenAI: kualitas output AI berbanding lurus dengan kejelasan dan kualitas prompt (input) pengguna.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Guru menugaskan siswa membuat cerita pendek dengan tema pelestarian hutan. Anton menggunakan bantuan AI teks untuk membangun ide. Agar tetap mengasah kreativitas dan orisinalitasnya, langkah paling kritis yang harus dilakukan Anton setelah menerima teks dari AI adalah...",
+    "jawabanBenar": "Membaca teks dari AI hanya sebagai inspirasi awal, lalu menulis ulang ide tersebut menggunakan gaya bahasa dan imajinasi Anton sendiri",
+    "pengecoh": [
+      "Langsung mencetak (print) teks tersebut tanpa membacanya terlebih dahulu",
+      "Mengklaim di depan kelas bahwa AI tersebut adalah karya ciptaan Anton dari nol",
+      "Menyalin sebagian demi sebagian ke dokumen tanpa mengubah satu huruf pun"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Penggunaan alat berbasis AI yang bermakna adalah sebagai 'co-pilot' atau sarana brainstorming, namun pemrosesan kognitif akhir dan identitas karya (authorship) harus tetap milik manusia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-KKA-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Susunlah tahapan alur (sequence) yang beretika dalam memanfaatkan AI generatif teks untuk membantu penyusunan draf awal pidato sekolah!\n1. Membaca dengan saksama seluruh teks draf yang dihasilkan oleh sistem AI.\n2. Menyusun pertanyaan atau instruksi (prompt) yang jelas dan memiliki konteks spesifik.\n3. Melakukan finalisasi, merevisi gaya bahasa, dan memverifikasi kebenaran klaim faktualnya.\n4. Memasukkan instruksi tersebut ke antarmuka AI dan menunggu sistem memproses output.",
+    "jawabanBenar": "2 - 4 - 1 - 3",
+    "pengecoh": [
+      "1 - 2 - 4 - 3",
+      "4 - 2 - 3 - 1",
+      "2 - 1 - 4 - 3"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Tahapan menggunakan GenAI: Merancang prompt (2), Mengeksekusi (4), Menganalisis output kasar (1), dan Pengeditan/Verifikasi (human oversight) (3).",
+    "challengeType": "SEQUENCE"
+  },
+  {
+    "id": "FD-KKA-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "topik": "Pemanfaatan & Pengembangan KA",
+    "pertanyaan": "Sinta meminta AI membuatkan jadwal belajar persiapan ujian selama seminggu. Output yang dihasilkan ternyata mengharuskan Sinta belajar nonstop tanpa istirahat siang. Untuk merevisi (refine) perilaku AI agar solusinya lebih manusiawi, prompt lanjutan mana yang memiliki desain instruksi komputasional paling efektif?",
+    "jawabanBenar": "Tolong revisi jadwal di atas. Tambahkan jeda istirahat 15 menit setiap selesai belajar 60 menit, dan kosongkan seluruh kegiatan pada hari Minggu pagi untuk olahraga.",
+    "pengecoh": [
+      "Jadwalmu terlalu melelahkan dan membuatku pusing, coba buat yang lebih bagus sedikit.",
+      "Apakah kamu tidak tahu kalau manusia itu butuh tidur dan makan setiap hari?",
+      "Tolong hapus semua jadwal matematika dari hari Senin sampai Sabtu tanpa terkecuali."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Refining (iterasi) prompt membutuhkan penyelesaian masalah secara dekomposisi: memberi batasan spesifik (constraints) berupa parameter kuantitatif (jeda 15 menit per 60 menit, kosongkan Minggu pagi) agar model AI menyesuaikan struktur data secara matematis dan logis.",
+    "challengeType": "IDENTIFY"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": "FD-PAN-001",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Nilai-nilai Pancasila",
+    "pertanyaan": "Ketika ada teman yang sedang melaksanakan ibadah sesuai dengan agamanya, sikap kita sebaiknya tidak mengganggu dan menjaga ketenangan. Sikap ini merupakan penerapan Pancasila khususnya sila ke-...",
+    "jawabanBenar": "Satu",
+    "pengecoh": [
+      "Dua",
+      "Tiga",
+      "Lima"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sila pertama 'Ketuhanan Yang Maha Esa' menjamin kemerdekaan beragama dan mewajibkan kita untuk bertoleransi serta menghormati ibadah orang lain.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-002",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Nilai-nilai Pancasila",
+    "pertanyaan": "Menggalang dana untuk membantu korban bencana alam atau menjenguk teman yang sedang sakit merupakan wujud pengamalan Pancasila sila ke-...",
+    "jawabanBenar": "Dua",
+    "pengecoh": [
+      "Satu",
+      "Tiga",
+      "Empat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sila kedua 'Kemanusiaan yang Adil dan Beradab' mengajarkan kita untuk saling mencintai sesama manusia dan melakukan kegiatan kemanusiaan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-003",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Nilai-nilai Pancasila",
+    "pertanyaan": "Membeli dan menggunakan produk-produk buatan dalam negeri seperti sepatu atau pakaian karya pengrajin lokal merupakan wujud dari sikap...",
+    "jawabanBenar": "Cinta tanah air",
+    "pengecoh": [
+      "Rela berkorban",
+      "Tenggang rasa",
+      "Pantang menyerah"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Menggunakan produk dalam negeri adalah bentuk kebanggaan dan cinta tanah air yang merupakan pengamalan Sila Ketiga Pancasila.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-004",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Nilai-nilai Pancasila",
+    "pertanyaan": "Dalam menentukan tujuan wisata akhir tahun kelas, ketua kelas mengajak seluruh siswa untuk berdiskusi dan mengambil keputusan bersama. Tindakan ini mencerminkan Sila ke-...",
+    "jawabanBenar": "Empat",
+    "pengecoh": [
+      "Satu",
+      "Dua",
+      "Lima"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sila keempat menekankan penyelesaian masalah atau pengambilan keputusan bersama melalui musyawarah untuk mencapai mufakat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-005",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Nilai-nilai Pancasila",
+    "pertanyaan": "Membagi jadwal piket kebersihan kelas secara merata tanpa membeda-bedakan teman merupakan contoh penerapan Pancasila Sila ke-...",
+    "jawabanBenar": "Lima",
+    "pengecoh": [
+      "Dua",
+      "Tiga",
+      "Empat"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sila kelima 'Keadilan Sosial bagi Seluruh Rakyat Indonesia' bermakna bersikap adil, menjaga keseimbangan hak dan kewajiban, serta tidak membeda-bedakan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-006",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Bhinneka Tunggal Ika",
+    "pertanyaan": "Semboyan 'Bhinneka Tunggal Ika' yang tertulis pada lambang negara burung Garuda memiliki makna...",
+    "jawabanBenar": "Berbeda-beda tetapi pada hakikatnya tetap satu kesatuan",
+    "pengecoh": [
+      "Bersatu kita teguh bercerai kita runtuh",
+      "Keberagaman adalah sumber konflik yang harus diseragamkan",
+      "Satu bangsa dengan satu bahasa ibu yang sama"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Bhinneka Tunggal Ika mengakui keberagaman suku, agama, dan ras di Indonesia, namun tetap disatukan dalam satu identitas bangsa.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-007",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Gotong Royong",
+    "pertanyaan": "Contoh pelaksanaan gotong royong di lingkungan sekolah adalah...",
+    "jawabanBenar": "Bekerja sama membersihkan ruang kelas dan halaman sekolah",
+    "pengecoh": [
+      "Bekerja sama saat mengerjakan soal ujian agar nilai bagus",
+      "Mengumpulkan uang saku untuk membeli jajan bersama",
+      "Berkumpul di kantin saat jam pelajaran kosong"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Gotong royong adalah bekerja bersama-sama untuk mencapai hasil yang didambakan bersama, seperti kebersihan sekolah. Bekerja sama saat ujian adalah kecurangan, bukan gotong royong.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-008",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Hak dan Kewajiban",
+    "pertanyaan": "Siswa berhak mendapatkan pengajaran yang baik dari guru. Di sisi lain, siswa harus mematuhi tata tertib sekolah. Mematuhi tata tertib tersebut merupakan bentuk...",
+    "jawabanBenar": "Kewajiban",
+    "pengecoh": [
+      "Hak",
+      "Penghargaan",
+      "Keadilan"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Kewajiban adalah sesuatu yang harus dilaksanakan atau dilakukan. Mematuhi tata tertib adalah tanggung jawab mutlak seorang siswa.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-009",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Kedudukan Pancasila",
+    "pertanyaan": "Pancasila dijadikan sebagai sumber dari segala sumber hukum dan pedoman dalam menyelenggarakan ketatanegaraan. Hal ini menunjukkan kedudukan Pancasila sebagai...",
+    "jawabanBenar": "Dasar Negara",
+    "pengecoh": [
+      "Pandangan Hidup",
+      "Kepribadian Bangsa",
+      "Ideologi Tertutup"
+    ],
+    "difficulty": "EASY",
+    "explanation": "Sebagai Dasar Negara, Pancasila berfungsi sebagai fondasi yuridis dan pedoman dalam mengatur pemerintahan dan penyelenggaraan negara.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-010",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Kedudukan Pancasila",
+    "pertanyaan": "Ketika masyarakat Indonesia menjadikan nilai-nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sebagai petunjuk arah dalam kehidupan sehari-hari, maka Pancasila berfungsi sebagai...",
+    "jawabanBenar": "Pandangan hidup bangsa",
+    "pengecoh": [
+      "Perjanjian luhur bangsa",
+      "Dasar hukum negara",
+      "Identitas pemerintahan"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Pandangan hidup (way of life) berarti nilai-nilai Pancasila digunakan sebagai pedoman tingkah laku dalam interaksi sosial sehari-hari masyarakat.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-011",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Konstitusi dan Norma",
+    "pertanyaan": "UUD NRI Tahun 1945 menempati tata urutan peraturan perundang-undangan tertinggi di Indonesia. Konsekuensi logis dari kedudukan tersebut adalah...",
+    "jawabanBenar": "Semua peraturan di bawahnya tidak boleh bertentangan dengan isi UUD 1945",
+    "pengecoh": [
+      "Peraturan daerah dapat mengabaikan UUD 1945 jika tidak sesuai dengan kondisi lokal",
+      "UUD 1945 hanya berlaku untuk pejabat negara dan tidak mengikat rakyat biasa",
+      "UUD 1945 dapat digantikan oleh Peraturan Pemerintah kapan saja"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sebagai hukum dasar tertinggi (Lex Superior), setiap produk hukum di bawahnya harus bersumber dan tidak boleh bertentangan dengan UUD 1945.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-012",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Konstitusi dan Norma",
+    "pertanyaan": "Seorang siswa berbicara dengan nada tinggi dan menggunakan kata-kata kasar kepada gurunya saat ditegur. Perbuatan siswa tersebut merupakan pelanggaran terhadap norma...",
+    "jawabanBenar": "Kesopanan",
+    "pengecoh": [
+      "Hukum",
+      "Kesusilaan",
+      "Agama"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Norma kesopanan bersumber dari kebiasaan, tata krama, dan etika pergaulan dalam masyarakat. Berbicara kasar kepada orang yang lebih tua/guru melanggar etika ini.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-013",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Tantangan Kebangsaan",
+    "pertanyaan": "Menyebarkan berita bohong (hoaks) di media sosial yang berisi hinaan terhadap suku tertentu dapat memicu permusuhan. Tindakan ini sangat bertentangan dengan nilai Pancasila, khususnya Sila ke-...",
+    "jawabanBenar": "Tiga",
+    "pengecoh": [
+      "Satu",
+      "Dua",
+      "Lima"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Menyebarkan kebencian antarsuku merusak persatuan dan kesatuan bangsa, yang secara langsung mencederai Sila Ketiga, Persatuan Indonesia.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-014",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Demokrasi",
+    "pertanyaan": "Dalam pemilihan ketua OSIS, calon yang kamu dukung ternyata kalah suara. Sikap demokratis yang paling tepat untuk kamu tunjukkan adalah...",
+    "jawabanBenar": "Menerima kekalahan dengan lapang dada dan mendukung program ketua terpilih",
+    "pengecoh": [
+      "Menolak hasil pemilihan karena menganggap ada kecurangan",
+      "Tidak mau lagi ikut campur dalam kegiatan OSIS selama ia menjabat",
+      "Membujuk teman-teman untuk tidak mematuhi ketua OSIS yang baru"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Sikap demokratis sejati bukan hanya tentang memberikan hak suara, tetapi juga menghormati keputusan mayoritas dan mendukung kebaikan bersama.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-015",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Kedaulatan Rakyat",
+    "pertanyaan": "Pasal 1 Ayat (2) UUD NRI Tahun 1945 berbunyi 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.' Makna kedaulatan di tangan rakyat adalah...",
+    "jawabanBenar": "Rakyat adalah pemegang kekuasaan tertinggi negara yang pelaksanaannya diwakilkan melalui pemilu",
+    "pengecoh": [
+      "Rakyat bebas melakukan apa saja tanpa perlu mematuhi aturan hukum",
+      "Presiden memegang kekuasaan mutlak untuk mengatur rakyat",
+      "Kekuasaan negara berada di tangan tentara dan kepolisian"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kedaulatan rakyat (demokrasi) berarti kekuasaan tertinggi ada pada rakyat, yang disalurkan secara konstitusional melalui sistem perwakilan dan pemilu.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-016",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Bela Negara",
+    "pertanyaan": "Upaya bela negara bukan hanya tugas aparat militer (TNI/Polri). Sebagai pelajar SMP, wujud bela negara yang paling tepat dan relevan adalah...",
+    "jawabanBenar": "Belajar dengan rajin untuk meraih prestasi dan memajukan bangsa",
+    "pengecoh": [
+      "Membeli senjata tajam untuk menjaga keamanan lingkungan kampung",
+      "Ikut berperang di daerah perbatasan negara",
+      "Melakukan aksi unjuk rasa setiap hari mengkritik pemerintah"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Bela negara non-fisik bagi pelajar adalah dengan mempersiapkan diri melalui pendidikan agar kelak dapat berkontribusi positif bagi kemajuan bangsa.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-017",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Keberagaman Masyarakat",
+    "pertanyaan": "Dalam sebuah kelompok belajar, terdapat siswa dari suku Jawa, Batak, dan Minang. Agar tugas kelompok dapat selesai dengan baik, sikap yang harus diutamakan adalah...",
+    "jawabanBenar": "Fokus pada kerja sama dan saling menghargai tanpa mempermasalahkan perbedaan suku",
+    "pengecoh": [
+      "Menyerahkan seluruh tugas kepada siswa yang dianggap paling pintar di sukunya",
+      "Hanya mau berdiskusi menggunakan bahasa daerah masing-masing",
+      "Memisahkan tugas berdasarkan latar belakang budaya agar tidak bertengkar"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Kerja sama dan sikap saling menghargai (toleransi) adalah kunci keberhasilan dalam masyarakat/kelompok yang majemuk.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-018",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Toleransi",
+    "pertanyaan": "Sikap toleransi umat beragama dalam kehidupan sehari-hari bukan berarti kita mengikuti ajaran agama lain, melainkan...",
+    "jawabanBenar": "Memberikan kebebasan dan menghormati pemeluk agama lain dalam menjalankan ibadahnya",
+    "pengecoh": [
+      "Mencampuradukkan ajaran berbagai agama agar menjadi satu agama baru",
+      "Ikut serta merayakan semua ritual keagamaan umat lain di tempat ibadahnya",
+      "Membatasi waktu ibadah agama lain agar tidak mengganggu ketertiban umum"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Toleransi beragama adalah sikap pasif menghargai dan tidak mengganggu, bukan sinkretisme (mencampuradukkan) atau kompromi akidah.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-019",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Musyawarah",
+    "pertanyaan": "Dalam rapat pembentukan panitia pentas seni sekolah, musyawarah untuk mufakat ternyata mengalami jalan buntu karena ada dua pendapat yang sama kuat. Langkah demokratis selanjutnya yang sesuai dengan nilai Pancasila adalah...",
+    "jawabanBenar": "Melakukan pemungutan suara terbanyak (voting) dengan tetap menjaga persatuan",
+    "pengecoh": [
+      "Membatalkan seluruh rencana pentas seni agar tidak ada yang sakit hati",
+      "Menyerahkan keputusan sepenuhnya secara sepihak kepada kepala sekolah",
+      "Memaksa salah satu pihak untuk mengalah dengan cara intimidasi"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Jika musyawarah mufakat tidak tercapai setelah upaya maksimal, pengambilan keputusan dapat dilakukan melalui pemungutan suara terbanyak (voting) yang disepakati bersama.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-020",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Hak dan Kewajiban",
+    "pertanyaan": "Mengapa dalam kehidupan berbangsa dan bernegara, pemenuhan kewajiban harus dilaksanakan terlebih dahulu atau seimbang dengan tuntutan hak?",
+    "jawabanBenar": "Karena hak yang kita peroleh merupakan akibat dari terlaksananya kewajiban dan tanggung jawab kita",
+    "pengecoh": [
+      "Karena pemerintah hanya akan mendengarkan orang yang rajin membayar pajak",
+      "Karena hak asasi manusia sebenarnya tidak berlaku di negara berkembang",
+      "Karena kewajiban lebih mudah dilakukan daripada menuntut hak hukum"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Hak dan kewajiban ibarat dua sisi mata uang. Seseorang berhak mendapatkan sesuatu (misal gaji atau fasilitas negara) jika ia telah menunaikan kewajibannya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-021",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Hak dan Kewajiban",
+    "pertanyaan": "Setiap manusia memiliki hak yang melekat sejak lahir sebagai anugerah Tuhan, yang disebut Hak Asasi Manusia (HAM). Perbedaan utama antara HAM dan Hak Warga Negara adalah...",
+    "jawabanBenar": "HAM bersifat universal tanpa batas negara, sedangkan Hak Warga Negara dibatasi oleh status kewarganegaraan seseorang",
+    "pengecoh": [
+      "HAM diberikan oleh pemerintah, sedangkan Hak Warga Negara diberikan oleh Tuhan",
+      "HAM hanya berlaku bagi orang dewasa, sedangkan Hak Warga Negara berlaku sejak lahir",
+      "HAM dapat dicabut oleh polisi, sedangkan Hak Warga Negara berlaku mutlak selamanya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "HAM melekat pada kodrat manusia (universal), sedangkan hak warga negara (seperti hak memilih dalam pemilu) hanya dimiliki oleh warga negara resmi dari suatu negara.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-022",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Identitas Nasional",
+    "pertanyaan": "Di tengah gempuran budaya asing melalui internet, sekelompok remaja di desa tetap rutin berlatih tari tradisional dan memainkan alat musik daerah. Upaya para remaja tersebut merupakan bentuk pelestarian...",
+    "jawabanBenar": "Identitas nasional bangsa",
+    "pengecoh": [
+      "Ideologi liberalisme",
+      "Nasionalisme chauvinisme",
+      "Globalisasi budaya"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Budaya daerah merupakan akar budaya nasional yang membentuk identitas bangsa. Melestarikannya berarti menjaga jati diri bangsa dari ancaman homogenisasi global.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-023",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Keberagaman Masyarakat",
+    "pertanyaan": "Indonesia memiliki ratusan suku, bahasa, dan budaya. Cara pandang yang paling tepat terhadap fakta keberagaman tersebut dalam bingkai NKRI adalah...",
+    "jawabanBenar": "Keberagaman adalah kekayaan dan potensi besar bangsa yang harus dikelola dengan toleransi",
+    "pengecoh": [
+      "Keberagaman adalah ancaman laten yang pasti akan memecah belah negara cepat atau lambat",
+      "Keberagaman harus dihilangkan secara perlahan agar negara menjadi kuat dan seragam",
+      "Keberagaman membuktikan bahwa Indonesia tidak siap menjadi negara modern"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Keberagaman bukan kelemahan, melainkan aset dan kekayaan kultural yang memperkuat identitas bangsa jika dirawat dengan semboyan Bhinneka Tunggal Ika.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-024",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Konstitusi dan Norma",
+    "pertanyaan": "Fungsi pokok sebuah konstitusi (seperti UUD 1945) bagi sebuah negara hukum yang demokratis adalah...",
+    "jawabanBenar": "Membatasi kekuasaan pemerintah agar tidak bertindak sewenang-wenang terhadap rakyat",
+    "pengecoh": [
+      "Memberikan kekuasaan mutlak kepada presiden dalam keadaan darurat",
+      "Menentukan agama resmi yang harus dianut oleh seluruh warga negara",
+      "Meniadakan hak asasi manusia demi kepentingan keamanan militer"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Dalam negara demokrasi/hukum, konstitusi berfungsi membatasi kekuasaan penyelenggara negara (konstitusionalisme) serta menjamin hak-hak asasi warga negaranya.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-025",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Kehidupan Bermasyarakat",
+    "pertanyaan": "Masyarakat di suatu kampung rutin melakukan ronda malam (siskamling) secara bergiliran. Partisipasi warga dalam siskamling mencerminkan kesadaran akan...",
+    "jawabanBenar": "Tanggung jawab menjaga keamanan dan ketertiban lingkungan bersama",
+    "pengecoh": [
+      "Hak untuk mendapatkan bayaran dari ketua RT",
+      "Kewajiban menakut-nakuti pendatang baru di kampung",
+      "Keinginan untuk mencampuri urusan pribadi tetangga"
+    ],
+    "difficulty": "MEDIUM",
+    "explanation": "Ronda malam adalah wujud gotong royong dan kesadaran akan tanggung jawab kewarganegaraan di tingkat lingkungan (Sila ke-3 dan ke-5).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-026",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Penerapan Pancasila",
+    "pertanyaan": "Seorang bupati merumuskan peraturan daerah baru yang disusun berdasarkan nilai-nilai agama, persatuan, dan keadilan sosial yang tercantum dalam Pancasila. Namun dalam kehidupan sehari-hari, sang bupati sering bersikap angkuh dan tidak mau bertegur sapa dengan tetangganya. Analisis yang tepat dari situasi tersebut adalah...",
+    "jawabanBenar": "Bupati tersebut berhasil menerapkan Pancasila sebagai Dasar Negara dalam pemerintahannya, tetapi gagal menerapkannya sebagai Pandangan Hidup pribadi.",
+    "pengecoh": [
+      "Bupati tersebut melanggar hukum tata negara karena mencampurkan nilai agama dalam peraturan daerah.",
+      "Sikap angkuh bupati dapat dibenarkan karena jabatannya lebih tinggi dari masyarakat biasa.",
+      "Pancasila tidak berlaku untuk kehidupan pribadi bupati, melainkan hanya untuk peraturan pemerintah."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Dasar Negara berkaitan dengan pembuatan regulasi/kebijakan formal (yang dilakukan dengan benar). Pandangan Hidup berkaitan dengan etika/tingkah laku moral individu sehari-hari (yang gagal dilakukan bupati).",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-027",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Analisis Hak dan Kewajiban",
+    "pertanyaan": "Budi memutar musik rock dengan volume maksimal di kamarnya pada tengah malam dengan alasan 'Ini adalah hak asasi saya untuk berekspresi dan mencari hiburan'. Akibatnya, tetangga Budi yang sedang sakit tidak bisa beristirahat. Evaluasi yang tepat berdasarkan prinsip HAM di Indonesia adalah...",
+    "jawabanBenar": "Alasan Budi salah, karena pelaksanaan hak asasi seseorang dibatasi oleh hak asasi orang lain yang harus dihormati.",
+    "pengecoh": [
+      "Alasan Budi benar mutlak, karena kebebasan berekspresi dijamin oleh UUD 1945 tanpa pengecualian.",
+      "Tetangga Budi yang salah karena tidak memiliki ruang kedap suara untuk orang sakit.",
+      "Budi hanya boleh memutar musik tersebut jika ia membayar kompensasi kepada tetangganya."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Di Indonesia, pelaksanaan HAM tunduk pada pembatasan yang ditetapkan undang-undang (Pasal 28J UUD 1945) untuk menjamin pengakuan serta penghormatan atas hak dan kebebasan orang lain.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-028",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Resolusi Konflik (Sila ke-4)",
+    "pertanyaan": "Terjadi perselisihan antara dua kelompok pemuda desa karena kesalahpahaman saat pertandingan sepak bola. Perselisihan memanas dan hampir terjadi bentrokan fisik. Solusi penyelesaian konflik yang paling mencerminkan pengamalan Sila Keempat adalah...",
+    "jawabanBenar": "Tokoh masyarakat mempertemukan perwakilan kedua kelompok untuk berdialog mencari akar masalah dan bermusyawarah mufakat.",
+    "pengecoh": [
+      "Kepala desa langsung menjatuhkan denda besar kepada kedua kelompok agar mereka jera dan takut berbuat keributan.",
+      "Kelompok yang memiliki anggota lebih banyak dinyatakan sebagai pemenang konflik.",
+      "Polisi menangkap seluruh pemuda dari kedua desa tanpa memintai keterangan terlebih dahulu."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Sila keempat mengedepankan kebijaksanaan dan musyawarah. Dialog dan mediasi oleh tokoh masyarakat adalah cara demokratis (musyawarah) untuk mencegah kekerasan.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-029",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Amandemen UUD 1945",
+    "pertanyaan": "Batang Tubuh (Pasal-pasal) UUD NRI Tahun 1945 telah diamandemen sebanyak empat kali untuk menyesuaikan dengan perkembangan zaman. Namun, Pembukaan UUD 1945 sama sekali tidak pernah diubah. Alasan fundamental mengapa Pembukaan UUD 1945 tidak boleh diubah adalah...",
+    "jawabanBenar": "Karena di dalamnya terdapat Pancasila sebagai dasar negara dan tujuan negara; mengubahnya berarti membubarkan Negara Kesatuan Republik Indonesia.",
+    "pengecoh": [
+      "Karena Pembukaan UUD 1945 ditulis menggunakan bahasa kuno yang tidak ada lagi ahli bahasa yang mampu menerjemahkannya.",
+      "Karena aturan internasional melarang setiap negara mengubah teks dokumen kemerdekaannya setelah 50 tahun.",
+      "Karena proses mengubah Pembukaan membutuhkan persetujuan seluruh negara anggota Perserikatan Bangsa-Bangsa."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pembukaan UUD 1945 memuat statuta fundamental (Staatsfundamentalnorm), yakni Pancasila dan proklamasi. Mengubahnya identik dengan membongkar fondasi berdirinya negara RI.",
+    "challengeType": "IDENTIFY"
+  },
+  {
+    "id": "FD-PAN-030",
+    "jenjang": "SMP",
+    "kelasAtauFase": "Fase D",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "topik": "Tantangan Globalisasi",
+    "pertanyaan": "Era digital membuat budaya asing sangat mudah masuk ke Indonesia dan memengaruhi gaya hidup remaja. Cara bersikap yang paling kritis dan berlandaskan Pancasila dalam menghadapi fenomena ini adalah...",
+    "jawabanBenar": "Menyaring informasi dan budaya yang masuk menggunakan nilai-nilai moral Pancasila, serta mengambil hal positif seperti etos kerja dan disiplin.",
+    "pengecoh": [
+      "Menutup akses internet sepenuhnya agar generasi muda tidak terkontaminasi budaya luar sama sekali.",
+      "Menerima seluruh tren budaya asing agar bangsa Indonesia dianggap modern dan tidak tertinggal zaman.",
+      "Hanya berteman dengan orang-orang dari negara maju di media sosial agar terlihat keren."
+    ],
+    "difficulty": "HARD",
+    "explanation": "Pancasila berfungsi sebagai filter (penyaring). Bangsa yang kuat tidak menutup diri (isolasi), tetapi juga tidak menerima mentah-mentah (westernisasi/asimilasi buta). Kita harus selektif.",
+    "challengeType": "IDENTIFY"
+  }
+]
